@@ -873,7 +873,7 @@
       <edge id="1342" source="plant-domestication" target="food-production"/>
       <edge id="1343" source="animal-domestication" target="food-production"/>
       <edge id="1344" source="plants" target="clothes"/>
-      <edge id="1345" source="humans" target="gabs"/>
+      <edge id="1345" source="humans" target="gabs" weight="4.0"/>
     </edges>
   </graph>
 </gexf>
