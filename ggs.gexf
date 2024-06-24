@@ -554,6 +554,14 @@
         <viz:position x="-148.2456" y="-2.6247134"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
+      <node id="gabs" label="Gabs">
+        <attvalues>
+          <attvalue for="modularity class" value="0"/>
+        </attvalues>
+        <viz:size value="3.0"/>
+        <viz:position x="-149.2456" y="-2.7247134"/>
+        <viz:color r="226" g="199" b="255"/>
+      </node>
     </nodes>
     <edges>
       <edge id="896" source="societal-advantage" target="people" weight="2.0"/>
@@ -865,6 +873,7 @@
       <edge id="1342" source="plant-domestication" target="food-production"/>
       <edge id="1343" source="animal-domestication" target="food-production"/>
       <edge id="1344" source="plants" target="clothes"/>
+      <edge id="1345" source="humans" target="gabs"/>
     </edges>
   </graph>
 </gexf>
