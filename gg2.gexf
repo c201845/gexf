@@ -1,21 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gexf xmlns="http://www.gexf.net/1.2draft" version="1.2">
-  <meta lastmodifieddate="2024-06-26">
-    <creator>Your Name</creator>
-    <description>A simple graph example</description>
-  </meta>
   <graph mode="static" defaultedgetype="directed">
     <nodes>
-      <node id="1" label="Node 1"/>
-      <node id="2" label="Node 2"/>
-      <node id="3" label="Node 3"/>
-      <node id="4" label="Node 4"/>
+      <node id="australia" label="Australia">
+        <attvalues>
+          <attvalue for="modularity class" value="0"/>
+        </attvalues>
+        <viz:size value="16.851852"/>
+        <viz:position x="234.58064" y="-114.35716"/>
+        <viz:color r="226" g="139" b="255"/>
+      </node>
+      <node id="sydney" label="Sydney">
+        <attvalues>
+          <attvalue for="modularity class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="250.0" y="-120.0"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="melbourne" label="Melbourne">
+        <attvalues>
+          <attvalue for="modularity class" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="200.0" y="-100.0"/>
+        <viz:color r="0" g="255" b="0"/>
+      </node>
+      <node id="perth" label="Perth">
+        <attvalues>
+          <attvalue for="modularity class" value="1"/>
+        </attvalues>
+        <viz:size value="7.0"/>
+        <viz:position x="260.0" y="-150.0"/>
+        <viz:color r="0" g="0" b="255"/>
+      </node>
     </nodes>
     <edges>
-      <edge id="1" source="1" target="2"/>
-      <edge id="2" source="1" target="3"/>
-      <edge id="3" source="2" target="4"/>
-      <edge id="4" source="3" target="4"/>
+      <edge id="1" source="australia" target="sydney" label="Connects to" weight="1.0">
+        <attvalues/>
+      </edge>
+      <edge id="2" source="australia" target="melbourne" label="Connects to" weight="1.0">
+        <attvalues/>
+      </edge>
+      <edge id="3" source="australia" target="perth" label="Connects to" weight="1.0">
+        <attvalues/>
+      </edge>
     </edges>
   </graph>
 </gexf>
