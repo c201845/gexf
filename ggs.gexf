@@ -66,13 +66,18 @@
         <viz:position x="-63.76577" y="-104.28358"/>
         <viz:color r="105" g="196" b="4"/>
       </node>
-      <node id="humans" label="Humans" description="ilhviorehkfdbnkvgefiugrildndkbvkd">
+      <node id="humans" label="Humans">
         <attvalues>
           <attvalue for="modularity class" value="1"/>
         </attvalues>
         <viz:size value="3.8148148"/>
         <viz:position x="-204.15259" y="208.37468"/>
         <viz:color r="0" g="199" b="255"/>
+        <text>
+          <![CDATA[
+          Societal advantage refers to the benefits or privileges that one group of people has over others within a society. This concept can encompass economic, political, and social advantages that result from historical, cultural, or systemic factors.
+          ]]>
+        </text>
       </node>
       <node id="europe" label="Europe">
         <attvalues>
