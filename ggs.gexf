@@ -67,7 +67,7 @@
         <viz:color r="105" g="196" b="4"/>
       </node>
 
-      <node id="humans" label="Humans">
+      <node id="humans" label="Humans" description="This is the first node. It represents X, Y, Z information.">
       <attvalues>
         <attvalue for="modularity class" value="1" />
       </attvalues>
