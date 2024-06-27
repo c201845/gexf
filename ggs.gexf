@@ -7,7 +7,7 @@
   </meta>
   <graph defaultedgetype="undirected" mode="static">
     <attributes class="node" mode="static">
-      <attribute id="modularity class" title="modularity class" type="integer"/>
+      <attribute id="modularity class" title="modularity class" type="string"/>
     </attributes>
     <nodes>
       <node id="societal-advantage" label="Societal advantage">
@@ -69,7 +69,7 @@
 
       <node id="humans" label="Humans">
       <attvalues>
-        <attvalue for="modularity class" value="1"/>
+        <attvalue for="modularity class" value="jdbckdbguirbjkcbdsfbwirofbekdbckudviuewvdkwbdjkebvke" />
       </attvalues>
       <viz:size value="3.8148148"/>
       <viz:position x="-204.15259" y="208.37468"/>
