@@ -66,7 +66,7 @@
         <viz:position x="-63.76577" y="-104.28358"/>
         <viz:color r="105" g="196" b="4"/>
       </node>
-      <node id="humans" label="kjbfdiogoirifobdigiorghkdboibiobdiobobgirbogbroi">
+      <node id="humans" label="foprgprohdoighiorgouvfjgiorgriku">
         <attvalues>
           <attvalue for="modularity class" value="1"/>
         </attvalues>
@@ -641,8 +641,8 @@
       <edge id="993" source="animal-domestication" target="asia"/>
       <edge id="994" source="animal-domestication" target="europe"/>
       <edge id="995" source="animal-domestication" target="africa"/>
-      <edge id="996" source="fhuirhgohfkdhogihr9ghodhkrbgiorhgviodhjkrbgoireiofgekfbriowgfiodbvkdsbgoi" target="animals"/>
-      <edge id="997" source="fhuirhgohfkdhogihr9ghodhkrbgiorhgviodhjkrbgoireiofgekfbriowgfiodbvkdsbgoi" target="americas"/>
+      <edge id="996" source="humans" target="animals"/>
+      <edge id="997" source="humans" target="americas"/>
       <edge id="998" source="food-production-inequalities" target="people" weight="3.0"/>
       <edge id="999" source="food-production-inequalities" target="environment" weight="4.0"/>
       <edge id="1000" source="food-production-inequalities" target="fertile-crescent" weight="2.0"/>
