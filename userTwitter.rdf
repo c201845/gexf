@@ -48,7 +48,9 @@
 
 
 
-    <owl:Class rdf:about="http://www.semanticweb.org/c2018450/ontologies/2024/6/TwitterUser#UserAccount"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/c2018450/ontologies/2024/6/TwitterUser#UserAccount">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UserAccount</rdfs:label>
+    </owl:Class>
  
     
 
