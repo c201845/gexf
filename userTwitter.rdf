@@ -62,7 +62,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/c2018450/ontologies/2024/6/TwitterUser#Tom">
         <TwitterUser:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</TwitterUser:age>
-        <TwitterUser:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alice</TwitterUser:name>
+        <TwitterUser:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tom</TwitterUser:name>
     </owl:NamedIndividual>
 </rdf:RDF>
 
