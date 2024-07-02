@@ -38,14 +38,6 @@
 
     <owl:Class rdf:about="#Age"/>
 
-    <owl:Class rdf:about="#Alice">
-        <rdfs:subClassOf rdf:resource="#UserAccount"/>
-    </owl:Class>
-
-    <owl:Class rdf:about="#Tom">
-        <rdfs:subClassOf rdf:resource="#UserAccount"/>
-    </owl:Class>
-
     <!-- Individuals -->
     <owl:NamedIndividual rdf:about="#Age25">
         <rdf:type rdf:resource="#Age"/>
@@ -58,18 +50,16 @@
     </owl:NamedIndividual>
 
     <owl:NamedIndividual rdf:about="#Alice">
-        <rdf:type rdf:resource="#Alice"/>
-        <TwitterUser:hasAge rdf:resource="#Age25"/>
-        <TwitterUser:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</TwitterUser:age>
+        <rdf:type rdf:resource="#UserAccount"/>
         <TwitterUser:name>Alice</TwitterUser:name>
+        <TwitterUser:hasAge rdf:resource="#Age25"/>
         <TwitterUser:likes rdf:resource="#Tom"/>
     </owl:NamedIndividual>
 
     <owl:NamedIndividual rdf:about="#Tom">
-        <rdf:type rdf:resource="#Tom"/>
-        <TwitterUser:hasAge rdf:resource="#Age30"/>
-        <TwitterUser:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</TwitterUser:age>
+        <rdf:type rdf:resource="#UserAccount"/>
         <TwitterUser:name>Tom</TwitterUser:name>
+        <TwitterUser:hasAge rdf:resource="#Age30"/>
     </owl:NamedIndividual>
 
 </rdf:RDF>
