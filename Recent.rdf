@@ -49,16 +49,4 @@
         <Recent:location>London</Recent:location>
     </owl:NamedIndividual>
 
-    <!-- Assertion for Tom's age and location -->
-    <rdf:Description rdf:about="http://www.semanticweb.org/c2018450/ontologies/2024/6/Recent#TOM">
-        <Recent:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</Recent:age>
-        <Recent:location>London</Recent:location>
-    </rdf:Description>
-
-    <!-- Assertion for Alice's age and location -->
-    <rdf:Description rdf:about="http://www.semanticweb.org/c2018450/ontologies/2024/6/Recent#ALICE">
-        <Recent:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</Recent:age>
-        <Recent:location>Cardiff</Recent:location>
-    </rdf:Description>
-
 </rdf:RDF>
