@@ -39,14 +39,14 @@
     <!-- Individuals -->
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/c2018450/ontologies/2024/6/Recent#ALICE">
         <rdf:type rdf:resource="http://www.semanticweb.org/c2018450/ontologies/2024/6/Recent#Alice"/>
-        <Recent:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</Recent:age>
-        <Recent:location>Cardiff</Recent:location>
+        <age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</age>
+        <location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cardiff</location>
     </owl:NamedIndividual>
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/c2018450/ontologies/2024/6/Recent#TOM">
         <rdf:type rdf:resource="http://www.semanticweb.org/c2018450/ontologies/2024/6/Recent#Tom"/>
-        <Recent:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</Recent:age>
-        <Recent:location>London</Recent:location>
+        <age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</age>
+        <location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">London</location>
     </owl:NamedIndividual>
 
 </rdf:RDF>
