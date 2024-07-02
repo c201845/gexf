@@ -18,8 +18,8 @@
     </owl:ObjectProperty>
 
     <owl:ObjectProperty rdf:about="#likes">
-        <rdfs:domain rdf:resource="#Alice"/>
-        <rdfs:range rdf:resource="#Tom"/>
+        <rdfs:domain rdf:resource="#UserAccount"/>
+        <rdfs:range rdf:resource="#UserAccount"/>
     </owl:ObjectProperty>
 
     <!-- Data Properties -->
@@ -63,3 +63,4 @@
     </owl:NamedIndividual>
 
 </rdf:RDF>
+
