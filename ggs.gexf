@@ -564,7 +564,7 @@
       </node>
     </nodes>
     <edges>
-      <edge id="896" source="societal-advantage" target="people" weight="2.0"/>
+      <edge id="896" source="societal-advantage" target="people" weight="2.0"  label="Your Label Here"/>
       <edge id="897" source="societal-advantage" target="environment" weight="3.0"/>
       <edge id="898" source="societal-advantage" target="climate" weight="3.0"/>
       <edge id="899" source="societal-advantage" target="irrigation"/>
