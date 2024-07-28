@@ -564,7 +564,7 @@
       </node>
     </nodes>
     <edges>
-      <edge id="896" source="societal-advantage" target="people" weight="2.0"  label="Your Label Here"/>
+      <edge id="896" source="societal-advantage" target="people" weight="2.0"/>
       <edge id="897" source="societal-advantage" target="environment" weight="3.0"/>
       <edge id="898" source="societal-advantage" target="climate" weight="3.0"/>
       <edge id="899" source="societal-advantage" target="irrigation"/>
@@ -574,7 +574,7 @@
       <edge id="903" source="societal-advantage" target="americas" weight="6.0"/>
       <edge id="905" source="societal-advantage" target="animals"/>
       <edge id="906" source="societal-advantage" target="europe" weight="11.0"/>
-      <edge id="907" source="americas" target="war"/>
+      <edge id="907" source="americas" target="war" label="Population to Animals"/>
       <edge id="908" source="americas" target="europe" weight="5.0"/>
       <edge id="909" source="americas" target="incas"/>
       <edge id="910" source="americas" target="pizarro"/>
