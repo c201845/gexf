@@ -574,7 +574,6 @@
       <edge id="903" source="societal-advantage" target="americas" weight="6.0"/>
       <edge id="905" source="societal-advantage" target="animals">
       <viz:shape value="dashed"/>
-      <viz:thickness value="2.0"/>
       </edge>
       <edge id="906" source="societal-advantage" target="europe" weight="11.0"/>
       <edge id="907" source="americas" target="war"/>
