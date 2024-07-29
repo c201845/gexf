@@ -630,7 +630,7 @@
           <attvalue for="modularity class" value="5"/>
         </attvalues>
         <viz:size value="10.0"/>
-        <viz:position x="278.2525" y="109.07782"/>
+        <viz:position x="-1061.2130" y="149.43300"/>
       </node>
       <node id="413" label="SomethingNew">
         <attvalues/>
