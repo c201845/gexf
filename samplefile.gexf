@@ -951,9 +951,9 @@
       <edge id="1343" source="animal-domestication" target="food-production"/>
       <edge id="1344" source="plants" target="clothes"/>
       <edge id="1345" source="humans" target="gabs"/>
-      <edge id="1347" source="asia" target="101" weight="11.0"/>
-      <edge id="1348" source="gabs" target="101" weight="11.0"/>
-      <edge id="1349" source="101" target="egypt" weight="11.0"/>
+      <edge id="1347" source="asia" target="101"/>
+      <edge id="1348" source="gabs" target="101" weight="2.0"/>
+      <edge id="1349" source="101" target="egypt" weight="2.0"/>
       <edge id="1350" source="102" target="war" weight="2.0"/>
       <edge id="1351" source="nutrition" target="103"/>
       <edge id="1352" source="china" target="104"/>
@@ -961,10 +961,10 @@
       <edge id="1354" source="106" target="europe"/>
       <edge id="1355" source="106" target="africa"/>
       <edge id="1356" source="106" target="germs"/>
-      <edge id="1357" source="111" target="sahel-zone" weight="11.0"/>
+      <edge id="1357" source="111" target="sahel-zone"/>
       <edge id="1358" source="111" target="107" weight="2.0"/>
-      <edge id="1359" source="107" target="australia" weight="3.0"/>
-      <edge id="1360" source="107" target="central-government" weight="3.0"/>
+      <edge id="1359" source="107" target="australia"/>
+      <edge id="1360" source="107" target="central-government"/>
       <edge id="1361" source="108" target="size"/>
       <edge id="1362" source="ethiopia" target="109"/>
       <edge id="1363" source="110" target="109"/>
