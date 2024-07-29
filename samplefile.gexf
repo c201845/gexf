@@ -2595,7 +2595,7 @@
       <edge id="1525" source="572" target="nutrition"/>
       <edge id="1526" source="573" target="chile"/>
       <edge id="1527" source="574" target="gabs"/>
-      <edge id="1528" source="524" target="gabs"/>
+      <edge id="1528" source="philosophy" target="gabs"/>
     </edges>
   </graph>
 </gexf>
