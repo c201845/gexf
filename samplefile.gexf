@@ -1418,7 +1418,7 @@
       </node>
       <node id="524" label="Philosophy ">
         <attvalues>
-          <attvalue for="modularity class" value="1"/>
+          <attvalue for="modularity class" value="2"/>
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-1600.5304" y="700.1038"/>
