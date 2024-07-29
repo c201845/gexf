@@ -1416,7 +1416,7 @@
         <viz:size value="10.0"/>
         <viz:position x="-116.57971" y="-373.3735"/>
       </node>
-      <node id="524" label="Philosophy ">
+      <node id="philosophy" label="Philosophy ">
         <attvalues>
           <attvalue for="modularity class" value="2"/>
         </attvalues>
@@ -2544,7 +2544,7 @@
       <edge id="1474" source="521" target="asia"/>
       <edge id="1475" source="522" target="writing"/>
       <edge id="1476" source="523" target="founder-package"/>
-      <edge id="1477" source="war" target="524"/>
+      <edge id="1477" source="war" target="philosophy"/>
       <edge id="1478" source="525" target="isolation"/>
       <edge id="1479" source="526" target="fertile-crescent"/>
       <edge id="1480" source="527" target="geography"/>
