@@ -1421,7 +1421,7 @@
           <attvalue for="modularity class" value="1"/>
         </attvalues>
         <viz:size value="10.0"/>
-        <viz:position x="225.16687" y="-114.419556"/>
+        <viz:position x="-1600.5304" y="700.1038"/>
       </node>
       <node id="525" label="Political Science ">
         <attvalues>
