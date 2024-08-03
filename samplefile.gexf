@@ -66,6 +66,14 @@
         <viz:position x="-766.74603" y="-58.63719"/>
         <viz:color r="105" g="196" b="4"/>
       </node>
+      <node id="sverigersradio.se" label="sverigersradio.se">
+        <attvalues>
+          <attvalue for="modularity class" value="4"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-777.74603" y="-60.63719"/>
+        <viz:color r="105" g="196" b="4"/>
+      </node>
       <node id="thejournal.ie" label="thejournal.ie.com">
         <attvalues>
           <attvalue for="modularity class" value="4"/>
@@ -1006,6 +1014,7 @@
       <edge id="1370" source="thejournal.ie" target="nsk.se" weight="2.0"/>
       <edge id="1371" source="Last Minute Consent" target="dailymail.co.uk" weight="2.0"/>
       <edge id="1372" source="webmd.com" target="Fake Scarcity" weight="2.0"/>
+      <edge id="1373" source="sverigersradio.se" target="Fake Scarcity" weight="2.0"/>
     </edges>
   </graph>
 </gexf>
