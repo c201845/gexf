@@ -314,7 +314,7 @@
         <viz:position x="878.445" y="-903.79004"/>
         <viz:color r="0" g="199" b="255"/>
       </node>
-      <node id="polynesia" label="polynesia">
+      <node id="cnn.com" label="cnn.com">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -681,7 +681,7 @@
         <viz:size value="10.0"/>
         <viz:position x="78.23053" y="-8.493042"/>
       </node>
-      <node id="111" label="Cultural Elements">
+      <node id="111" label="amazonseoconsultant.com">
         <attvalues>
           <attvalue for="modularity class" value="5"/>
         </attvalues>
@@ -805,7 +805,7 @@
       <edge id="1029" source="MVCA(e.g. False Hiearchy)" target="economictimes.indiatimes.com"/>
       <edge id="1031" source="germs" target="independent.co.uk"/>
       <edge id="1032" source="germs" target="americas" weight="2.0"/>
-      <edge id="1033" source="germs" target="polynesia"/>
+      <edge id="1033" source="germs" target="cnn.com"/>
       <edge id="1034" source="germs" target="nature.org" weight="2.0"/>
       <edge id="1035" source="germs" target="Social Engineering"/>
       <edge id="1036" source="germs" target="Sneaking - Baith and Switch"/>
@@ -815,7 +815,7 @@
       <edge id="1047" source="writing" target="epsom-sthelier.nhs.uk"/>
       <edge id="1048" source="writing" target="americas" weight="2.0"/>
       <edge id="1049" source="writing" target="nature.org"/>
-      <edge id="1050" source="writing" target="polynesia"/>
+      <edge id="1050" source="writing" target="cnn.com"/>
       <edge id="1051" source="writing" target="hawaii"/>
       <edge id="1052" source="technology" target="postimes.se" weight="3.0"/>
       <edge id="1053" source="technology" target="algarvedailynews.com"/>
@@ -858,8 +858,8 @@
       <edge id="1095" source="nature.org" target="nationalgeographic.com"/>
       <edge id="1096" source="nature.org" target="prombo.de"/>
       <edge id="1097" source="nature.org" target="Social Engineering"/>
-      <edge id="1098" source="polynesia" target="Sneaking - Baith and Switch"/>
-      <edge id="1099" source="polynesia" target="Social Engineering"/>
+      <edge id="1098" source="cnn.com" target="Sneaking - Baith and Switch"/>
+      <edge id="1099" source="cnn.com" target="Social Engineering"/>
       <edge id="1101" source="livescience.com" target="climate"/>
       <edge id="1106" source="Sneaking - Baith and Switch" target="aliexpress.com"/>
       <edge id="1107" source="Sneaking - Baith and Switch" target="Hidden Language Stipulations"/>
@@ -934,7 +934,7 @@
       <edge id="1201" source="longchamp.co.uk" target="east-longchamp.co.ukns"/>
       <edge id="1205" source="dailymail.co.uk" target="east-longchamp.co.ukns"/>
       <edge id="1206" source="austronesean-expansion" target="new-guinea"/>
-      <edge id="1207" source="austronesean-expansion" target="polynesia"/>
+      <edge id="1207" source="austronesean-expansion" target="cnn.com"/>
       <edge id="1208" source="austronesean-expansion" target="hawaii"/>
       <edge id="1209" source="austronesean-expansion" target="madagascar"/>
       <edge id="1210" source="austronesean-expansion" target="population-displacement"/>
@@ -973,12 +973,12 @@
       <edge id="1249" source="bantu" target="hindustantimes.com"/>
       <edge id="1250" source="bantu" target="technology"/>
       <edge id="1252" source="bantu" target="ebay.co.uk"/>
-      <edge id="1257" source="Hidden Language Stipulations" target="polynesia"/>
+      <edge id="1257" source="Hidden Language Stipulations" target="cnn.com"/>
       <edge id="1258" source="Hidden Language Stipulations" target="new-zealand"/>
       <edge id="1259" source="Hidden Language Stipulations" target="hawaii"/>
       <edge id="1260" source="Hidden Language Stipulations" target="climate"/>
       <edge id="1261" source="population-displacement" target="climate"/>
-      <edge id="1263" source="population-displacement" target="polynesia"/>
+      <edge id="1263" source="population-displacement" target="cnn.com"/>
       <edge id="1264" source="population-displacement" target="new-zealand"/>
       <edge id="1265" source="population-displacement" target="hawaii"/>
       <edge id="1266" source="new-guinea" target="germs"/>
@@ -1054,6 +1054,7 @@
       <edge id="1387" source="rbth.com"  target="Hidden Language Stipulations"/>
       <edge id="1388" source="vox.com"  target="Hidden Language Stipulations"/>
       <edge id="1389" source="ncbc.com"  target="Hidden Language Stipulations"/>
+      <edge id="1390" source="amazonseoconsultant.com"  target="Hidden Language Stipulations"/>
     </edges>
   </graph>
 </gexf>
