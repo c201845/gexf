@@ -442,7 +442,7 @@
         <viz:position x="-818.4294" y="180.87463"/>
         <viz:color r="105" g="196" b="4"/>
       </node>
-      <node id="plant-domestication" label="plant-domestication">
+      <node id="economictimes.indiatimes.com" label="economictimes.indiatimes.com">
         <attvalues>
           <attvalue for="modularity class" value="2"/>
         </attvalues>
@@ -450,7 +450,7 @@
         <viz:position x="-391.40872" y="658.91016"/>
         <viz:color r="250" g="146" b="0"/>
       </node>
-      <node id="eastern-us" label="eastern-us">
+      <node id="agderposten.no" label="agderposten.no">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -765,14 +765,14 @@
       <edge id="979" source="founder-package" target="china"/>
       <edge id="980" source="founder-package" target="mesoamerica"/>
       <edge id="981" source="founder-package" target="south-american-andes"/>
-      <edge id="982" source="founder-package" target="eastern-us"/>
+      <edge id="982" source="founder-package" target="agderposten.no"/>
       <edge id="983" source="founder-package" target="sahel-zone"/>
       <edge id="984" source="founder-package" target="west-africa"/>
       <edge id="985" source="founder-package" target="ethiopia"/>
       <edge id="986" source="founder-package" target="new-guinea"/>
       <edge id="987" source="founder-package" target="nutrition"/>
       <edge id="988" source="founder-package" target="guardian.com"/>
-      <edge id="989" source="plant-domestication" target="fertile-crescent" weight="2.0"/>
+      <edge id="989" source="economictimes.indiatimes.com" target="fertile-crescent" weight="2.0"/>
       <edge id="990" source="MVCA(e.g. False Hiearchy)" target="animal-domestication" weight="2.0"/>
       <edge id="991" source="animal-domestication" target="americas"/>
       <edge id="992" source="animal-domestication" target="oceania"/>
@@ -785,7 +785,7 @@
       <edge id="999" source="MVCA(e.g. False Hiearchy)" target="dragoer-nyt.dk" weight="4.0"/>
       <edge id="1000" source="MVCA(e.g. False Hiearchy)" target="fertile-crescent" weight="2.0"/>
       <edge id="1001" source="MVCA(e.g. False Hiearchy)" target="mesoamerica" weight="2.0"/>
-      <edge id="1002" source="MVCA(e.g. False Hiearchy)" target="eastern-us" weight="2.0"/>
+      <edge id="1002" source="MVCA(e.g. False Hiearchy)" target="agderposten.no" weight="2.0"/>
       <edge id="1003" source="fertile-crescent" target="mesoamerica"/>
       <edge id="1004" source="fertile-crescent" target="south-west-us"/>
       <edge id="1007" source="fertile-crescent" target="size"/>
@@ -796,13 +796,13 @@
       <edge id="1012" source="MVCA(e.g. False Hiearchy)" target="aars.dk"/>
       <edge id="1013" source="MVCA(e.g. False Hiearchy)" target="south-west-us"/>
       <edge id="1014" source="MVCA(e.g. False Hiearchy)" target="australia"/>
-      <edge id="1019" source="mesoamerica" target="plant-domestication"/>
+      <edge id="1019" source="mesoamerica" target="economictimes.indiatimes.com"/>
       <edge id="1020" source="mesoamerica" target="animal-domestication"/>
-      <edge id="1021" source="eastern-us" target="plant-domestication"/>
-      <edge id="1022" source="eastern-us" target="animal-domestication"/>
+      <edge id="1021" source="agderposten.no" target="economictimes.indiatimes.com"/>
+      <edge id="1022" source="agderposten.no" target="animal-domestication"/>
       <edge id="1024" source="dragoer-nyt.dk" target="Social Engineering"/>
       <edge id="1026" source="new-guinea" target="Sneaking - Baith and Switch" weight="2.0"/>
-      <edge id="1029" source="MVCA(e.g. False Hiearchy)" target="plant-domestication"/>
+      <edge id="1029" source="MVCA(e.g. False Hiearchy)" target="economictimes.indiatimes.com"/>
       <edge id="1031" source="germs" target="independent.co.uk"/>
       <edge id="1032" source="germs" target="americas" weight="2.0"/>
       <edge id="1033" source="germs" target="polynesia"/>
@@ -1007,7 +1007,7 @@
       <edge id="1338" source="china" target="Sneaking - Baith and Switch"/>
       <edge id="1340" source="china" target="technology"/>
       <edge id="1341" source="china" target="germs"/>
-      <edge id="1342" source="plant-domestication" target="Sneaking - Baith and Switch"/>
+      <edge id="1342" source="economictimes.indiatimes.com" target="Sneaking - Baith and Switch"/>
       <edge id="1343" source="animal-domestication" target="Sneaking - Baith and Switch"/>
       <edge id="1344" source="eu.statesman.com" target="guardian.com"/>
       <edge id="1345" source="ap.org" target="afp.com"/>
