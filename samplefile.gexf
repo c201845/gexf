@@ -674,7 +674,7 @@
         <viz:size value="10.0"/>
         <viz:position x="-137.22552" y="117.64569"/>
       </node>
-      <node id="110" label="finlandtoday.fi">
+      <node id="110" label="Economic Factors">
         <attvalues>
           <attvalue for="modularity class" value="2"/>
         </attvalues>
@@ -1050,7 +1050,7 @@
       <edge id="1383" source="Hidden Language Stipulations"  target="livescience.com"/>
       <edge id="1384" source="Hidden Language Stipulations"  target="epsom-sthelier.nhs.uk"/>
       <edge id="1385" source="Hidden Language Stipulations"  target="guardian.com"/>
-      <edge id="1386" source="Hidden Language Stipulations"  target="finlandtoday.fi"/>
+
     </edges>
   </graph>
 </gexf>
