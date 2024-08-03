@@ -667,7 +667,7 @@
         <viz:size value="10.0"/>
         <viz:position x="107.096436" y="140.73242"/>
       </node>
-      <node id="109" label="Space Exploration">
+      <node id="109" label="finlandtoday.fi">
         <attvalues>
           <attvalue for="modularity class" value="1"/>
         </attvalues>
@@ -1050,7 +1050,8 @@
       <edge id="1383" source="Hidden Language Stipulations"  target="livescience.com"/>
       <edge id="1384" source="Hidden Language Stipulations"  target="epsom-sthelier.nhs.uk"/>
       <edge id="1385" source="Hidden Language Stipulations"  target="guardian.com"/>
-
+      <edge id="1386" source="finlandtoday.fi"  target="Hidden Language Stipulations"/>
+       
     </edges>
   </graph>
 </gexf>
