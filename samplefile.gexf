@@ -210,6 +210,14 @@
         <viz:position x="-1029.5304" y="622.1038"/>
         <viz:color r="255" g="93" b="133"/>
       </node>
+      <node id="Last Minute Consent" label="Last Minute Consent">
+        <attvalues>
+          <attvalue for="modularity class" value="6"/>
+        </attvalues>
+        <viz:size value="55.555553"/>
+        <viz:position x="-900.5304" y="600.1038"/>
+        <viz:color r="255" g="93" b="133"/>
+      </node>
       <node id="food-production-inequalities" label="food-production-inequalities">
         <attvalues>
           <attvalue for="modularity class" value="4"/>
@@ -988,6 +996,8 @@
       <edge id="1368" source="new-guinea" target="111"/>
       <edge id="1369" source="106" target="413"/>
       <edge id="1370" source="thejournal.ie" target="nsk.se" weight="2.0"/>
+      <edge id="1371" source="Last Minute Consent" target="dailymail.co.uk" weight="2.0"/>
+
     </edges>
   </graph>
 </gexf>
