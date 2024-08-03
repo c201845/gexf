@@ -674,7 +674,7 @@
         <viz:size value="10.0"/>
         <viz:position x="-137.22552" y="117.64569"/>
       </node>
-      <node id="110" label="Economic Factors">
+      <node id="space.com" label="space.com">
         <attvalues>
           <attvalue for="modularity class" value="2"/>
         </attvalues>
@@ -1027,8 +1027,8 @@
       <edge id="1360" source="udfordringen.dk" target="nsk.se"/>
       <edge id="1361" source="zdnet.com" target="staple.co.uk"/>
       <edge id="1362" source="ebay.co.uk" target="golf-alcanada.com"/>
-      <edge id="1363" source="110" target="golf-alcanada.com"/>
-      <edge id="1364" source="110" target="icelandreview.com"/>
+      <edge id="1363" source="space.com" target="golf-alcanada.com"/>
+      <edge id="1364" source="space.com" target="icelandreview.com"/>
       <edge id="1365" source="aduna.com" target="111"/>
       <edge id="1366" source="111" target="af.reuters.com"/>
       <edge id="1367" source="111" target="102"/>
@@ -1057,6 +1057,9 @@
       <edge id="1390" source="horseanddrideuk.com"  target="Hidden Language Stipulations"/>
       <edge id="1391" source="icelandreview.com"  target="Interface Inference (e.g. Choice Fatigue)"/>
       <edge id="1392" source="channel4.com"  target="Interface Inference (e.g. Choice Fatigue)"/>
+      <edge id="1393" source="channel4.com"  target="Forced Action"/>
+      <edge id="1394" source="channel4.com"  target="Social Engineering"/>
+      
     </edges>
   </graph>
 </gexf>
