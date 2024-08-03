@@ -681,7 +681,7 @@
         <viz:size value="10.0"/>
         <viz:position x="78.23053" y="-8.493042"/>
       </node>
-      <node id="111" label="Cultural Elements">
+      <node id="wordpress.com" label="wordpress.com">
         <attvalues>
           <attvalue for="modularity class" value="5"/>
         </attvalues>
@@ -1021,18 +1021,18 @@
       <edge id="1354" source="nytimes.com" target="Hidden Language Stipulations"/>
       <edge id="1355" source="nytimes.com" target="nature.org"/>
       <edge id="1356" source="nytimes.com" target="hellomagazine.com"/>
-      <edge id="1357" source="111" target="hindustantimes.com"/>
-      <edge id="1358" source="111" target="udfordringen.dk" weight="2.0"/>
+      <edge id="1357" source="wordpress.com" target="hindustantimes.com"/>
+      <edge id="1358" source="wordpress.com" target="udfordringen.dk" weight="2.0"/>
       <edge id="1359" source="udfordringen.dk" target="spacefoundation.org"/>
       <edge id="1360" source="udfordringen.dk" target="nsk.se"/>
       <edge id="1361" source="zdnet.com" target="staple.co.uk"/>
       <edge id="1362" source="ebay.co.uk" target="golf-alcanada.com"/>
       <edge id="1363" source="space.com" target="golf-alcanada.com"/>
       <edge id="1364" source="space.com" target="icelandreview.com"/>
-      <edge id="1365" source="aduna.com" target="111"/>
-      <edge id="1366" source="111" target="af.reuters.com"/>
-      <edge id="1367" source="111" target="102"/>
-      <edge id="1368" source="twitter.com" target="111"/>
+      <edge id="1365" source="aduna.com" target="wordpress.com"/>
+      <edge id="1366" source="wordpress.com" target="af.reuters.com"/>
+      <edge id="1367" source="wordpress.com" target="102"/>
+      <edge id="1368" source="twitter.com" target="wordpress.com"/>
       <edge id="1369" source="nytimes.com" target="reddit.com"/>
       <edge id="1370" source="thejournal.ie" target="nsk.se" weight="2.0"/>
       <edge id="1371" source="Last Minute Consent" target="dailymail.co.uk" weight="2.0"/>
