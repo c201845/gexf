@@ -1115,12 +1115,7 @@
       <edge id="1408" source="eu.statesman.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
       <edge id="1409" source="eu.statesman.com" target="bloomberg.com"/>
       <edge id="1410" source="eu.statesman.com" target="berlingskemdia.dk"/>
-      <edge id="1411" source="firstnews.co.uk" target="Obstruction"/>
-      <edge id="1412" source="manilatimes.net" target="Obstruction"/>
-      <edge id="1413" source="spotify.com" target="Obstruction"/>
-      <edge id="1414" source="nypost.com" target="Obstruction"/>
-      <edge id="1415" source="twitter.com" target="Obstruction"/>
-      <edge id="1416" source="dailymail.co.uk" target="Obstruction"/>
+      
     </edges>
   </graph>
 </gexf>
