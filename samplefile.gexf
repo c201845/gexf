@@ -1045,6 +1045,10 @@
       <edge id="1378" source="MVCA(e.g. False Hiearchy)" target="hindustantimes.com"/>
       <edge id="1379" source="Hidden Language Stipulations" target="ebay.co.uk"/>
       <edge id="1380" source="Hidden Language Stipulations"  target="krakowpost.com"/>
+      <edge id="1381" source="Hidden Language Stipulations"  target="hindustantimes.com"/>
+      <edge id="1382" source="Hidden Language Stipulations"  target="berlingskemdia.dk"/>
+      <edge id="1383" source="Hidden Language Stipulations"  target="livescience.com"/>
+      <edge id="1384" source="Hidden Language Stipulations"  target="epsom-sthelier.nhs.uk"/>
     
     </edges>
   </graph>
