@@ -18,7 +18,7 @@
         <viz:position x="1057.6254" y="519.3347"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="societal-advantage" label="societal-advantage">
+      <node id="Forced Action(e.g. Bundle Consent, Privacy Zickering)" label="Forced Action(e.g. Bundle Consent, Privacy Zickering)">
         <attvalues>
           <attvalue for="modularity class" value="4"/>
         </attvalues>
@@ -346,6 +346,14 @@
         <viz:position x="-823.7625" y="-807.5206"/>
         <viz:color r="0" g="199" b="255"/>
       </node>
+      <node id="euractiv.com" label="euractiv.com">
+        <attvalues>
+          <attvalue for="modularity class" value="1"/>
+        </attvalues>
+        <viz:size value="18.222221"/>
+        <viz:position x="-790.7625" y="-700.5206"/>
+        <viz:color r="0" g="199" b="255"/>
+      </node>
       <node id="size" label="size">
         <attvalues>
           <attvalue for="modularity class" value="3"/>
@@ -546,7 +554,7 @@
         <viz:position x="1135.7115" y="-637.68396"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="irrigation" label="irrigation">
+      <node id="berlingskemdia.dk" label="berlingskemdia.dk">
         <attvalues>
           <attvalue for="modularity class" value="3"/>
         </attvalues>
@@ -686,16 +694,16 @@
       </node>
     </nodes>
     <edges>
-      <edge id="896" source="societal-advantage" target="people" weight="2.0"/>
-      <edge id="897" source="societal-advantage" target="dragoer-nyt.dk" weight="3.0"/>
-      <edge id="898" source="societal-advantage" target="climate" weight="3.0"/>
-      <edge id="899" source="societal-advantage" target="irrigation"/>
-      <edge id="900" source="societal-advantage" target="pizarro"/>
-      <edge id="901" source="societal-advantage" target="technology" weight="5.0"/>
-      <edge id="902" source="societal-advantage" target="germs" weight="5.0"/>
-      <edge id="903" source="societal-advantage" target="americas" weight="6.0"/>
-      <edge id="905" source="societal-advantage" target="animals"/>
-      <edge id="906" source="societal-advantage" target="europe" weight="11.0"/>
+      <edge id="896" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="people" weight="2.0"/>
+      <edge id="897" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="dragoer-nyt.dk" weight="3.0"/>
+      <edge id="898" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="climate" weight="3.0"/>
+      <edge id="899" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="berlingskemdia.dk"/>
+      <edge id="900" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="pizarro"/>
+      <edge id="901" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="technology" weight="5.0"/>
+      <edge id="902" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="germs" weight="5.0"/>
+      <edge id="903" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="americas" weight="6.0"/>
+      <edge id="905" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="animals"/>
+      <edge id="906" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="europe" weight="11.0"/>
       <edge id="907" source="americas" target="independent.co.uk"/>
       <edge id="908" source="americas" target="europe" weight="5.0"/>
       <edge id="909" source="americas" target="incas"/>
@@ -703,13 +711,13 @@
       <edge id="911" source="pizarro" target="incas" weight="2.0"/>
       <edge id="913" source="germs" target="incas"/>
       <edge id="914" source="germs" target="pizarro"/>
-      <edge id="921" source="societal-advantage" target="nsk.se" weight="3.0"/>
+      <edge id="921" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="nsk.se" weight="3.0"/>
       <edge id="922" source="europe" target="technology" weight="2.0"/>
       <edge id="924" source="europe" target="nsk.se" weight="2.0"/>
       <edge id="925" source="americas" target="technology" weight="2.0"/>
       <edge id="926" source="americas" target="nsk.se"/>
       <edge id="927" source="writing" target="pizarro"/>
-      <edge id="928" source="writing" target="societal-advantage" weight="2.0"/>
+      <edge id="928" source="writing" target="Forced Action(e.g. Bundle Consent, Privacy Zickering)" weight="2.0"/>
       <edge id="929" source="writing" target="incas" weight="2.0"/>
       <edge id="930" source="livescience.com" target="germs" weight="3.0"/>
       <edge id="931" source="livescience.com" target="technology" weight="4.0"/>
@@ -806,15 +814,15 @@
       <edge id="1053" source="technology" target="mesoamerica"/>
       <edge id="1054" source="technology" target="south-american-andes"/>
       <edge id="1055" source="mesoamerica" target="south-american-andes"/>
-      <edge id="1057" source="societal-advantage" target="Sneaking - Baith and Switch" weight="3.0"/>
+      <edge id="1057" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="Sneaking - Baith and Switch" weight="3.0"/>
       <edge id="1058" source="technology" target="epsom-sthelier.nhs.uk" weight="3.0"/>
       <edge id="1060" source="technology" target="population-displacement"/>
       <edge id="1061" source="postimes.se" target="language"/>
       <edge id="1062" source="postimes.se" target="genetics"/>
       <edge id="1063" source="population-displacement" target="language" weight="2.0"/>
       <edge id="1064" source="population-displacement" target="genetics" weight="2.0"/>
-      <edge id="1065" source="societal-advantage" target="asia"/>
-      <edge id="1067" source="societal-advantage" target="postimes.se"/>
+      <edge id="1065" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="asia"/>
+      <edge id="1067" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="postimes.se"/>
       <edge id="1068" source="postimes.se" target="asia"/>
       <edge id="1069" source="postimes.se" target="europe" weight="2.0"/>
       <edge id="1071" source="postimes.se" target="writing"/>
@@ -870,7 +878,7 @@
       <edge id="1130" source="geography" target="germs"/>
       <edge id="1131" source="geography" target="plants"/>
       <edge id="1132" source="epsom-sthelier.nhs.uk" target="livescience.com" weight="2.0"/>
-      <edge id="1134" source="epsom-sthelier.nhs.uk" target="societal-advantage" weight="5.0"/>
+      <edge id="1134" source="epsom-sthelier.nhs.uk" target="Forced Action(e.g. Bundle Consent, Privacy Zickering)" weight="5.0"/>
       <edge id="1135" source="epsom-sthelier.nhs.uk" target="oceania"/>
       <edge id="1137" source="epsom-sthelier.nhs.uk" target="new-guinea" weight="2.0"/>
       <edge id="1138" source="australia" target="dragoer-nyt.dk"/>
@@ -879,7 +887,7 @@
       <edge id="1142" source="australia" target="technology"/>
       <edge id="1143" source="australia" target="animals"/>
       <edge id="1145" source="australia" target="new-guinea"/>
-      <edge id="1146" source="australia" target="societal-advantage" weight="2.0"/>
+      <edge id="1146" source="australia" target="Forced Action(e.g. Bundle Consent, Privacy Zickering)" weight="2.0"/>
       <edge id="1150" source="Sneaking - Baith and Switch" target="dragoer-nyt.dk"/>
       <edge id="1152" source="new-guinea" target="climate"/>
       <edge id="1153" source="new-guinea" target="livescience.com"/>
@@ -898,7 +906,7 @@
       <edge id="1170" source="new-zealand" target="independent.co.uk"/>
       <edge id="1172" source="livescience.com" target="dailymail.co.uk"/>
       <edge id="1176" source="livescience.com" target="size"/>
-      <edge id="1178" source="societal-advantage" target="livescience.com" weight="2.0"/>
+      <edge id="1178" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="livescience.com" weight="2.0"/>
       <edge id="1180" source="china" target="language" weight="2.0"/>
       <edge id="1181" source="china" target="population-displacement" weight="2.0"/>
       <edge id="1182" source="china" target="east-asians" weight="2.0"/>
@@ -911,8 +919,8 @@
       <edge id="1189" source="china" target="postimes.se"/>
       <edge id="1192" source="china" target="geography"/>
       <edge id="1194" source="china" target="early-food-production" weight="2.0"/>
-      <edge id="1195" source="china" target="societal-advantage" weight="2.0"/>
-      <edge id="1197" source="early-food-production" target="societal-advantage" weight="3.0"/>
+      <edge id="1195" source="china" target="Forced Action(e.g. Bundle Consent, Privacy Zickering)" weight="2.0"/>
+      <edge id="1197" source="early-food-production" target="Forced Action(e.g. Bundle Consent, Privacy Zickering)" weight="3.0"/>
       <edge id="1198" source="asia" target="china"/>
       <edge id="1199" source="asia" target="dailymail.co.uk"/>
       <edge id="1200" source="asia" target="population-displacement"/>
@@ -971,8 +979,8 @@
       <edge id="1270" source="australia" target="europe" weight="2.0"/>
       <edge id="1272" source="australia" target="independent.co.uk" weight="2.0"/>
       <edge id="1273" source="australia" target="founder-package"/>
-      <edge id="1276" source="societal-advantage" target="new-guinea"/>
-      <edge id="1278" source="societal-advantage" target="geography" weight="4.0"/>
+      <edge id="1276" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="new-guinea"/>
+      <edge id="1278" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="geography" weight="4.0"/>
       <edge id="1283" source="europe" target="independent.co.uk"/>
       <edge id="1294" source="europe" target="early-food-production" weight="2.0"/>
       <edge id="1295" source="europe" target="dragoer-nyt.dk"/>
@@ -980,12 +988,12 @@
       <edge id="1299" source="europe" target="writing"/>
       <edge id="1301" source="americas" target="early-food-production"/>
       <edge id="1302" source="americas" target="dragoer-nyt.dk"/>
-      <edge id="1313" source="societal-advantage" target="africa"/>
-      <edge id="1316" source="societal-advantage" target="size" weight="2.0"/>
+      <edge id="1313" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="africa"/>
+      <edge id="1316" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="size" weight="2.0"/>
       <edge id="1320" source="europe" target="size"/>
       <edge id="1321" source="africa" target="early-food-production"/>
       <edge id="1323" source="africa" target="size"/>
-      <edge id="1329" source="societal-advantage" target="fertile-crescent"/>
+      <edge id="1329" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="fertile-crescent"/>
       <edge id="1331" source="fertile-crescent" target="europe"/>
       <edge id="1335" source="europe" target="china"/>
       <edge id="1337" source="china" target="nsk.se"/>
