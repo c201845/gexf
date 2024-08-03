@@ -546,7 +546,7 @@
         <viz:position x="-931.56805" y="910.6391"/>
         <viz:color r="105" g="196" b="4"/>
       </node>
-      <node id="south-west-us" label="south-west-us">
+      <node id="ncbc.com" label="ncbc.com">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -594,7 +594,7 @@
         <viz:position x="500.32074" y="-1000.1412"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="nutrition" label="nutrition">
+      <node id="vox.com" label="vox.com">
         <attvalues>
           <attvalue for="modularity class" value="2"/>
         </attvalues>
@@ -693,7 +693,7 @@
         <viz:size value="10.0"/>
         <viz:position x="138.69922" y="-37.24994"/>
       </node>
-      <node id="rbth.com" label="rbth.com">
+      <node id="rbth.com" label="Scientific Concepts">
         <attvalues>
           <attvalue for="modularity class" value="2"/>
         </attvalues>
@@ -770,7 +770,7 @@
       <edge id="984" source="founder-package" target="krakowpost.com"/>
       <edge id="985" source="founder-package" target="ebay.co.uk"/>
       <edge id="986" source="founder-package" target="new-guinea"/>
-      <edge id="987" source="founder-package" target="nutrition"/>
+      <edge id="987" source="founder-package" target="vox.com"/>
       <edge id="988" source="founder-package" target="guardian.com"/>
       <edge id="989" source="economictimes.indiatimes.com" target="nationalgeographic.com" weight="2.0"/>
       <edge id="990" source="MVCA(e.g. False Hiearchy)" target="business-review.eu" weight="2.0"/>
@@ -787,14 +787,14 @@
       <edge id="1001" source="MVCA(e.g. False Hiearchy)" target="algarvedailynews.com" weight="2.0"/>
       <edge id="1002" source="MVCA(e.g. False Hiearchy)" target="agderposten.no" weight="2.0"/>
       <edge id="1003" source="nationalgeographic.com" target="algarvedailynews.com"/>
-      <edge id="1004" source="nationalgeographic.com" target="south-west-us"/>
+      <edge id="1004" source="nationalgeographic.com" target="ncbc.com"/>
       <edge id="1007" source="nationalgeographic.com" target="size"/>
       <edge id="1008" source="nationalgeographic.com" target="business-review.eu"/>
       <edge id="1009" source="nationalgeographic.com" target="guardian.com"/>
       <edge id="1010" source="nationalgeographic.com" target="bloomberg.com"/>
       <edge id="1011" source="MVCA(e.g. False Hiearchy)" target="spio.de"/>
       <edge id="1012" source="MVCA(e.g. False Hiearchy)" target="aars.dk"/>
-      <edge id="1013" source="MVCA(e.g. False Hiearchy)" target="south-west-us"/>
+      <edge id="1013" source="MVCA(e.g. False Hiearchy)" target="ncbc.com"/>
       <edge id="1014" source="MVCA(e.g. False Hiearchy)" target="australia"/>
       <edge id="1019" source="algarvedailynews.com" target="economictimes.indiatimes.com"/>
       <edge id="1020" source="algarvedailynews.com" target="business-review.eu"/>
@@ -1015,7 +1015,7 @@
       <edge id="1348" source="afp.com" target="101" weight="2.0"/>
       <edge id="1349" source="101" target="egypt" weight="2.0"/>
       <edge id="1350" source="102" target="independent.co.uk" weight="2.0"/>
-      <edge id="1351" source="nutrition" target="rbth.com"/>
+      <edge id="1351" source="vox.com" target="rbth.com"/>
       <edge id="1352" source="prombo.de" target="104"/>
       <edge id="1353" source="105" target="104"/>
       <edge id="1354" source="nytimes.com" target="Hidden Language Stipulations"/>
@@ -1052,6 +1052,8 @@
       <edge id="1385" source="Hidden Language Stipulations"  target="guardian.com"/>
       <edge id="1386" source="finlandtoday.fi"  target="Hidden Language Stipulations"/>
       <edge id="1387" source="rbth.com"  target="Hidden Language Stipulations"/>
+      <edge id="1388" source="vox.com"  target="Hidden Language Stipulations"/>
+      <edge id="1389" source="ncbc.com"  target="Hidden Language Stipulations"/>
     </edges>
   </graph>
 </gexf>
