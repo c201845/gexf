@@ -843,7 +843,96 @@
         <viz:size value="11.111111"/>
         <viz:color r="128" g="128" b="0"/>
       </node>
+     
+     <node id="newdomain1.com" label="newdomain1.com">
+        <attvalues>
+          <attvalue for="modularity class" value="11"/>
+        </attvalues>
+        <viz:position x="500.0" y="500.0"/>
+        <viz:size value="11.111111"/>
+        <viz:color r="200" g="150" b="200"/>
       </node>
+      <node id="newdomain2.com" label="newdomain2.com">
+        <attvalues>
+          <attvalue for="modularity class" value="12"/>
+        </attvalues>
+        <viz:position x="600.0" y="500.0"/>
+        <viz:size value="11.111111"/>
+        <viz:color r="150" g="200" b="150"/>
+      </node>
+      <node id="newdomain3.com" label="newdomain3.com">
+        <attvalues>
+          <attvalue for="modularity class" value="13"/>
+        </attvalues>
+        <viz:position x="700.0" y="500.0"/>
+        <viz:size value="11.111111"/>
+        <viz:color r="150" g="150" b="200"/>
+      </node>
+      <node id="newdomain4.com" label="newdomain4.com">
+        <attvalues>
+          <attvalue for="modularity class" value="14"/>
+        </attvalues>
+        <viz:position x="500.0" y="600.0"/>
+        <viz:size value="11.111111"/>
+        <viz:color r="255" g="200" b="150"/>
+      </node>
+      <node id="newdomain5.com" label="newdomain5.com">
+        <attvalues>
+          <attvalue for="modularity class" value="15"/>
+        </attvalues>
+        <viz:position x="600.0" y="600.0"/>
+        <viz:size value="11.111111"/>
+        <viz:color r="200" g="255" b="150"/>
+      </node>
+      <node id="newdomain6.com" label="newdomain6.com">
+        <attvalues>
+          <attvalue for="modularity class" value="16"/>
+        </attvalues>
+        <viz:position x="700.0" y="600.0"/>
+        <viz:size value="11.111111"/>
+        <viz:color r="150" g="200" b="255"/>
+      </node>
+      <node id="newdomain7.com" label="newdomain7.com">
+        <attvalues>
+          <attvalue for="modularity class" value="17"/>
+        </attvalues>
+        <viz:position x="500.0" y="700.0"/>
+        <viz:size value="11.111111"/>
+        <viz:color r="255" g="150" b="200"/>
+      </node>
+      <node id="newdomain8.com" label="newdomain8.com">
+        <attvalues>
+          <attvalue for="modularity class" value="18"/>
+        </attvalues>
+        <viz:position x="600.0" y="700.0"/>
+        <viz:size value="11.111111"/>
+        <viz:color r="150" g="255" b="200"/>
+      </node>
+      <node id="newdomain9.com" label="newdomain9.com">
+        <attvalues>
+          <attvalue for="modularity class" value="19"/>
+        </attvalues>
+        <viz:position x="700.0" y="700.0"/>
+        <viz:size value="11.111111"/>
+        <viz:color r="200" g="150" b="255"/>
+      </node>
+      <node id="newdomain10.com" label="newdomain10.com">
+        <attvalues>
+          <attvalue for="modularity class" value="20"/>
+        </attvalues>
+        <viz:position x="500.0" y="800.0"/>
+        <viz:size value="11.111111"/>
+        <viz:color r="255" g="255" b="150"/>
+      </node>
+      <node id="newdomain11.com" label="newdomain11.com">
+        <attvalues>
+          <attvalue for="modularity class" value="21"/>
+        </attvalues>
+        <viz:position x="600.0" y="800.0"/>
+        <viz:size value="11.111111"/>
+        <viz:color r="150" g="255" b="255"/>
+      </node>
+
     </nodes>
     <edges>
       <edge id="896" source="Forced Action" target="mirror.co.uk" weight="2.0"/>
@@ -1227,6 +1316,7 @@
       <edge id="1416" source="bladet.no" target="Obstruction"/>
       <edge id="1417" source="budstika.no" target="Obstruction"/>
       <edge id="1418" source="perezhulton.com" target="Obstruction"/>
+
       <edge id="1419" source="unicef.org" target="Obstruction"/>
       <edge id="1420" source="hulu.com" target="Obstruction"/>
       <edge id="1421" source="pinterest.co.uk" target="Obstruction"/>
@@ -1237,6 +1327,18 @@
       <edge id="1426" source="thecourier.co.uk" target="Obstruction"/>
       <edge id="1427" source="nychealthandhospitals.org" target="Obstruction"/>
       <edge id="1428" source="sermitsiaq.ag" target="Obstruction"/>
+
+      <edge id="1429" source="newdomain1.com" target="Obstruction"/>
+      <edge id="1430" source="newdomain2.com" target="Obstruction"/>
+      <edge id="1431" source="newdomain3.com" target="Obstruction"/>
+      <edge id="1432" source="newdomain4.com" target="Obstruction"/>
+      <edge id="1433" source="newdomain5.com" target="Obstruction"/>
+      <edge id="1434" source="newdomain6.com" target="Obstruction"/>
+      <edge id="1435" source="newdomain7.com" target="Obstruction"/>
+      <edge id="1436" source="newdomain8.com" target="Obstruction"/>
+      <edge id="1437" source="newdomain9.com" target="Obstruction"/>
+      <edge id="1438" source="newdomain10.com" target="Obstruction"/>
+      <edge id="1439" source="newdomain11.com" target="Obstruction"/>
     </edges>
   </graph>
 </gexf>
