@@ -693,7 +693,7 @@
         <viz:size value="10.0"/>
         <viz:position x="138.69922" y="-37.24994"/>
       </node>
-      <node id="rbth.com" label="Scientific Concepts">
+      <node id="rbth.com" label="rbth.com">
         <attvalues>
           <attvalue for="modularity class" value="2"/>
         </attvalues>
