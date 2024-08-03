@@ -570,6 +570,14 @@
         <viz:position x="561.32074" y="-1050.1412"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
+      <node id="en.people.cn" label="en.people.cn">
+        <attvalues>
+          <attvalue for="modularity class" value="0"/>
+        </attvalues>
+        <viz:size value="7.0"/>
+        <viz:position x="500.32074" y="-1000.1412"/>
+        <viz:color r="226" g="139" b="255"/>
+      </node>
       <node id="nutrition" label="nutrition">
         <attvalues>
           <attvalue for="modularity class" value="2"/>
@@ -608,7 +616,7 @@
         <viz:size value="10.0"/>
         <viz:position x="-116.57971" y="-373.3735"/>
       </node>
-      <node id="104" label="Political Entities">
+      <node id="104" label="asiantimes.com">
         <attvalues>
           <attvalue for="modularity class" value="1"/>
         </attvalues>
@@ -1015,6 +1023,7 @@
       <edge id="1371" source="Last Minute Consent" target="dailymail.co.uk" weight="2.0"/>
       <edge id="1372" source="webmd.com" target="Fake Scarcity" weight="2.0"/>
       <edge id="1373" source="sverigersradio.se" target="Fake Scarcity" weight="2.0"/>
+      <edge id="1374" source="en.people.cn" target="spio.de" weight="2.0"/>
     </edges>
   </graph>
 </gexf>
