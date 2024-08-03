@@ -26,7 +26,7 @@
         <viz:position x="-750.86707" y="-599.66754"/>
         <viz:color r="105" g="196" b="4"/>
       </node>
-      <node id="food-production" label="food-production">
+      <node id="Sneaking - Baith and Switch" label="Sneaking - Baith and Switch">
         <attvalues>
           <attvalue for="modularity class" value="2"/>
         </attvalues>
@@ -114,7 +114,7 @@
         <viz:position x="-388.77386" y="-935.8372"/>
         <viz:color r="105" g="196" b="4"/>
       </node>
-      <node id="cultural-diffusion" label="cultural-diffusion">
+      <node id="postimes.se" label="postimes.se">
         <attvalues>
           <attvalue for="modularity class" value="5"/>
         </attvalues>
@@ -178,7 +178,7 @@
         <viz:position x="-873.08563" y="397.3934"/>
         <viz:color r="0" g="175" b="135"/>
       </node>
-      <node id="isolation" label="isolation">
+      <node id="epsom-sthelier.nhs.uk" label="epsom-sthelier.nhs.uk">
         <attvalues>
           <attvalue for="modularity class" value="3"/>
         </attvalues>
@@ -258,7 +258,7 @@
         <viz:position x="-573.87506" y="535.53546"/>
         <viz:color r="250" g="146" b="0"/>
       </node>
-      <node id="environment" label="environment">
+      <node id="dragoer-nyt.dk" label="dragoer-nyt.dk">
         <attvalues>
           <attvalue for="modularity class" value="3"/>
         </attvalues>
@@ -370,7 +370,7 @@
         <viz:position x="283.78955" y="-130.32695"/>
         <viz:color r="105" g="196" b="4"/>
       </node>
-      <node id="south-africa" label="south-africa">
+      <node id="spio.de" label="spio.de">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -622,7 +622,7 @@
         <viz:size value="10.0"/>
         <viz:position x="39.229492" y="319.7527"/>
       </node>
-      <node id="106" label="Environmental Issues">
+      <node id="106" label="dragoer-nyt.dkal Issues">
         <attvalues>
           <attvalue for="modularity class" value="4"/>
         </attvalues>
@@ -679,7 +679,7 @@
     </nodes>
     <edges>
       <edge id="896" source="societal-advantage" target="people" weight="2.0"/>
-      <edge id="897" source="societal-advantage" target="environment" weight="3.0"/>
+      <edge id="897" source="societal-advantage" target="dragoer-nyt.dk" weight="3.0"/>
       <edge id="898" source="societal-advantage" target="climate" weight="3.0"/>
       <edge id="899" source="societal-advantage" target="irrigation"/>
       <edge id="900" source="societal-advantage" target="pizarro"/>
@@ -713,7 +713,7 @@
       <edge id="937" source="surinenglish.com" target="new-guinea"/>
       <edge id="938" source="surinenglish.com" target="americas"/>
       <edge id="940" source="surinenglish.com" target="dailymail.co.uk" weight="2.0"/>
-      <edge id="941" source="guitarplayer.com" target="food-production"/>
+      <edge id="941" source="guitarplayer.com" target="Sneaking - Baith and Switch"/>
       <edge id="944" source="elpais.com" target="newsinenglish"/>
       <edge id="945" source="elpais.com" target="nsk.se"/>
       <edge id="946" source="elpais.com" target="technology"/>
@@ -724,17 +724,17 @@
       <edge id="952" source="writing" target="english.radio"/>
       <edge id="954" source="livescience.com" target="nsk.se" weight="2.0"/>
       <edge id="960" source="surinenglish.com" target="guitarplayer.com"/>
-      <edge id="961" source="surinenglish.com" target="food-production"/>
+      <edge id="961" source="surinenglish.com" target="Sneaking - Baith and Switch"/>
       <edge id="963" source="independent.co.uk" target="surinenglish.com"/>
       <edge id="964" source="independent.co.uk" target="guitarplayer.com"/>
       <edge id="965" source="independent.co.uk" target="elpais.com"/>
-      <edge id="967" source="livescience.com" target="food-production" weight="4.0"/>
+      <edge id="967" source="livescience.com" target="Sneaking - Baith and Switch" weight="4.0"/>
       <edge id="968" source="livescience.com" target="animals"/>
       <edge id="969" source="livescience.com" target="independent.co.uk" weight="2.0"/>
       <edge id="971" source="livescience.com" target="newsinenglish"/>
       <edge id="973" source="livescience.com" target="writing" weight="2.0"/>
       <edge id="974" source="animals" target="independent.co.uk"/>
-      <edge id="975" source="animals" target="food-production"/>
+      <edge id="975" source="animals" target="Sneaking - Baith and Switch"/>
       <edge id="976" source="animals" target="transportation"/>
       <edge id="977" source="animals" target="clothes"/>
       <edge id="978" source="founder-package" target="fertile-crescent"/>
@@ -758,7 +758,7 @@
       <edge id="996" source="humans" target="animals"/>
       <edge id="997" source="humans" target="americas"/>
       <edge id="998" source="food-production-inequalities" target="people" weight="3.0"/>
-      <edge id="999" source="food-production-inequalities" target="environment" weight="4.0"/>
+      <edge id="999" source="food-production-inequalities" target="dragoer-nyt.dk" weight="4.0"/>
       <edge id="1000" source="food-production-inequalities" target="fertile-crescent" weight="2.0"/>
       <edge id="1001" source="food-production-inequalities" target="mesoamerica" weight="2.0"/>
       <edge id="1002" source="food-production-inequalities" target="eastern-us" weight="2.0"/>
@@ -768,7 +768,7 @@
       <edge id="1008" source="fertile-crescent" target="animal-domestication"/>
       <edge id="1009" source="fertile-crescent" target="clothes"/>
       <edge id="1010" source="fertile-crescent" target="transportation"/>
-      <edge id="1011" source="food-production-inequalities" target="south-africa"/>
+      <edge id="1011" source="food-production-inequalities" target="spio.de"/>
       <edge id="1012" source="food-production-inequalities" target="chile"/>
       <edge id="1013" source="food-production-inequalities" target="south-west-us"/>
       <edge id="1014" source="food-production-inequalities" target="australia"/>
@@ -776,58 +776,58 @@
       <edge id="1020" source="mesoamerica" target="animal-domestication"/>
       <edge id="1021" source="eastern-us" target="plant-domestication"/>
       <edge id="1022" source="eastern-us" target="animal-domestication"/>
-      <edge id="1023" source="environment" target="plants"/>
-      <edge id="1024" source="environment" target="animals"/>
-      <edge id="1026" source="new-guinea" target="food-production" weight="2.0"/>
+      <edge id="1023" source="dragoer-nyt.dk" target="plants"/>
+      <edge id="1024" source="dragoer-nyt.dk" target="animals"/>
+      <edge id="1026" source="new-guinea" target="Sneaking - Baith and Switch" weight="2.0"/>
       <edge id="1029" source="food-production-inequalities" target="plant-domestication"/>
       <edge id="1031" source="germs" target="independent.co.uk"/>
       <edge id="1032" source="germs" target="americas" weight="2.0"/>
       <edge id="1033" source="germs" target="polynesia"/>
       <edge id="1034" source="germs" target="africa" weight="2.0"/>
       <edge id="1035" source="germs" target="animals"/>
-      <edge id="1036" source="germs" target="food-production"/>
+      <edge id="1036" source="germs" target="Sneaking - Baith and Switch"/>
       <edge id="1039" source="germs" target="europe" weight="2.0"/>
       <edge id="1040" source="germs" target="asia"/>
       <edge id="1046" source="writing" target="nsk.se"/>
-      <edge id="1047" source="writing" target="isolation"/>
+      <edge id="1047" source="writing" target="epsom-sthelier.nhs.uk"/>
       <edge id="1048" source="writing" target="americas" weight="2.0"/>
       <edge id="1049" source="writing" target="africa"/>
       <edge id="1050" source="writing" target="polynesia"/>
       <edge id="1051" source="writing" target="hawaii"/>
-      <edge id="1052" source="technology" target="cultural-diffusion" weight="3.0"/>
+      <edge id="1052" source="technology" target="postimes.se" weight="3.0"/>
       <edge id="1053" source="technology" target="mesoamerica"/>
       <edge id="1054" source="technology" target="south-american-andes"/>
       <edge id="1055" source="mesoamerica" target="south-american-andes"/>
-      <edge id="1057" source="societal-advantage" target="food-production" weight="3.0"/>
-      <edge id="1058" source="technology" target="isolation" weight="3.0"/>
+      <edge id="1057" source="societal-advantage" target="Sneaking - Baith and Switch" weight="3.0"/>
+      <edge id="1058" source="technology" target="epsom-sthelier.nhs.uk" weight="3.0"/>
       <edge id="1060" source="technology" target="population-displacement"/>
-      <edge id="1061" source="cultural-diffusion" target="language"/>
-      <edge id="1062" source="cultural-diffusion" target="genetics"/>
+      <edge id="1061" source="postimes.se" target="language"/>
+      <edge id="1062" source="postimes.se" target="genetics"/>
       <edge id="1063" source="population-displacement" target="language" weight="2.0"/>
       <edge id="1064" source="population-displacement" target="genetics" weight="2.0"/>
       <edge id="1065" source="societal-advantage" target="asia"/>
-      <edge id="1067" source="societal-advantage" target="cultural-diffusion"/>
-      <edge id="1068" source="cultural-diffusion" target="asia"/>
-      <edge id="1069" source="cultural-diffusion" target="europe" weight="2.0"/>
-      <edge id="1071" source="cultural-diffusion" target="writing"/>
-      <edge id="1072" source="food-production" target="cultural-diffusion"/>
-      <edge id="1073" source="food-production" target="population-displacement"/>
-      <edge id="1074" source="cultural-diffusion" target="egypt"/>
-      <edge id="1076" source="cultural-diffusion" target="south-africa"/>
-      <edge id="1077" source="cultural-diffusion" target="americas"/>
+      <edge id="1067" source="societal-advantage" target="postimes.se"/>
+      <edge id="1068" source="postimes.se" target="asia"/>
+      <edge id="1069" source="postimes.se" target="europe" weight="2.0"/>
+      <edge id="1071" source="postimes.se" target="writing"/>
+      <edge id="1072" source="Sneaking - Baith and Switch" target="postimes.se"/>
+      <edge id="1073" source="Sneaking - Baith and Switch" target="population-displacement"/>
+      <edge id="1074" source="postimes.se" target="egypt"/>
+      <edge id="1076" source="postimes.se" target="spio.de"/>
+      <edge id="1077" source="postimes.se" target="americas"/>
       <edge id="1078" source="population-displacement" target="americas"/>
       <edge id="1079" source="population-displacement" target="australia" weight="2.0"/>
       <edge id="1080" source="dailymail.co.uk" target="americas"/>
       <edge id="1081" source="dailymail.co.uk" target="australia"/>
-      <edge id="1082" source="food-production" target="isolation" weight="3.0"/>
-      <edge id="1083" source="food-production" target="climate" weight="6.0"/>
-      <edge id="1084" source="food-production" target="dailymail.co.uk"/>
-      <edge id="1085" source="food-production" target="americas" weight="2.0"/>
-      <edge id="1086" source="food-production" target="south-africa"/>
-      <edge id="1087" source="food-production" target="australia" weight="2.0"/>
-      <edge id="1088" source="isolation" target="americas" weight="2.0"/>
-      <edge id="1089" source="isolation" target="south-africa"/>
-      <edge id="1090" source="isolation" target="australia" weight="3.0"/>
+      <edge id="1082" source="Sneaking - Baith and Switch" target="epsom-sthelier.nhs.uk" weight="3.0"/>
+      <edge id="1083" source="Sneaking - Baith and Switch" target="climate" weight="6.0"/>
+      <edge id="1084" source="Sneaking - Baith and Switch" target="dailymail.co.uk"/>
+      <edge id="1085" source="Sneaking - Baith and Switch" target="americas" weight="2.0"/>
+      <edge id="1086" source="Sneaking - Baith and Switch" target="spio.de"/>
+      <edge id="1087" source="Sneaking - Baith and Switch" target="australia" weight="2.0"/>
+      <edge id="1088" source="epsom-sthelier.nhs.uk" target="americas" weight="2.0"/>
+      <edge id="1089" source="epsom-sthelier.nhs.uk" target="spio.de"/>
+      <edge id="1090" source="epsom-sthelier.nhs.uk" target="australia" weight="3.0"/>
       <edge id="1091" source="africa" target="founder-package"/>
       <edge id="1092" source="africa" target="sahel-zone"/>
       <edge id="1093" source="africa" target="ethiopia"/>
@@ -835,14 +835,14 @@
       <edge id="1095" source="africa" target="fertile-crescent"/>
       <edge id="1096" source="africa" target="china"/>
       <edge id="1097" source="africa" target="animals"/>
-      <edge id="1098" source="polynesia" target="food-production"/>
+      <edge id="1098" source="polynesia" target="Sneaking - Baith and Switch"/>
       <edge id="1099" source="polynesia" target="animals"/>
       <edge id="1101" source="livescience.com" target="climate"/>
-      <edge id="1106" source="food-production" target="geography"/>
-      <edge id="1107" source="food-production" target="europe"/>
-      <edge id="1108" source="food-production" target="africa"/>
-      <edge id="1110" source="food-production" target="oceania"/>
-      <edge id="1112" source="food-production" target="asia"/>
+      <edge id="1106" source="Sneaking - Baith and Switch" target="geography"/>
+      <edge id="1107" source="Sneaking - Baith and Switch" target="europe"/>
+      <edge id="1108" source="Sneaking - Baith and Switch" target="africa"/>
+      <edge id="1110" source="Sneaking - Baith and Switch" target="oceania"/>
+      <edge id="1112" source="Sneaking - Baith and Switch" target="asia"/>
       <edge id="1113" source="geography" target="europe" weight="3.0"/>
       <edge id="1114" source="geography" target="africa" weight="2.0"/>
       <edge id="1115" source="geography" target="americas" weight="2.0"/>
@@ -861,18 +861,18 @@
       <edge id="1129" source="geography" target="animals"/>
       <edge id="1130" source="geography" target="germs"/>
       <edge id="1131" source="geography" target="plants"/>
-      <edge id="1132" source="isolation" target="livescience.com" weight="2.0"/>
-      <edge id="1134" source="isolation" target="societal-advantage" weight="5.0"/>
-      <edge id="1135" source="isolation" target="oceania"/>
-      <edge id="1137" source="isolation" target="new-guinea" weight="2.0"/>
-      <edge id="1138" source="australia" target="environment"/>
+      <edge id="1132" source="epsom-sthelier.nhs.uk" target="livescience.com" weight="2.0"/>
+      <edge id="1134" source="epsom-sthelier.nhs.uk" target="societal-advantage" weight="5.0"/>
+      <edge id="1135" source="epsom-sthelier.nhs.uk" target="oceania"/>
+      <edge id="1137" source="epsom-sthelier.nhs.uk" target="new-guinea" weight="2.0"/>
+      <edge id="1138" source="australia" target="dragoer-nyt.dk"/>
       <edge id="1139" source="australia" target="climate"/>
       <edge id="1141" source="australia" target="indonesia"/>
       <edge id="1142" source="australia" target="technology"/>
       <edge id="1143" source="australia" target="animals"/>
       <edge id="1145" source="australia" target="new-guinea"/>
       <edge id="1146" source="australia" target="societal-advantage" weight="2.0"/>
-      <edge id="1150" source="food-production" target="environment"/>
+      <edge id="1150" source="Sneaking - Baith and Switch" target="dragoer-nyt.dk"/>
       <edge id="1152" source="new-guinea" target="climate"/>
       <edge id="1153" source="new-guinea" target="livescience.com"/>
       <edge id="1154" source="new-guinea" target="dailymail.co.uk"/>
@@ -885,8 +885,8 @@
       <edge id="1165" source="new-zealand" target="climate"/>
       <edge id="1166" source="new-zealand" target="livescience.com"/>
       <edge id="1167" source="new-zealand" target="dailymail.co.uk"/>
-      <edge id="1168" source="new-zealand" target="isolation"/>
-      <edge id="1169" source="new-zealand" target="food-production"/>
+      <edge id="1168" source="new-zealand" target="epsom-sthelier.nhs.uk"/>
+      <edge id="1169" source="new-zealand" target="Sneaking - Baith and Switch"/>
       <edge id="1170" source="new-zealand" target="independent.co.uk"/>
       <edge id="1172" source="livescience.com" target="dailymail.co.uk"/>
       <edge id="1176" source="livescience.com" target="size"/>
@@ -900,7 +900,7 @@
       <edge id="1186" source="austronesean-expansion" target="language" weight="2.0"/>
       <edge id="1187" source="austronesean-expansion" target="indonesia"/>
       <edge id="1188" source="population-displacement" target="east-asians" weight="2.0"/>
-      <edge id="1189" source="china" target="cultural-diffusion"/>
+      <edge id="1189" source="china" target="postimes.se"/>
       <edge id="1192" source="china" target="geography"/>
       <edge id="1194" source="china" target="early-food-production" weight="2.0"/>
       <edge id="1195" source="china" target="societal-advantage" weight="2.0"/>
@@ -915,7 +915,7 @@
       <edge id="1208" source="austronesean-expansion" target="hawaii"/>
       <edge id="1209" source="austronesean-expansion" target="madagascar"/>
       <edge id="1210" source="austronesean-expansion" target="population-displacement"/>
-      <edge id="1211" source="austronesean-expansion" target="cultural-diffusion"/>
+      <edge id="1211" source="austronesean-expansion" target="postimes.se"/>
       <edge id="1212" source="austronesean-expansion" target="new-zealand"/>
       <edge id="1213" source="austronesean-expansion" target="animals"/>
       <edge id="1214" source="austronesean-expansion" target="technology"/>
@@ -927,9 +927,9 @@
       <edge id="1222" source="east-asians" target="australia"/>
       <edge id="1223" source="population-displacement" target="indonesia"/>
       <edge id="1224" source="population-displacement" target="oceania"/>
-      <edge id="1225" source="cultural-diffusion" target="new-guinea" weight="2.0"/>
-      <edge id="1226" source="cultural-diffusion" target="australia"/>
-      <edge id="1227" source="cultural-diffusion" target="oceania"/>
+      <edge id="1225" source="postimes.se" target="new-guinea" weight="2.0"/>
+      <edge id="1226" source="postimes.se" target="australia"/>
+      <edge id="1227" source="postimes.se" target="oceania"/>
       <edge id="1230" source="africa" target="bantu"/>
       <edge id="1231" source="africa" target="khoisan"/>
       <edge id="1232" source="africa" target="pygmies"/>
@@ -938,7 +938,7 @@
       <edge id="1235" source="dailymail.co.uk" target="khoisan"/>
       <edge id="1236" source="khoisan" target="population-displacement" weight="3.0"/>
       <edge id="1237" source="khoisan" target="europe"/>
-      <edge id="1238" source="khoisan" target="south-africa"/>
+      <edge id="1238" source="khoisan" target="spio.de"/>
       <edge id="1239" source="europe" target="population-displacement" weight="2.0"/>
       <edge id="1240" source="language" target="pygmies"/>
       <edge id="1241" source="language" target="khoisan"/>
@@ -967,11 +967,11 @@
       <edge id="1278" source="societal-advantage" target="geography" weight="4.0"/>
       <edge id="1283" source="europe" target="independent.co.uk"/>
       <edge id="1294" source="europe" target="early-food-production" weight="2.0"/>
-      <edge id="1295" source="europe" target="environment"/>
-      <edge id="1296" source="europe" target="isolation"/>
+      <edge id="1295" source="europe" target="dragoer-nyt.dk"/>
+      <edge id="1296" source="europe" target="epsom-sthelier.nhs.uk"/>
       <edge id="1299" source="europe" target="writing"/>
       <edge id="1301" source="americas" target="early-food-production"/>
-      <edge id="1302" source="americas" target="environment"/>
+      <edge id="1302" source="americas" target="dragoer-nyt.dk"/>
       <edge id="1313" source="societal-advantage" target="africa"/>
       <edge id="1316" source="societal-advantage" target="size" weight="2.0"/>
       <edge id="1320" source="europe" target="size"/>
@@ -981,11 +981,11 @@
       <edge id="1331" source="fertile-crescent" target="europe"/>
       <edge id="1335" source="europe" target="china"/>
       <edge id="1337" source="china" target="nsk.se"/>
-      <edge id="1338" source="china" target="food-production"/>
+      <edge id="1338" source="china" target="Sneaking - Baith and Switch"/>
       <edge id="1340" source="china" target="technology"/>
       <edge id="1341" source="china" target="germs"/>
-      <edge id="1342" source="plant-domestication" target="food-production"/>
-      <edge id="1343" source="animal-domestication" target="food-production"/>
+      <edge id="1342" source="plant-domestication" target="Sneaking - Baith and Switch"/>
+      <edge id="1343" source="animal-domestication" target="Sneaking - Baith and Switch"/>
       <edge id="1344" source="plants" target="clothes"/>
       <edge id="1345" source="humans" target="gabs"/>
       <edge id="1347" source="asia" target="101"/>
