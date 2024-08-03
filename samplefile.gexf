@@ -618,7 +618,7 @@
         <viz:position x="-637.5986" y="91.83447"/>
         <viz:color r="226" g="199" b="255"/>
       </node>
-      <node id="af.reuters.com" label=""af.reuters.com"">
+      <node id="af.reuters.com" label="af.reuters.com">
         <attvalues>
           <attvalue for="modularity class" value="3"/>
         </attvalues>
