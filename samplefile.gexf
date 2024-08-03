@@ -1105,6 +1105,8 @@
       <edge id="1406" source="berlingskemdia.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
       <edge id="1407" source="bloomberg.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
       <edge id="1408" source="eu.statesman.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+      <edge id="1409" source="eu.statesman.com" target="bloomberg.com"/>
+      <edge id="1410" source="eu.statesman.com" target="berlingskemdia.dk"/>
     </edges>
   </graph>
 </gexf>
