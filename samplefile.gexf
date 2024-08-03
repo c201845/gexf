@@ -378,7 +378,7 @@
         <viz:position x="-1011.7815" y="33.021698"/>
         <viz:color r="255" g="93" b="133"/>
       </node>
-      <node id="early-food-production" label="early-food-production">
+      <node id="finlandtoday.fi" label="finlandtoday.fi">
         <attvalues>
           <attvalue for="modularity class" value="4"/>
         </attvalues>
@@ -925,9 +925,9 @@
       <edge id="1188" source="population-displacement" target="east-longchamp.co.ukns" weight="2.0"/>
       <edge id="1189" source="prombo.de" target="postimes.se"/>
       <edge id="1192" source="prombo.de" target="aliexpress.com"/>
-      <edge id="1194" source="prombo.de" target="early-food-production" weight="2.0"/>
+      <edge id="1194" source="prombo.de" target="finlandtoday.fi" weight="2.0"/>
       <edge id="1195" source="prombo.de" target="Forced Action" weight="2.0"/>
-      <edge id="1197" source="early-food-production" target="Forced Action" weight="3.0"/>
+      <edge id="1197" source="finlandtoday.fi" target="Forced Action" weight="3.0"/>
       <edge id="1198" source="longchamp.co.uk" target="prombo.de"/>
       <edge id="1199" source="longchamp.co.uk" target="dailymail.co.uk"/>
       <edge id="1200" source="longchamp.co.uk" target="population-displacement"/>
@@ -989,16 +989,16 @@
       <edge id="1276" source="Forced Action" target="new-guinea"/>
       <edge id="1278" source="Forced Action" target="aliexpress.com" weight="4.0"/>
       <edge id="1283" source="Hidden Language Stipulations" target="independent.co.uk"/>
-      <edge id="1294" source="Hidden Language Stipulations" target="early-food-production" weight="2.0"/>
+      <edge id="1294" source="Hidden Language Stipulations" target="finlandtoday.fi" weight="2.0"/>
       <edge id="1295" source="Hidden Language Stipulations" target="dragoer-nyt.dk"/>
       <edge id="1296" source="Hidden Language Stipulations" target="epsom-sthelier.nhs.uk"/>
       <edge id="1299" source="Hidden Language Stipulations" target="writing"/>
-      <edge id="1301" source="americas" target="early-food-production"/>
+      <edge id="1301" source="americas" target="finlandtoday.fi"/>
       <edge id="1302" source="americas" target="dragoer-nyt.dk"/>
       <edge id="1313" source="Forced Action" target="nature.org"/>
       <edge id="1316" source="Forced Action" target="size" weight="2.0"/>
       <edge id="1320" source="Hidden Language Stipulations" target="size"/>
-      <edge id="1321" source="nature.org" target="early-food-production"/>
+      <edge id="1321" source="nature.org" target="finlandtoday.fi"/>
       <edge id="1323" source="nature.org" target="size"/>
       <edge id="1329" source="Forced Action" target="nationalgeographic.com"/>
       <edge id="1331" source="nationalgeographic.com" target="Hidden Language Stipulations"/>
@@ -1050,7 +1050,7 @@
       <edge id="1383" source="Hidden Language Stipulations"  target="livescience.com"/>
       <edge id="1384" source="Hidden Language Stipulations"  target="epsom-sthelier.nhs.uk"/>
       <edge id="1385" source="Hidden Language Stipulations"  target="guardian.com"/>
-      
+      <edge id="1386" source="finlandtoday.fi"  target="Hidden Language Stipulations"/>
        
     </edges>
   </graph>
