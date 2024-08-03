@@ -71,7 +71,7 @@
           <attvalue for="modularity class" value="4"/>
         </attvalues>
         <viz:size value="18.222221"/>
-        <viz:position x="-780.74603" y="-58.63719"/>
+        <viz:position x="-750.74603" y="-58.63720"/>
         <viz:color r="110" g="200" b="4"/>
       </node>
       <node id="china" label="china">
