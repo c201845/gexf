@@ -843,23 +843,6 @@
         <viz:size value="11.111111"/>
         <viz:color r="128" g="128" b="0"/>
       </node>
-     
-     <node id="newdomain1.com" label="newdomain1.com">
-        <attvalues>
-          <attvalue for="modularity class" value="11"/>
-        </attvalues>
-        <viz:position x="500.0" y="500.0"/>
-        <viz:size value="11.111111"/>
-        <viz:color r="200" g="150" b="200"/>
-      </node>
-      <node id="newdomain2.com" label="newdomain2.com">
-        <attvalues>
-          <attvalue for="modularity class" value="12"/>
-        </attvalues>
-        <viz:position x="600.0" y="500.0"/>
-        <viz:size value="11.111111"/>
-        <viz:color r="150" g="200" b="150"/>
-      </node>
     </nodes>
     <edges>
       <edge id="896" source="Forced Action" target="mirror.co.uk" weight="2.0"/>
@@ -1253,8 +1236,7 @@
       <edge id="1426" source="thecourier.co.uk" target="Obstruction"/>
       <edge id="1427" source="nychealthandhospitals.org" target="Obstruction"/>
       <edge id="1428" source="sermitsiaq.ag" target="Obstruction"/>
-      <edge id="1429" source="newdomain1.com" target="Obstruction"/>
-      <edge id="1430" source="newdomain2.com" target="Obstruction"/>
+
 
     </edges>
   </graph>
