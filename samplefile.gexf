@@ -1062,6 +1062,8 @@
       <edge id="1395" source="wordpress.com" target="Forced Action"/>
       <edge id="1396" source="bizarro.com" target="Forced Action"/>
       <edge id="1397" source="bizarro.com" target="Social Engineering"/>
+      <edge id="1398" source="reddit.com" target="Interface Inference (e.g. Choice Fatigue)"/>
+      <edge id="1399" source="reddit.com" target="Forced Action"/>
       
     </edges>
   </graph>
