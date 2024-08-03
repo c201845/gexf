@@ -226,6 +226,22 @@
         <viz:position x="1128.324" y="-215.73357"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
+      <node id="avisen.dk" label="avisen.dk">
+        <attvalues>
+          <attvalue for="modularity class" value="0"/>
+        </attvalues>
+        <viz:size value="10.555553"/>
+        <viz:position x="1150.324" y="-230.73357"/>
+        <viz:color r="226" g="139" b="255"/>
+      </node>
+      <node id="english.sta.si" label="english.sta.si">
+        <attvalues>
+          <attvalue for="modularity class" value="0"/>
+        </attvalues>
+        <viz:size value="6.555553"/>
+        <viz:position x="1170.324" y="-250.73357"/>
+        <viz:color r="226" g="139" b="255"/>
+      </node>
       <node id="dailymail.co.uk" label="dailymail.co.uk">
         <attvalues>
           <attvalue for="modularity class" value="6"/>
@@ -1082,6 +1098,10 @@
       <edge id="1399" source="reddit.com" target="Forced Action"/>
       <edge id="1400" source="manilatimes.net" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
       <edge id="1401" source="politiken.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+      <edge id="1402" source="avisen.dk" target="Social Engineering"/>
+      <edge id="1403" source="avisen.dk" target="Forced Action"/>
+      <edge id="1404" source="english.sta.si" target="Forced Action"/>
+      <edge id="1405" source="english.sta.si" target="Social Engineering"/>
     </edges>
   </graph>
 </gexf>
