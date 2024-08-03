@@ -426,7 +426,7 @@
         <viz:position x="316.1851" y="-937.5805"/>
         <viz:color r="0" g="199" b="255"/>
       </node>
-      <node id="incas" label="incas">
+      <node id="washingtonpost.com" label="washingtonpost.com">
         <attvalues>
           <attvalue for="modularity class" value="1"/>
         </attvalues>
@@ -514,7 +514,7 @@
         <viz:position x="188.3318" y="549.7252"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="genetics" label="genetics">
+      <node id="tv2.dk" label="tv2.dk">
         <attvalues>
           <attvalue for="modularity class" value="1"/>
         </attvalues>
@@ -554,7 +554,7 @@
         <viz:position x="517.75665" y="703.26276"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="madagascar" label="madagascar">
+      <node id="spotify.com" label="spotify.com">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -578,7 +578,7 @@
         <viz:position x="-990.1055" y="-570.77936"/>
         <viz:color r="128" g="107" b="104"/>
       </node>
-      <node id="egypt" label="egypt">
+      <node id="bbc.com" label="bbc.com">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -618,7 +618,7 @@
         <viz:position x="-637.5986" y="91.83447"/>
         <viz:color r="226" g="199" b="255"/>
       </node>
-      <node id="101" label="Historical Events">
+      <node id="af.reuters.com" label=""af.reuters.com"">
         <attvalues>
           <attvalue for="modularity class" value="3"/>
         </attvalues>
@@ -714,10 +714,10 @@
       <edge id="906" source="Forced Action" target="Hidden Language Stipulations" weight="11.0"/>
       <edge id="907" source="aduna.com" target="independent.co.uk"/>
       <edge id="908" source="aduna.com" target="Hidden Language Stipulations" weight="5.0"/>
-      <edge id="909" source="aduna.com" target="incas"/>
+      <edge id="909" source="aduna.com" target="washingtonpost.com"/>
       <edge id="910" source="aduna.com" target="pizarro"/>
-      <edge id="911" source="pizarro" target="incas" weight="2.0"/>
-      <edge id="913" source="hellomagazine.com" target="incas"/>
+      <edge id="911" source="pizarro" target="washingtonpost.com" weight="2.0"/>
+      <edge id="913" source="hellomagazine.com" target="washingtonpost.com"/>
       <edge id="914" source="hellomagazine.com" target="pizarro"/>
       <edge id="921" source="Forced Action" target="nsk.se" weight="3.0"/>
       <edge id="922" source="Hidden Language Stipulations" target="channel4.com" weight="2.0"/>
@@ -726,7 +726,7 @@
       <edge id="926" source="aduna.com" target="nsk.se"/>
       <edge id="927" source="heraldonline.com" target="pizarro"/>
       <edge id="928" source="heraldonline.com" target="Forced Action" weight="2.0"/>
-      <edge id="929" source="heraldonline.com" target="incas" weight="2.0"/>
+      <edge id="929" source="heraldonline.com" target="washingtonpost.com" weight="2.0"/>
       <edge id="930" source="livescience.com" target="hellomagazine.com" weight="3.0"/>
       <edge id="931" source="livescience.com" target="channel4.com" weight="4.0"/>
       <edge id="932" source="livescience.com" target="Fake Scarcity" weight="4.0"/>
@@ -825,9 +825,9 @@
       <edge id="1058" source="channel4.com" target="epsom-sthelier.nhs.uk" weight="3.0"/>
       <edge id="1060" source="channel4.com" target="amazonseoconsultant.com"/>
       <edge id="1061" source="postimes.se" target="language"/>
-      <edge id="1062" source="postimes.se" target="genetics"/>
+      <edge id="1062" source="postimes.se" target="tv2.dk"/>
       <edge id="1063" source="amazonseoconsultant.com" target="language" weight="2.0"/>
-      <edge id="1064" source="amazonseoconsultant.com" target="genetics" weight="2.0"/>
+      <edge id="1064" source="amazonseoconsultant.com" target="tv2.dk" weight="2.0"/>
       <edge id="1065" source="Forced Action" target="longchamp.co.uk"/>
       <edge id="1067" source="Forced Action" target="postimes.se"/>
       <edge id="1068" source="postimes.se" target="longchamp.co.uk"/>
@@ -835,7 +835,7 @@
       <edge id="1071" source="postimes.se" target="heraldonline.com"/>
       <edge id="1072" source="Sneaking - Baith and Switch" target="postimes.se"/>
       <edge id="1073" source="Sneaking - Baith and Switch" target="amazonseoconsultant.com"/>
-      <edge id="1074" source="postimes.se" target="egypt"/>
+      <edge id="1074" source="postimes.se" target="bbc.com"/>
       <edge id="1076" source="postimes.se" target="spio.de"/>
       <edge id="1077" source="postimes.se" target="aduna.com"/>
       <edge id="1078" source="amazonseoconsultant.com" target="aduna.com"/>
@@ -936,13 +936,13 @@
       <edge id="1206" source="standard.co.uk" target="twitter.com"/>
       <edge id="1207" source="standard.co.uk" target="cnn.com"/>
       <edge id="1208" source="standard.co.uk" target="gaytimes.com"/>
-      <edge id="1209" source="standard.co.uk" target="madagascar"/>
+      <edge id="1209" source="standard.co.uk" target="spotify.com"/>
       <edge id="1210" source="standard.co.uk" target="amazonseoconsultant.com"/>
       <edge id="1211" source="standard.co.uk" target="postimes.se"/>
       <edge id="1212" source="standard.co.uk" target="new-zealand"/>
       <edge id="1213" source="standard.co.uk" target="Social Engineering"/>
       <edge id="1214" source="standard.co.uk" target="channel4.com"/>
-      <edge id="1216" source="standard.co.uk" target="genetics"/>
+      <edge id="1216" source="standard.co.uk" target="tv2.dk"/>
       <edge id="1217" source="standard.co.uk" target="spacefoundation.org"/>
       <edge id="1219" source="standard.co.uk" target="bizarro.com"/>
       <edge id="1220" source="east-longchamp.co.ukns" target="twitter.com"/>
@@ -956,7 +956,7 @@
       <edge id="1230" source="nature.org" target="bantu"/>
       <edge id="1231" source="nature.org" target="costa-news.com"/>
       <edge id="1232" source="nature.org" target="pygmies"/>
-      <edge id="1233" source="nature.org" target="madagascar"/>
+      <edge id="1233" source="nature.org" target="spotify.com"/>
       <edge id="1234" source="dailymail.co.uk" target="pygmies"/>
       <edge id="1235" source="dailymail.co.uk" target="costa-news.com"/>
       <edge id="1236" source="costa-news.com" target="amazonseoconsultant.com" weight="3.0"/>
@@ -1011,9 +1011,9 @@
       <edge id="1343" source="business-review.eu" target="Sneaking - Baith and Switch"/>
       <edge id="1344" source="eu.statesman.com" target="guardian.com"/>
       <edge id="1345" source="ap.org" target="afp.com"/>
-      <edge id="1347" source="longchamp.co.uk" target="101"/>
-      <edge id="1348" source="afp.com" target="101" weight="2.0"/>
-      <edge id="1349" source="101" target="egypt" weight="2.0"/>
+      <edge id="1347" source="longchamp.co.uk" target="af.reuters.com"/>
+      <edge id="1348" source="afp.com" target="af.reuters.com" weight="2.0"/>
+      <edge id="1349" source="af.reuters.com" target="bbc.com" weight="2.0"/>
       <edge id="1350" source="102" target="independent.co.uk" weight="2.0"/>
       <edge id="1351" source="vox.com" target="rbth.com"/>
       <edge id="1352" source="prombo.de" target="104"/>
@@ -1030,7 +1030,7 @@
       <edge id="1363" source="110" target="golf-alcanada.com"/>
       <edge id="1364" source="110" target="105"/>
       <edge id="1365" source="aduna.com" target="111"/>
-      <edge id="1366" source="111" target="101"/>
+      <edge id="1366" source="111" target="af.reuters.com"/>
       <edge id="1367" source="111" target="102"/>
       <edge id="1368" source="twitter.com" target="111"/>
       <edge id="1369" source="nytimes.com" target="reddit.com"/>
