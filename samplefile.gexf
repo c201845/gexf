@@ -314,7 +314,7 @@
         <viz:position x="1299.9371" y="-181.63957"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="khoisan" label="khoisan">
+      <node id="costa-news.com" label="costa-news.com">
         <attvalues>
           <attvalue for="modularity class" value="1"/>
         </attvalues>
@@ -615,14 +615,14 @@
         <viz:size value="10.0"/>
         <viz:position x="225.16687" y="-114.419556"/>
       </node>
-      <node id="105" label="Social Concepts">
+      <node id="105" label="icelandreview.com">
         <attvalues>
           <attvalue for="modularity class" value="1"/>
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="39.229492" y="319.7527"/>
       </node>
-      <node id="106" label="dragoer-nyt.dkal Issues">
+      <node id="106" label="dragoer-nyt.dk">
         <attvalues>
           <attvalue for="modularity class" value="4"/>
         </attvalues>
@@ -664,7 +664,7 @@
         <viz:size value="10.0"/>
         <viz:position x="278.2525" y="109.07782"/>
       </node>
-      <node id="413" label="SomethingNew">
+      <node id="reddit.com" label="reddit.com">
         <attvalues/>
         <viz:size value="10.0"/>
         <viz:position x="138.69922" y="-37.24994"/>
@@ -931,20 +931,20 @@
       <edge id="1226" source="postimes.se" target="australia"/>
       <edge id="1227" source="postimes.se" target="oceania"/>
       <edge id="1230" source="africa" target="bantu"/>
-      <edge id="1231" source="africa" target="khoisan"/>
+      <edge id="1231" source="africa" target="costa-news.com"/>
       <edge id="1232" source="africa" target="pygmies"/>
       <edge id="1233" source="africa" target="madagascar"/>
       <edge id="1234" source="dailymail.co.uk" target="pygmies"/>
-      <edge id="1235" source="dailymail.co.uk" target="khoisan"/>
-      <edge id="1236" source="khoisan" target="population-displacement" weight="3.0"/>
-      <edge id="1237" source="khoisan" target="europe"/>
-      <edge id="1238" source="khoisan" target="spio.de"/>
+      <edge id="1235" source="dailymail.co.uk" target="costa-news.com"/>
+      <edge id="1236" source="costa-news.com" target="population-displacement" weight="3.0"/>
+      <edge id="1237" source="costa-news.com" target="europe"/>
+      <edge id="1238" source="costa-news.com" target="spio.de"/>
       <edge id="1239" source="europe" target="population-displacement" weight="2.0"/>
       <edge id="1240" source="language" target="pygmies"/>
-      <edge id="1241" source="language" target="khoisan"/>
+      <edge id="1241" source="language" target="costa-news.com"/>
       <edge id="1242" source="population-displacement" target="bantu" weight="2.0"/>
       <edge id="1244" source="population-displacement" target="pygmies" weight="2.0"/>
-      <edge id="1245" source="bantu" target="khoisan" weight="2.0"/>
+      <edge id="1245" source="bantu" target="costa-news.com" weight="2.0"/>
       <edge id="1246" source="bantu" target="pygmies" weight="2.0"/>
       <edge id="1247" source="bantu" target="west-africa"/>
       <edge id="1249" source="bantu" target="sahel-zone"/>
@@ -1010,7 +1010,7 @@
       <edge id="1366" source="111" target="101"/>
       <edge id="1367" source="111" target="102"/>
       <edge id="1368" source="new-guinea" target="111"/>
-      <edge id="1369" source="106" target="413"/>
+      <edge id="1369" source="106" target="reddit.com"/>
       <edge id="1370" source="thejournal.ie" target="nsk.se" weight="2.0"/>
       <edge id="1371" source="Last Minute Consent" target="dailymail.co.uk" weight="2.0"/>
       <edge id="1372" source="webmd.com" target="Fake Scarcity" weight="2.0"/>
