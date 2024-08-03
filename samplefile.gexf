@@ -669,7 +669,7 @@
       </node>
       <node id="109" label="finlandtoday.fi">
         <attvalues>
-          <attvalue for="modularity class" value="1"/>
+          <attvalue for="modularity class" value="3"/>
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-137.22552" y="117.64569"/>
