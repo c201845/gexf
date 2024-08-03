@@ -845,7 +845,7 @@
         <viz:color r="128" g="128" b="0"/>
       </node>
 
-      <node id="techsavvy.com" label="techsavvy.com">
+      <node id="timescitizen.com" label="timescitizen.com">
     <attvalues>
         <attvalue for="modularity class" value="1"/>
     </attvalues>
@@ -854,7 +854,7 @@
     <viz:color r="100" g="150" b="255"/>
 </node>
 
-<node id="healthguru.net" label="healthguru.net">
+<node id="sciencechannel.com" label="sciencechannel.com">
     <attvalues>
         <attvalue for="modularity class" value="2"/>
     </attvalues>
@@ -863,7 +863,7 @@
     <viz:color r="255" g="100" b="100"/>
 </node>
 
-<node id="foodiehub.org" label="foodiehub.org">
+<node id="hastingsindependpress.co.uk" label="hastingsindependpress.co.uk">
     <attvalues>
         <attvalue for="modularity class" value="3"/>
     </attvalues>
@@ -872,7 +872,7 @@
     <viz:color r="100" g="255" b="100"/>
 </node>
 
-<node id="travelgenius.com" label="travelgenius.com">
+<node id="laholm.lokaltindningen.se" label="laholm.lokaltindningen.se">
     <attvalues>
         <attvalue for="modularity class" value="4"/>
     </attvalues>
@@ -881,7 +881,7 @@
     <viz:color r="255" g="200" b="50"/>
 </node>
 
-<node id="artisticmind.net" label="artisticmind.net">
+<node id="wjn.com" label="wjn.com">
     <attvalues>
         <attvalue for="modularity class" value="5"/>
     </attvalues>
@@ -908,7 +908,7 @@
     <viz:color r="255" g="200" b="150"/>
 </node>
 
-<node id="gamerzone.net" label="gamerzone.net">
+<node id="thenorthernecho.co.uk" label="thenorthernecho.co.uk">
     <attvalues>
         <attvalue for="modularity class" value="8"/>
     </attvalues>
@@ -917,7 +917,7 @@
     <viz:color r="100" g="255" b="200"/>
 </node>
 
-<node id="literaryhaven.org" label="literaryhaven.org">
+<node id="sn.dk" label="sn.dk">
     <attvalues>
         <attvalue for="modularity class" value="9"/>
     </attvalues>
@@ -926,7 +926,7 @@
     <viz:color r="255" g="150" b="150"/>
 </node>
 
-<node id="techreviews.com" label="techreviews.com">
+<node id="tidende.dk" label="tidende.dk">
     <attvalues>
         <attvalue for="modularity class" value="10"/>
     </attvalues>
@@ -935,7 +935,7 @@
     <viz:color r="150" g="200" b="255"/>
 </node>
 
-<node id="urbanlifestyle.net" label="urbanlifestyle.net">
+<node id="gaytimes.co.uk" label="gaytimes.co.uk">
     <attvalues>
         <attvalue for="modularity class" value="11"/>
     </attvalues>
@@ -944,7 +944,7 @@
     <viz:color r="255" g="255" b="100"/>
 </node>
 
-<node id="diyprojects.org" label="diyprojects.org">
+<node id="magazinedirect.com" label="magazinedirect.com">
     <attvalues>
         <attvalue for="modularity class" value="12"/>
     </attvalues>
@@ -1349,41 +1349,20 @@
       <edge id="1427" source="nychealthandhospitals.org" target="Obstruction"/>
       <edge id="1428" source="sermitsiaq.ag" target="Obstruction"/>
 
-      <edge id="1429" source="techsavvy.com" target="Obstruction"/>
+      <edge id="1429" source="timescitizen.com" target="Obstruction"/>
+      <edge id="1430" source="sciencechannel.com" target="Obstruction"/>
+      <edge id="1431" source="hastingsindependpress.co.uk" target="Obstruction"/>
+      <edge id="1432" source="laholm.lokaltindningen.se" target="Obstruction"/>
+      <edge id="1433" source="wjn.com" target="Obstruction"/>
+      <edge id="1434" source="greenenergy.org" target="Obstruction"/>
+      <edge id="1435" source="fintechinsights.com" target="Obstruction"/>
+      <edge id="1436" source="thenorthernecho.co.uk" target="Obstruction"/>
+      <edge id="1437" source="sn.dk" target="Obstruction"/>
+      <edge id="1438" source="tidende.dk" target="Obstruction"/>
+      <edge id="1439" source="gaytimes.co.uk" target="Obstruction"/>
+      <edge id="1440" source="magazinedirect.com" target="Obstruction"/>
 
-<edge id="1430" source="healthguru.net" target="Obstruction"/>
-   
-
-<edge id="1431" source="foodiehub.org" target="Obstruction"/>
-
-
-<edge id="1432" source="travelgenius.com" target="Obstruction"/>
-    
-
-<edge id="1433" source="artisticmind.net" target="Obstruction"/>
-    
-
-<edge id="1434" source="greenenergy.org" target="Obstruction"/>
-  
-
-<edge id="1435" source="fintechinsights.com" target="Obstruction"/>
-   
-
-<edge id="1436" source="gamerzone.net" target="Obstruction"/>
-
-<edge id="1437" source="literaryhaven.org" target="Obstruction"/>
  
-
-<edge id="1438" source="techreviews.com" target="Obstruction"/>
-  
-
-<edge id="1439" source="urbanlifestyle.net" target="Obstruction"/>
- 
-
-<edge id="1440" source="diyprojects.org" target="Obstruction"/>
- 
-
-
     </edges>
   </graph>
 </gexf>
