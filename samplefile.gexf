@@ -258,7 +258,7 @@
         <viz:position x="67.529274" y="-1004.3016"/>
         <viz:color r="0" g="199" b="255"/>
       </node>
-      <node id="central-government" label="central-government">
+      <node id="nsk.se" label="nsk.se">
         <attvalues>
           <attvalue for="modularity class" value="4"/>
         </attvalues>
@@ -362,7 +362,7 @@
         <viz:position x="-1101.8025" y="376.1578"/>
         <viz:color r="255" g="93" b="133"/>
       </node>
-      <node id="chiefdoms" label="chiefdoms">
+      <node id="elpais" label="elpais">
         <attvalues>
           <attvalue for="modularity class" value="6"/>
         </attvalues>
@@ -663,11 +663,11 @@
       <edge id="911" source="pizarro" target="incas" weight="2.0"/>
       <edge id="913" source="germs" target="incas"/>
       <edge id="914" source="germs" target="pizarro"/>
-      <edge id="921" source="societal-advantage" target="central-government" weight="3.0"/>
+      <edge id="921" source="societal-advantage" target="nsk.se" weight="3.0"/>
       <edge id="922" source="europe" target="technology" weight="2.0"/>
-      <edge id="924" source="europe" target="central-government" weight="2.0"/>
+      <edge id="924" source="europe" target="nsk.se" weight="2.0"/>
       <edge id="925" source="americas" target="technology" weight="2.0"/>
-      <edge id="926" source="americas" target="central-government"/>
+      <edge id="926" source="americas" target="nsk.se"/>
       <edge id="927" source="writing" target="pizarro"/>
       <edge id="928" source="writing" target="societal-advantage" weight="2.0"/>
       <edge id="929" source="writing" target="incas" weight="2.0"/>
@@ -676,26 +676,26 @@
       <edge id="932" source="livescience" target="Fake Scarcity" weight="4.0"/>
       <edge id="933" source="Fake Scarcity" target="bands" weight="3.0"/>
       <edge id="934" source="Fake Scarcity" target="tribes" weight="3.0"/>
-      <edge id="935" source="Fake Scarcity" target="chiefdoms" weight="3.0"/>
+      <edge id="935" source="Fake Scarcity" target="elpais" weight="3.0"/>
       <edge id="936" source="Fake Scarcity" target="english.radio" weight="3.0"/>
       <edge id="937" source="bands" target="new-guinea"/>
       <edge id="938" source="bands" target="americas"/>
       <edge id="940" source="bands" target="dailymail" weight="2.0"/>
       <edge id="941" source="tribes" target="food-production"/>
-      <edge id="944" source="chiefdoms" target="newsinenglish"/>
-      <edge id="945" source="chiefdoms" target="central-government"/>
-      <edge id="946" source="chiefdoms" target="technology"/>
+      <edge id="944" source="elpais" target="newsinenglish"/>
+      <edge id="945" source="elpais" target="nsk.se"/>
+      <edge id="946" source="elpais" target="technology"/>
       <edge id="948" source="english.radio" target="war" weight="2.0"/>
       <edge id="949" source="english.radio" target="newsinenglish"/>
       <edge id="950" source="english.radio" target="technology"/>
       <edge id="951" source="war" target="newsinenglish"/>
       <edge id="952" source="writing" target="english.radio"/>
-      <edge id="954" source="livescience" target="central-government" weight="2.0"/>
+      <edge id="954" source="livescience" target="nsk.se" weight="2.0"/>
       <edge id="960" source="bands" target="tribes"/>
       <edge id="961" source="bands" target="food-production"/>
       <edge id="963" source="war" target="bands"/>
       <edge id="964" source="war" target="tribes"/>
-      <edge id="965" source="war" target="chiefdoms"/>
+      <edge id="965" source="war" target="elpais"/>
       <edge id="967" source="livescience" target="food-production" weight="4.0"/>
       <edge id="968" source="livescience" target="animals"/>
       <edge id="969" source="livescience" target="war" weight="2.0"/>
@@ -756,7 +756,7 @@
       <edge id="1036" source="germs" target="food-production"/>
       <edge id="1039" source="germs" target="europe" weight="2.0"/>
       <edge id="1040" source="germs" target="asia"/>
-      <edge id="1046" source="writing" target="central-government"/>
+      <edge id="1046" source="writing" target="nsk.se"/>
       <edge id="1047" source="writing" target="isolation"/>
       <edge id="1048" source="writing" target="americas" weight="2.0"/>
       <edge id="1049" source="writing" target="africa"/>
@@ -948,7 +948,7 @@
       <edge id="1329" source="societal-advantage" target="fertile-crescent"/>
       <edge id="1331" source="fertile-crescent" target="europe"/>
       <edge id="1335" source="europe" target="china"/>
-      <edge id="1337" source="china" target="central-government"/>
+      <edge id="1337" source="china" target="nsk.se"/>
       <edge id="1338" source="china" target="food-production"/>
       <edge id="1340" source="china" target="technology"/>
       <edge id="1341" source="china" target="germs"/>
@@ -969,7 +969,7 @@
       <edge id="1357" source="111" target="sahel-zone"/>
       <edge id="1358" source="111" target="107" weight="2.0"/>
       <edge id="1359" source="107" target="australia"/>
-      <edge id="1360" source="107" target="central-government"/>
+      <edge id="1360" source="107" target="nsk.se"/>
       <edge id="1361" source="108" target="size"/>
       <edge id="1362" source="ethiopia" target="109"/>
       <edge id="1363" source="110" target="109"/>
