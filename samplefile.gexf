@@ -625,9 +625,9 @@
         <viz:size value="10.0"/>
         <viz:position x="-216.43723" y="-327.02686"/>
       </node>
-      <node id="102" label="Modern channel4.com">
+      <node id="102" label="dw.com">
         <attvalues>
-          <attvalue for="modularity class" value="1"/>
+          <attvalue for="modularity class" value="2"/>
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-116.57971" y="-373.3735"/>
@@ -1054,6 +1054,7 @@
       <edge id="1387" source="rbth.com"  target="Hidden Language Stipulations"/>
       <edge id="1388" source="vox.com"  target="Hidden Language Stipulations"/>
       <edge id="1389" source="ncbc.com"  target="Hidden Language Stipulations"/>
+      <edge id="1390" source="dw.com"  target="Hidden Language Stipulations"/>
     </edges>
   </graph>
 </gexf>
