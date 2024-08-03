@@ -194,7 +194,7 @@
         <viz:position x="121.49702" y="-608.86414"/>
         <viz:color r="128" g="107" b="104"/>
       </node>
-      <node id="fertile-crescent" label="fertile-crescent">
+      <node id="nationalgeographic.com" label="nationalgeographic.com">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -258,7 +258,7 @@
         <viz:position x="734.3659" y="-1017.902"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="animal-domestication" label="animal-domestication">
+      <node id="business-review.eu" label="business-review.eu">
         <attvalues>
           <attvalue for="modularity class" value="2"/>
         </attvalues>
@@ -298,7 +298,7 @@
         <viz:position x="-282.93442" y="254.07343"/>
         <viz:color r="105" g="196" b="4"/>
       </node>
-      <node id="mesoamerica" label="mesoamerica">
+      <node id="algarvedailynews.com" label="algarvedailynews.com">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -506,7 +506,7 @@
         <viz:position x="-139.89705" y="862.2211"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="south-american-andes" label="south-american-andes">
+      <node id="firstnews.co.uk" label="firstnews.co.uk">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -761,10 +761,10 @@
       <edge id="975" source="Social Engineering" target="Sneaking - Baith and Switch"/>
       <edge id="976" source="Social Engineering" target="bloomberg.com"/>
       <edge id="977" source="Social Engineering" target="guardian.com"/>
-      <edge id="978" source="founder-package" target="fertile-crescent"/>
+      <edge id="978" source="founder-package" target="nationalgeographic.com"/>
       <edge id="979" source="founder-package" target="china"/>
-      <edge id="980" source="founder-package" target="mesoamerica"/>
-      <edge id="981" source="founder-package" target="south-american-andes"/>
+      <edge id="980" source="founder-package" target="algarvedailynews.com"/>
+      <edge id="981" source="founder-package" target="firstnews.co.uk"/>
       <edge id="982" source="founder-package" target="agderposten.no"/>
       <edge id="983" source="founder-package" target="sahel-zone"/>
       <edge id="984" source="founder-package" target="west-africa"/>
@@ -772,34 +772,34 @@
       <edge id="986" source="founder-package" target="new-guinea"/>
       <edge id="987" source="founder-package" target="nutrition"/>
       <edge id="988" source="founder-package" target="guardian.com"/>
-      <edge id="989" source="economictimes.indiatimes.com" target="fertile-crescent" weight="2.0"/>
-      <edge id="990" source="MVCA(e.g. False Hiearchy)" target="animal-domestication" weight="2.0"/>
-      <edge id="991" source="animal-domestication" target="americas"/>
-      <edge id="992" source="animal-domestication" target="oceania"/>
-      <edge id="993" source="animal-domestication" target="longchamp.co.uk"/>
-      <edge id="994" source="animal-domestication" target="europe"/>
-      <edge id="995" source="animal-domestication" target="africa"/>
+      <edge id="989" source="economictimes.indiatimes.com" target="nationalgeographic.com" weight="2.0"/>
+      <edge id="990" source="MVCA(e.g. False Hiearchy)" target="business-review.eu" weight="2.0"/>
+      <edge id="991" source="business-review.eu" target="americas"/>
+      <edge id="992" source="business-review.eu" target="oceania"/>
+      <edge id="993" source="business-review.eu" target="longchamp.co.uk"/>
+      <edge id="994" source="business-review.eu" target="europe"/>
+      <edge id="995" source="business-review.eu" target="africa"/>
       <edge id="996" source="ap.org" target="Social Engineering"/>
       <edge id="997" source="ap.org" target="americas"/>
       <edge id="998" source="MVCA(e.g. False Hiearchy)" target="mirror.co.uk" weight="3.0"/>
       <edge id="999" source="MVCA(e.g. False Hiearchy)" target="dragoer-nyt.dk" weight="4.0"/>
-      <edge id="1000" source="MVCA(e.g. False Hiearchy)" target="fertile-crescent" weight="2.0"/>
-      <edge id="1001" source="MVCA(e.g. False Hiearchy)" target="mesoamerica" weight="2.0"/>
+      <edge id="1000" source="MVCA(e.g. False Hiearchy)" target="nationalgeographic.com" weight="2.0"/>
+      <edge id="1001" source="MVCA(e.g. False Hiearchy)" target="algarvedailynews.com" weight="2.0"/>
       <edge id="1002" source="MVCA(e.g. False Hiearchy)" target="agderposten.no" weight="2.0"/>
-      <edge id="1003" source="fertile-crescent" target="mesoamerica"/>
-      <edge id="1004" source="fertile-crescent" target="south-west-us"/>
-      <edge id="1007" source="fertile-crescent" target="size"/>
-      <edge id="1008" source="fertile-crescent" target="animal-domestication"/>
-      <edge id="1009" source="fertile-crescent" target="guardian.com"/>
-      <edge id="1010" source="fertile-crescent" target="bloomberg.com"/>
+      <edge id="1003" source="nationalgeographic.com" target="algarvedailynews.com"/>
+      <edge id="1004" source="nationalgeographic.com" target="south-west-us"/>
+      <edge id="1007" source="nationalgeographic.com" target="size"/>
+      <edge id="1008" source="nationalgeographic.com" target="business-review.eu"/>
+      <edge id="1009" source="nationalgeographic.com" target="guardian.com"/>
+      <edge id="1010" source="nationalgeographic.com" target="bloomberg.com"/>
       <edge id="1011" source="MVCA(e.g. False Hiearchy)" target="spio.de"/>
       <edge id="1012" source="MVCA(e.g. False Hiearchy)" target="aars.dk"/>
       <edge id="1013" source="MVCA(e.g. False Hiearchy)" target="south-west-us"/>
       <edge id="1014" source="MVCA(e.g. False Hiearchy)" target="australia"/>
-      <edge id="1019" source="mesoamerica" target="economictimes.indiatimes.com"/>
-      <edge id="1020" source="mesoamerica" target="animal-domestication"/>
+      <edge id="1019" source="algarvedailynews.com" target="economictimes.indiatimes.com"/>
+      <edge id="1020" source="algarvedailynews.com" target="business-review.eu"/>
       <edge id="1021" source="agderposten.no" target="economictimes.indiatimes.com"/>
-      <edge id="1022" source="agderposten.no" target="animal-domestication"/>
+      <edge id="1022" source="agderposten.no" target="business-review.eu"/>
       <edge id="1024" source="dragoer-nyt.dk" target="Social Engineering"/>
       <edge id="1026" source="new-guinea" target="Sneaking - Baith and Switch" weight="2.0"/>
       <edge id="1029" source="MVCA(e.g. False Hiearchy)" target="economictimes.indiatimes.com"/>
@@ -818,9 +818,9 @@
       <edge id="1050" source="writing" target="polynesia"/>
       <edge id="1051" source="writing" target="hawaii"/>
       <edge id="1052" source="technology" target="postimes.se" weight="3.0"/>
-      <edge id="1053" source="technology" target="mesoamerica"/>
-      <edge id="1054" source="technology" target="south-american-andes"/>
-      <edge id="1055" source="mesoamerica" target="south-american-andes"/>
+      <edge id="1053" source="technology" target="algarvedailynews.com"/>
+      <edge id="1054" source="technology" target="firstnews.co.uk"/>
+      <edge id="1055" source="algarvedailynews.com" target="firstnews.co.uk"/>
       <edge id="1057" source="Forced Action" target="Sneaking - Baith and Switch" weight="3.0"/>
       <edge id="1058" source="technology" target="epsom-sthelier.nhs.uk" weight="3.0"/>
       <edge id="1060" source="technology" target="population-displacement"/>
@@ -855,7 +855,7 @@
       <edge id="1092" source="africa" target="sahel-zone"/>
       <edge id="1093" source="africa" target="ethiopia"/>
       <edge id="1094" source="africa" target="west-africa"/>
-      <edge id="1095" source="africa" target="fertile-crescent"/>
+      <edge id="1095" source="africa" target="nationalgeographic.com"/>
       <edge id="1096" source="africa" target="china"/>
       <edge id="1097" source="africa" target="Social Engineering"/>
       <edge id="1098" source="polynesia" target="Sneaking - Baith and Switch"/>
@@ -1000,15 +1000,15 @@
       <edge id="1320" source="europe" target="size"/>
       <edge id="1321" source="africa" target="early-food-production"/>
       <edge id="1323" source="africa" target="size"/>
-      <edge id="1329" source="Forced Action" target="fertile-crescent"/>
-      <edge id="1331" source="fertile-crescent" target="europe"/>
+      <edge id="1329" source="Forced Action" target="nationalgeographic.com"/>
+      <edge id="1331" source="nationalgeographic.com" target="europe"/>
       <edge id="1335" source="europe" target="china"/>
       <edge id="1337" source="china" target="nsk.se"/>
       <edge id="1338" source="china" target="Sneaking - Baith and Switch"/>
       <edge id="1340" source="china" target="technology"/>
       <edge id="1341" source="china" target="germs"/>
       <edge id="1342" source="economictimes.indiatimes.com" target="Sneaking - Baith and Switch"/>
-      <edge id="1343" source="animal-domestication" target="Sneaking - Baith and Switch"/>
+      <edge id="1343" source="business-review.eu" target="Sneaking - Baith and Switch"/>
       <edge id="1344" source="eu.statesman.com" target="guardian.com"/>
       <edge id="1345" source="ap.org" target="afp.com"/>
       <edge id="1347" source="longchamp.co.uk" target="101"/>
