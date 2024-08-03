@@ -835,7 +835,7 @@
         <viz:size value="11.111111"/>
         <viz:color r="128" g="0" b="128"/>
       </node>
-      <node id="unicef.org" label="unicef.org">
+      <node id="sermitsiaq.ag" label="sermitsiaq.ag">
         <attvalues>
           <attvalue for="modularity class" value="10"/>
         </attvalues>
@@ -1237,7 +1237,7 @@
       <edge id="1425" source="timevalleytimes.co.uk" target="Obstruction"/>
       <edge id="1426" source="thecourier.co.uk" target="Obstruction"/>
       <edge id="1427" source="nychealthandhospitals.org" target="Obstruction"/>
-      <edge id="1428" source="unicef.org.com" target="Obstruction"/>
+      <edge id="1428" source="sermitsiaq.ag" target="Obstruction"/>
     </edges>
   </graph>
 </gexf>
