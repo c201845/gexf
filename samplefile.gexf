@@ -1043,6 +1043,9 @@
       <edge id="1376" source="berlingskemdia.dk" target="euractiv.com" weight="2.0"/>
       <edge id="1377" source="Trick Questions" target="Social Engineering"/>
       <edge id="1378" source="MVCA(e.g. False Hiearchy)" target="hindustantimes.com"/>
+      <edge id="1379" source="Hidden Language Stipulations" target="ebay.co.uk"/>
+      <edge id="1380" source="Hidden Language Stipulations"  target="krakowpost.com"/>
+    
     </edges>
   </graph>
 </gexf>
