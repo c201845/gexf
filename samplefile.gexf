@@ -370,7 +370,7 @@
         <viz:position x="-1086.9775" y="262.11548"/>
         <viz:color r="255" g="93" b="133"/>
       </node>
-      <node id="states" label="states">
+      <node id="english.radio" label="english.radio">
         <attvalues>
           <attvalue for="modularity class" value="6"/>
         </attvalues>
@@ -394,7 +394,7 @@
         <viz:position x="-698.2391" y="-902.8502"/>
         <viz:color r="0" g="199" b="255"/>
       </node>
-      <node id="religion" label="religion">
+      <node id="newsinenglish" label="newsinenglish">
         <attvalues>
           <attvalue for="modularity class" value="4"/>
         </attvalues>
@@ -677,19 +677,19 @@
       <edge id="933" source="Fake Scarcity" target="bands" weight="3.0"/>
       <edge id="934" source="Fake Scarcity" target="tribes" weight="3.0"/>
       <edge id="935" source="Fake Scarcity" target="chiefdoms" weight="3.0"/>
-      <edge id="936" source="Fake Scarcity" target="states" weight="3.0"/>
+      <edge id="936" source="Fake Scarcity" target="english.radio" weight="3.0"/>
       <edge id="937" source="bands" target="new-guinea"/>
       <edge id="938" source="bands" target="americas"/>
       <edge id="940" source="bands" target="dailymail" weight="2.0"/>
       <edge id="941" source="tribes" target="food-production"/>
-      <edge id="944" source="chiefdoms" target="religion"/>
+      <edge id="944" source="chiefdoms" target="newsinenglish"/>
       <edge id="945" source="chiefdoms" target="central-government"/>
       <edge id="946" source="chiefdoms" target="technology"/>
-      <edge id="948" source="states" target="war" weight="2.0"/>
-      <edge id="949" source="states" target="religion"/>
-      <edge id="950" source="states" target="technology"/>
-      <edge id="951" source="war" target="religion"/>
-      <edge id="952" source="writing" target="states"/>
+      <edge id="948" source="english.radio" target="war" weight="2.0"/>
+      <edge id="949" source="english.radio" target="newsinenglish"/>
+      <edge id="950" source="english.radio" target="technology"/>
+      <edge id="951" source="war" target="newsinenglish"/>
+      <edge id="952" source="writing" target="english.radio"/>
       <edge id="954" source="livescience" target="central-government" weight="2.0"/>
       <edge id="960" source="bands" target="tribes"/>
       <edge id="961" source="bands" target="food-production"/>
@@ -699,7 +699,7 @@
       <edge id="967" source="livescience" target="food-production" weight="4.0"/>
       <edge id="968" source="livescience" target="animals"/>
       <edge id="969" source="livescience" target="war" weight="2.0"/>
-      <edge id="971" source="livescience" target="religion"/>
+      <edge id="971" source="livescience" target="newsinenglish"/>
       <edge id="973" source="livescience" target="writing" weight="2.0"/>
       <edge id="974" source="animals" target="war"/>
       <edge id="975" source="animals" target="food-production"/>
