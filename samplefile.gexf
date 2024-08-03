@@ -1343,6 +1343,7 @@
       <edge id="1413" source="spotify.com" target="Obstruction"/>
       <edge id="1414" source="twitter.com" target="Obstruction"/>
       <edge id="1415" source="dailymail.co.uk" target="Obstruction"/>
+      
       <edge id="1416" source="bladet.no" target="Obstruction"/>
       <edge id="1417" source="budstika.no" target="Obstruction"/>
       <edge id="1418" source="perezhulton.com" target="Obstruction"/>
@@ -1371,7 +1372,37 @@
       <edge id="1440" source="magazinedirect.com" target="Obstruction"/>
       <edge id="1441" source="mercedesenthusiast.co.uk" target="Obstruction"/>
       <edge id="1442" source="newscientist.com" target="Obstruction"/>
+
+      <edge id="1443" source="bladet.no" target="Sneaking - Baith and Switch"/>
+      <edge id="1444" source="budstika.no" target="Sneaking - Baith and Switch"/>
+      <edge id="1445" source="perezhulton.com" target="Sneaking - Baith and Switch"/>
+      <edge id="1446" source="unicef.org" target="Sneaking - Baith and Switch"/>
+      <edge id="1447" source="hulu.com" target="Sneaking - Baith and Switch"/>
+      <edge id="1448" source="pinterest.co.uk" target="Sneaking - Baith and Switch"/>
+      <edge id="1449" source="maltatoday.com.mt" target="Sneaking - Baith and Switch"/>
+      <edge id="1450" source="kjavis.dk" target="Sneaking - Baith and Switch"/>
+      <edge id="1451" source="anywayanyday.com" target="Sneaking - Baith and Switch"/>
+      <edge id="1452" source="timevalleytimes.co.uk" target="Sneaking - Baith and Switch"/>
+      <edge id="1453" source="thecourier.co.uk" target="Sneaking - Baith and Switch"/>
+      <edge id="1454" source="nychealthandhospitals.org" target="Sneaking - Baith and Switch"/>
+      <edge id="1455" source="sermitsiaq.ag" target="Sneaking - Baith and Switch"/>
+
+      <edge id="1456" source="timescitizen.com" target="Sneaking - Baith and Switch"/>
+      <edge id="1457" source="sciencechannel.com" target="Sneaking - Baith and Switch"/>
+      <edge id="1458" source="hastingsindependpress.co.uk" target="Sneaking - Baith and Switch"/>
+      <edge id="1459" source="laholm.lokaltindningen.se" target="Sneaking - Baith and Switch"/>
+      <edge id="1460" source="wjn.com" target="Sneaking - Baith and Switch"/>
+      <edge id="1461" source="greenenergy.org" target="Sneaking - Baith and Switch"/>
+      <edge id="1462" source="fintechinsights.com" target="Sneaking - Baith and Switch"/>
+      <edge id="1463" source="thenorthernecho.co.uk" target="Sneaking - Baith and Switch"/>
+      <edge id="1464" source="sn.dk" target="Sneaking - Baith and Switch"/>
+      <edge id="1465" source="tidende.dk" target="Sneaking - Baith and Switch"/>
+      <edge id="1466" source="gaytimes.co.uk" target="Sneaking - Baith and Switch"/>
+      <edge id="1467" source="magazinedirect.com" target="Sneaking - Baith and Switch"/>
+      <edge id="1468" source="mercedesenthusiast.co.uk" target="Sneaking - Baith and Switch"/>
+      <edge id="1469" source="newscientist.com" target="Sneaking - Baith and Switch"/>
  
+
     </edges>
   </graph>
 </gexf>
