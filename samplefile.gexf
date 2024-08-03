@@ -763,7 +763,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="147.92566" y="115.95911"/>
-       </node>
+      </node>
         <node id="unicef.org" label="unicef.org">
         <attvalues>
           <attvalue for="modularity class" value="1"/>
@@ -844,7 +844,117 @@
         <viz:size value="11.111111"/>
         <viz:color r="128" g="128" b="0"/>
       </node>
-   
+
+      <node id="techsavvy.com" label="techsavvy.com">
+    <attvalues>
+        <attvalue for="modularity class" value="1"/>
+    </attvalues>
+    <viz:position x="100.0" y="200.0"/>
+    <viz:size value="12.0"/>
+    <viz:color r="100" g="150" b="255"/>
+</node>
+
+<node id="healthguru.net" label="healthguru.net">
+    <attvalues>
+        <attvalue for="modularity class" value="2"/>
+    </attvalues>
+    <viz:position x="300.0" y="200.0"/>
+    <viz:size value="12.0"/>
+    <viz:color r="255" g="100" b="100"/>
+</node>
+
+<node id="foodiehub.org" label="foodiehub.org">
+    <attvalues>
+        <attvalue for="modularity class" value="3"/>
+    </attvalues>
+    <viz:position x="500.0" y="200.0"/>
+    <viz:size value="12.0"/>
+    <viz:color r="100" g="255" b="100"/>
+</node>
+
+<node id="travelgenius.com" label="travelgenius.com">
+    <attvalues>
+        <attvalue for="modularity class" value="4"/>
+    </attvalues>
+    <viz:position x="700.0" y="200.0"/>
+    <viz:size value="12.0"/>
+    <viz:color r="255" g="200" b="50"/>
+</node>
+
+<node id="artisticmind.net" label="artisticmind.net">
+    <attvalues>
+        <attvalue for="modularity class" value="5"/>
+    </attvalues>
+    <viz:position x="100.0" y="400.0"/>
+    <viz:size value="12.0"/>
+    <viz:color r="200" g="100" b="255"/>
+</node>
+
+<node id="greenenergy.org" label="greenenergy.org">
+    <attvalues>
+        <attvalue for="modularity class" value="6"/>
+    </attvalues>
+    <viz:position x="300.0" y="400.0"/>
+    <viz:size value="12.0"/>
+    <viz:color r="50" g="255" b="50"/>
+</node>
+
+<node id="fintechinsights.com" label="fintechinsights.com">
+    <attvalues>
+        <attvalue for="modularity class" value="7"/>
+    </attvalues>
+    <viz:position x="500.0" y="400.0"/>
+    <viz:size value="12.0"/>
+    <viz:color r="255" g="200" b="150"/>
+</node>
+
+<node id="gamerzone.net" label="gamerzone.net">
+    <attvalues>
+        <attvalue for="modularity class" value="8"/>
+    </attvalues>
+    <viz:position x="700.0" y="400.0"/>
+    <viz:size value="12.0"/>
+    <viz:color r="100" g="255" b="200"/>
+</node>
+
+<node id="literaryhaven.org" label="literaryhaven.org">
+    <attvalues>
+        <attvalue for="modularity class" value="9"/>
+    </attvalues>
+    <viz:position x="100.0" y="600.0"/>
+    <viz:size value="12.0"/>
+    <viz:color r="255" g="150" b="150"/>
+</node>
+
+<node id="techreviews.com" label="techreviews.com">
+    <attvalues>
+        <attvalue for="modularity class" value="10"/>
+    </attvalues>
+    <viz:position x="300.0" y="600.0"/>
+    <viz:size value="12.0"/>
+    <viz:color r="150" g="200" b="255"/>
+</node>
+
+<node id="urbanlifestyle.net" label="urbanlifestyle.net">
+    <attvalues>
+        <attvalue for="modularity class" value="11"/>
+    </attvalues>
+    <viz:position x="500.0" y="600.0"/>
+    <viz:size value="12.0"/>
+    <viz:color r="255" g="255" b="100"/>
+</node>
+
+<node id="diyprojects.org" label="diyprojects.org">
+    <attvalues>
+        <attvalue for="modularity class" value="12"/>
+    </attvalues>
+    <viz:position x="700.0" y="600.0"/>
+    <viz:size value="12.0"/>
+    <viz:color r="100" g="255" b="150"/>
+</node>
+
+     
+
     </nodes>
     <edges>
       <edge id="896" source="Forced Action" target="mirror.co.uk" weight="2.0"/>
@@ -1238,6 +1348,42 @@
       <edge id="1426" source="thecourier.co.uk" target="Obstruction"/>
       <edge id="1427" source="nychealthandhospitals.org" target="Obstruction"/>
       <edge id="1428" source="sermitsiaq.ag" target="Obstruction"/>
+
+      <edge id="1429" source="techsavvy.com" target="Obstruction"/>
+
+<edge id="1430" source="healthguru.net" target="Obstruction"/>
+   
+
+<edge id="1431" source="foodiehub.org" target="Obstruction"/>
+
+
+<edge id="1432" source="travelgenius.com" target="Obstruction"/>
+    
+
+<edge id="1433" source="artisticmind.net" target="Obstruction"/>
+    
+
+<edge id="1434" source="greenenergy.org" target="Obstruction"/>
+  
+
+<edge id="1435" source="fintechinsights.com" target="Obstruction"/>
+   
+
+<edge id="1436" source="gamerzone.net" target="Obstruction"/>
+
+<edge id="1437" source="literaryhaven.org" target="Obstruction"/>
+ 
+
+<edge id="1438" source="techreviews.com" target="Obstruction"/>
+  
+
+<edge id="1439" source="urbanlifestyle.net" target="Obstruction"/>
+ 
+
+<edge id="1440" source="diyprojects.org" target="Obstruction"/>
+ 
+
+
     </edges>
   </graph>
 </gexf>
