@@ -602,7 +602,7 @@
         <viz:position x="762.7858" y="922.955"/>
         <viz:color r="250" g="146" b="0"/>
       </node>
-      <node id="chile" label="chile">
+      <node id="aars.dk" label="aars.dk">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -610,7 +610,7 @@
         <viz:position x="-633.2349" y="92.270836"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="gabs" label="gabs">
+      <node id="afp.com" label="afp.com">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -793,7 +793,7 @@
       <edge id="1009" source="fertile-crescent" target="guardian.com"/>
       <edge id="1010" source="fertile-crescent" target="bloomberg.com"/>
       <edge id="1011" source="MVCA(e.g. False Hiearchy)" target="spio.de"/>
-      <edge id="1012" source="MVCA(e.g. False Hiearchy)" target="chile"/>
+      <edge id="1012" source="MVCA(e.g. False Hiearchy)" target="aars.dk"/>
       <edge id="1013" source="MVCA(e.g. False Hiearchy)" target="south-west-us"/>
       <edge id="1014" source="MVCA(e.g. False Hiearchy)" target="australia"/>
       <edge id="1019" source="mesoamerica" target="plant-domestication"/>
@@ -1010,9 +1010,9 @@
       <edge id="1342" source="plant-domestication" target="Sneaking - Baith and Switch"/>
       <edge id="1343" source="animal-domestication" target="Sneaking - Baith and Switch"/>
       <edge id="1344" source="eu.statesman.com" target="guardian.com"/>
-      <edge id="1345" source="ap.org" target="gabs"/>
+      <edge id="1345" source="ap.org" target="afp.com"/>
       <edge id="1347" source="longchamp.co.uk" target="101"/>
-      <edge id="1348" source="gabs" target="101" weight="2.0"/>
+      <edge id="1348" source="afp.com" target="101" weight="2.0"/>
       <edge id="1349" source="101" target="egypt" weight="2.0"/>
       <edge id="1350" source="102" target="independent.co.uk" weight="2.0"/>
       <edge id="1351" source="nutrition" target="103"/>
