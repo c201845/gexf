@@ -763,7 +763,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="147.92566" y="115.95911"/>
-        <node id="domain1.com" label="domain1.com">
+        <node id="unicef.org.com" label="unicef.org.com">
         <attvalues>
           <attvalue for="modularity class" value="1"/>
         </attvalues>
@@ -771,7 +771,7 @@
         <viz:size value="11.111111"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="domain2.com" label="domain2.com">
+      <node id="hulu.com" label="hulu.com">
         <attvalues>
           <attvalue for="modularity class" value="2"/>
         </attvalues>
@@ -779,7 +779,7 @@
         <viz:size value="11.111111"/>
         <viz:color r="255" g="0" b="0"/>
       </node>
-      <node id="domain3.com" label="domain3.com">
+      <node id="pinterest.co.uk" label="pinterest.co.uk">
         <attvalues>
           <attvalue for="modularity class" value="3"/>
         </attvalues>
@@ -787,7 +787,7 @@
         <viz:size value="11.111111"/>
         <viz:color r="0" g="255" b="0"/>
       </node>
-      <node id="domain4.com" label="domain4.com">
+      <node id="maltatoday.com.mt" label="maltatoday.com.mt">
         <attvalues>
           <attvalue for="modularity class" value="4"/>
         </attvalues>
@@ -795,7 +795,7 @@
         <viz:size value="11.111111"/>
         <viz:color r="0" g="0" b="255"/>
       </node>
-      <node id="domain5.com" label="domain5.com">
+      <node id="kjavis.dk" label="kjavis.dk">
         <attvalues>
           <attvalue for="modularity class" value="5"/>
         </attvalues>
@@ -803,7 +803,7 @@
         <viz:size value="11.111111"/>
         <viz:color r="255" g="255" b="0"/>
       </node>
-      <node id="domain6.com" label="domain6.com">
+      <node id="anywayanyday.com" label="anywayanyday.com">
         <attvalues>
           <attvalue for="modularity class" value="6"/>
         </attvalues>
@@ -811,7 +811,7 @@
         <viz:size value="11.111111"/>
         <viz:color r="0" g="255" b="255"/>
       </node>
-      <node id="domain7.com" label="domain7.com">
+      <node id="timevalleytimes.co.uk" label="timevalleytimes.co.uk">
         <attvalues>
           <attvalue for="modularity class" value="7"/>
         </attvalues>
@@ -819,7 +819,7 @@
         <viz:size value="11.111111"/>
         <viz:color r="255" g="0" b="255"/>
       </node>
-      <node id="domain8.com" label="domain8.com">
+      <node id="thecourier.co.uk" label="thecourier.co.uk">
         <attvalues>
           <attvalue for="modularity class" value="8"/>
         </attvalues>
@@ -827,7 +827,7 @@
         <viz:size value="11.111111"/>
         <viz:color r="128" g="128" b="128"/>
       </node>
-      <node id="domain9.com" label="domain9.com">
+      <node id="nychealthandhospitals.org" label="nychealthandhospitals.org">
         <attvalues>
           <attvalue for="modularity class" value="9"/>
         </attvalues>
@@ -835,7 +835,7 @@
         <viz:size value="11.111111"/>
         <viz:color r="128" g="0" b="128"/>
       </node>
-      <node id="domain10.com" label="domain10.com">
+      <node id="unicef.org" label="unicef.org">
         <attvalues>
           <attvalue for="modularity class" value="10"/>
         </attvalues>
@@ -1228,16 +1228,16 @@
       <edge id="1417" source="budstika.no" target="Obstruction"/>
       <edge id="1418" source="perezhulton.com" target="Obstruction"/>
 
-      <edge id="1419" source="domain1.com" target="Obstruction"/>
-      <edge id="1420" source="domain2.com" target="Obstruction"/>
-      <edge id="1421" source="domain3.com" target="Obstruction"/>
-      <edge id="1422" source="domain4.com" target="Obstruction"/>
-      <edge id="1423" source="domain5.com" target="Obstruction"/>
-      <edge id="1424" source="domain6.com" target="Obstruction"/>
-      <edge id="1425" source="domain7.com" target="Obstruction"/>
-      <edge id="1426" source="domain8.com" target="Obstruction"/>
-      <edge id="1427" source="domain9.com" target="Obstruction"/>
-      <edge id="1428" source="domain10.com" target="Obstruction"/>
+      <edge id="1419" source="unicef.org" target="Obstruction"/>
+      <edge id="1420" source="hulu.com.com" target="Obstruction"/>
+      <edge id="1421" source="pinterest.co.uk" target="Obstruction"/>
+      <edge id="1422" source="maltatoday.com.mt" target="Obstruction"/>
+      <edge id="1423" source="kjavis.dk" target="Obstruction"/>
+      <edge id="1424" source="anywayanyday.com" target="Obstruction"/>
+      <edge id="1425" source="timevalleytimes.co.uk" target="Obstruction"/>
+      <edge id="1426" source="thecourier.co.uk" target="Obstruction"/>
+      <edge id="1427" source="nychealthandhospitals.org" target="Obstruction"/>
+      <edge id="1428" source="unicef.org.com" target="Obstruction"/>
     </edges>
   </graph>
 </gexf>
