@@ -12,7 +12,7 @@
     <nodes>
       <node id="Hidden Language Stipulations" label="Hidden Language Stipulations">
         <attvalues>
-          <attvalue for="modularity class" value="0"/>
+          <attvalue for="modularity class" value="8"/>
         </attvalues>
         <viz:size value="100.0"/>
         <viz:position x="1057.6254" y="519.3347"/>
@@ -362,7 +362,7 @@
         <viz:position x="-800.7625" y="-700.5206"/>
         <viz:color r="0" g="199" b="255"/>
       </node>
-      <node id="size" label="size">
+      <node id="staple.co.uk" label="staple.co.uk">
         <attvalues>
           <attvalue for="modularity class" value="3"/>
         </attvalues>
@@ -458,7 +458,7 @@
         <viz:position x="89.762955" y="618.35406"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="hawaii" label="hawaii">
+      <node id="gaytimes.com" label="gaytimes.com">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -788,7 +788,7 @@
       <edge id="1002" source="MVCA(e.g. False Hiearchy)" target="agderposten.no" weight="2.0"/>
       <edge id="1003" source="nationalgeographic.com" target="algarvedailynews.com"/>
       <edge id="1004" source="nationalgeographic.com" target="ncbc.com"/>
-      <edge id="1007" source="nationalgeographic.com" target="size"/>
+      <edge id="1007" source="nationalgeographic.com" target="staple.co.uk"/>
       <edge id="1008" source="nationalgeographic.com" target="business-review.eu"/>
       <edge id="1009" source="nationalgeographic.com" target="guardian.com"/>
       <edge id="1010" source="nationalgeographic.com" target="bloomberg.com"/>
@@ -816,7 +816,7 @@
       <edge id="1048" source="writing" target="aduna.com" weight="2.0"/>
       <edge id="1049" source="writing" target="nature.org"/>
       <edge id="1050" source="writing" target="cnn.com"/>
-      <edge id="1051" source="writing" target="hawaii"/>
+      <edge id="1051" source="writing" target="gaytimes.com"/>
       <edge id="1052" source="channel4.com" target="postimes.se" weight="3.0"/>
       <edge id="1053" source="channel4.com" target="algarvedailynews.com"/>
       <edge id="1054" source="channel4.com" target="firstnews.co.uk"/>
@@ -912,7 +912,7 @@
       <edge id="1169" source="new-zealand" target="Sneaking - Baith and Switch"/>
       <edge id="1170" source="new-zealand" target="independent.co.uk"/>
       <edge id="1172" source="livescience.com" target="dailymail.co.uk"/>
-      <edge id="1176" source="livescience.com" target="size"/>
+      <edge id="1176" source="livescience.com" target="staple.co.uk"/>
       <edge id="1178" source="Forced Action" target="livescience.com" weight="2.0"/>
       <edge id="1180" source="prombo.de" target="language" weight="2.0"/>
       <edge id="1181" source="prombo.de" target="amazonseoconsultant.com" weight="2.0"/>
@@ -935,7 +935,7 @@
       <edge id="1205" source="dailymail.co.uk" target="east-longchamp.co.ukns"/>
       <edge id="1206" source="austronesean-expansion" target="twitter.com"/>
       <edge id="1207" source="austronesean-expansion" target="cnn.com"/>
-      <edge id="1208" source="austronesean-expansion" target="hawaii"/>
+      <edge id="1208" source="austronesean-expansion" target="gaytimes.com"/>
       <edge id="1209" source="austronesean-expansion" target="madagascar"/>
       <edge id="1210" source="austronesean-expansion" target="amazonseoconsultant.com"/>
       <edge id="1211" source="austronesean-expansion" target="postimes.se"/>
@@ -975,12 +975,12 @@
       <edge id="1252" source="bantu" target="ebay.co.uk"/>
       <edge id="1257" source="Hidden Language Stipulations" target="cnn.com"/>
       <edge id="1258" source="Hidden Language Stipulations" target="new-zealand"/>
-      <edge id="1259" source="Hidden Language Stipulations" target="hawaii"/>
+      <edge id="1259" source="Hidden Language Stipulations" target="gaytimes.com"/>
       <edge id="1260" source="Hidden Language Stipulations" target="climate"/>
       <edge id="1261" source="amazonseoconsultant.com" target="climate"/>
       <edge id="1263" source="amazonseoconsultant.com" target="cnn.com"/>
       <edge id="1264" source="amazonseoconsultant.com" target="new-zealand"/>
-      <edge id="1265" source="amazonseoconsultant.com" target="hawaii"/>
+      <edge id="1265" source="amazonseoconsultant.com" target="gaytimes.com"/>
       <edge id="1266" source="twitter.com" target="germs"/>
       <edge id="1267" source="twitter.com" target="Hidden Language Stipulations" weight="2.0"/>
       <edge id="1270" source="spacefoundation.org" target="Hidden Language Stipulations" weight="2.0"/>
@@ -996,10 +996,10 @@
       <edge id="1301" source="aduna.com" target="finlandtoday.fi"/>
       <edge id="1302" source="aduna.com" target="dragoer-nyt.dk"/>
       <edge id="1313" source="Forced Action" target="nature.org"/>
-      <edge id="1316" source="Forced Action" target="size" weight="2.0"/>
-      <edge id="1320" source="Hidden Language Stipulations" target="size"/>
+      <edge id="1316" source="Forced Action" target="staple.co.uk" weight="2.0"/>
+      <edge id="1320" source="Hidden Language Stipulations" target="staple.co.uk"/>
       <edge id="1321" source="nature.org" target="finlandtoday.fi"/>
-      <edge id="1323" source="nature.org" target="size"/>
+      <edge id="1323" source="nature.org" target="staple.co.uk"/>
       <edge id="1329" source="Forced Action" target="nationalgeographic.com"/>
       <edge id="1331" source="nationalgeographic.com" target="Hidden Language Stipulations"/>
       <edge id="1335" source="Hidden Language Stipulations" target="prombo.de"/>
@@ -1025,7 +1025,7 @@
       <edge id="1358" source="111" target="udfordringen.dk" weight="2.0"/>
       <edge id="1359" source="udfordringen.dk" target="spacefoundation.org"/>
       <edge id="1360" source="udfordringen.dk" target="nsk.se"/>
-      <edge id="1361" source="108" target="size"/>
+      <edge id="1361" source="108" target="staple.co.uk"/>
       <edge id="1362" source="ebay.co.uk" target="golf-alcanada.com"/>
       <edge id="1363" source="110" target="golf-alcanada.com"/>
       <edge id="1364" source="110" target="105"/>
