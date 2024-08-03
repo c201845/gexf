@@ -843,7 +843,7 @@
         <viz:size value="11.111111"/>
         <viz:color r="128" g="128" b="0"/>
       </node>
-      </node>
+   
     </nodes>
     <edges>
       <edge id="896" source="Forced Action" target="mirror.co.uk" weight="2.0"/>
