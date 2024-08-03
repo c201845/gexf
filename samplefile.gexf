@@ -50,7 +50,7 @@
         <viz:position x="1168.7555" y="-1.1040703"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="population-displacement" label="population-displacement">
+      <node id="amazonseoconsultant.com" label="amazonseoconsultant.com">
         <attvalues>
           <attvalue for="modularity class" value="5"/>
         </attvalues>
@@ -90,7 +90,7 @@
         <viz:position x="718.19495" y="554.6762"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="new-guinea" label="new-guinea">
+      <node id="twitter.com" label="twitter.com">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -734,7 +734,7 @@
       <edge id="934" source="Fake Scarcity" target="guitarplayer.com" weight="3.0"/>
       <edge id="935" source="Fake Scarcity" target="elpais.com" weight="3.0"/>
       <edge id="936" source="Fake Scarcity" target="english.radio" weight="3.0"/>
-      <edge id="937" source="surinenglish.com" target="new-guinea"/>
+      <edge id="937" source="surinenglish.com" target="twitter.com"/>
       <edge id="938" source="surinenglish.com" target="americas"/>
       <edge id="940" source="surinenglish.com" target="dailymail.co.uk" weight="2.0"/>
       <edge id="941" source="guitarplayer.com" target="Sneaking - Baith and Switch"/>
@@ -769,7 +769,7 @@
       <edge id="983" source="founder-package" target="hindustantimes.com"/>
       <edge id="984" source="founder-package" target="krakowpost.com"/>
       <edge id="985" source="founder-package" target="ebay.co.uk"/>
-      <edge id="986" source="founder-package" target="new-guinea"/>
+      <edge id="986" source="founder-package" target="twitter.com"/>
       <edge id="987" source="founder-package" target="vox.com"/>
       <edge id="988" source="founder-package" target="guardian.com"/>
       <edge id="989" source="economictimes.indiatimes.com" target="nationalgeographic.com" weight="2.0"/>
@@ -801,7 +801,7 @@
       <edge id="1021" source="agderposten.no" target="economictimes.indiatimes.com"/>
       <edge id="1022" source="agderposten.no" target="business-review.eu"/>
       <edge id="1024" source="dragoer-nyt.dk" target="Social Engineering"/>
-      <edge id="1026" source="new-guinea" target="Sneaking - Baith and Switch" weight="2.0"/>
+      <edge id="1026" source="twitter.com" target="Sneaking - Baith and Switch" weight="2.0"/>
       <edge id="1029" source="MVCA(e.g. False Hiearchy)" target="economictimes.indiatimes.com"/>
       <edge id="1031" source="germs" target="independent.co.uk"/>
       <edge id="1032" source="germs" target="americas" weight="2.0"/>
@@ -823,23 +823,23 @@
       <edge id="1055" source="algarvedailynews.com" target="firstnews.co.uk"/>
       <edge id="1057" source="Forced Action" target="Sneaking - Baith and Switch" weight="3.0"/>
       <edge id="1058" source="technology" target="epsom-sthelier.nhs.uk" weight="3.0"/>
-      <edge id="1060" source="technology" target="population-displacement"/>
+      <edge id="1060" source="technology" target="amazonseoconsultant.com"/>
       <edge id="1061" source="postimes.se" target="language"/>
       <edge id="1062" source="postimes.se" target="genetics"/>
-      <edge id="1063" source="population-displacement" target="language" weight="2.0"/>
-      <edge id="1064" source="population-displacement" target="genetics" weight="2.0"/>
+      <edge id="1063" source="amazonseoconsultant.com" target="language" weight="2.0"/>
+      <edge id="1064" source="amazonseoconsultant.com" target="genetics" weight="2.0"/>
       <edge id="1065" source="Forced Action" target="longchamp.co.uk"/>
       <edge id="1067" source="Forced Action" target="postimes.se"/>
       <edge id="1068" source="postimes.se" target="longchamp.co.uk"/>
       <edge id="1069" source="postimes.se" target="Hidden Language Stipulations" weight="2.0"/>
       <edge id="1071" source="postimes.se" target="writing"/>
       <edge id="1072" source="Sneaking - Baith and Switch" target="postimes.se"/>
-      <edge id="1073" source="Sneaking - Baith and Switch" target="population-displacement"/>
+      <edge id="1073" source="Sneaking - Baith and Switch" target="amazonseoconsultant.com"/>
       <edge id="1074" source="postimes.se" target="egypt"/>
       <edge id="1076" source="postimes.se" target="spio.de"/>
       <edge id="1077" source="postimes.se" target="americas"/>
-      <edge id="1078" source="population-displacement" target="americas"/>
-      <edge id="1079" source="population-displacement" target="australia" weight="2.0"/>
+      <edge id="1078" source="amazonseoconsultant.com" target="americas"/>
+      <edge id="1079" source="amazonseoconsultant.com" target="australia" weight="2.0"/>
       <edge id="1080" source="dailymail.co.uk" target="americas"/>
       <edge id="1081" source="dailymail.co.uk" target="australia"/>
       <edge id="1082" source="Sneaking - Baith and Switch" target="epsom-sthelier.nhs.uk" weight="3.0"/>
@@ -887,22 +887,22 @@
       <edge id="1132" source="epsom-sthelier.nhs.uk" target="livescience.com" weight="2.0"/>
       <edge id="1134" source="epsom-sthelier.nhs.uk" target="Forced Action" weight="5.0"/>
       <edge id="1135" source="epsom-sthelier.nhs.uk" target="bizarro.com"/>
-      <edge id="1137" source="epsom-sthelier.nhs.uk" target="new-guinea" weight="2.0"/>
+      <edge id="1137" source="epsom-sthelier.nhs.uk" target="twitter.com" weight="2.0"/>
       <edge id="1138" source="australia" target="dragoer-nyt.dk"/>
       <edge id="1139" source="australia" target="climate"/>
       <edge id="1141" source="australia" target="indonesia"/>
       <edge id="1142" source="australia" target="technology"/>
       <edge id="1143" source="australia" target="Social Engineering"/>
-      <edge id="1145" source="australia" target="new-guinea"/>
+      <edge id="1145" source="australia" target="twitter.com"/>
       <edge id="1146" source="australia" target="Forced Action" weight="2.0"/>
       <edge id="1150" source="Sneaking - Baith and Switch" target="dragoer-nyt.dk"/>
-      <edge id="1152" source="new-guinea" target="climate"/>
-      <edge id="1153" source="new-guinea" target="livescience.com"/>
-      <edge id="1154" source="new-guinea" target="dailymail.co.uk"/>
-      <edge id="1155" source="new-guinea" target="technology"/>
-      <edge id="1156" source="new-guinea" target="Social Engineering"/>
-      <edge id="1157" source="new-guinea" target="indonesia"/>
-      <edge id="1158" source="new-guinea" target="eu.statesman.com"/>
+      <edge id="1152" source="twitter.com" target="climate"/>
+      <edge id="1153" source="twitter.com" target="livescience.com"/>
+      <edge id="1154" source="twitter.com" target="dailymail.co.uk"/>
+      <edge id="1155" source="twitter.com" target="technology"/>
+      <edge id="1156" source="twitter.com" target="Social Engineering"/>
+      <edge id="1157" source="twitter.com" target="indonesia"/>
+      <edge id="1158" source="twitter.com" target="eu.statesman.com"/>
       <edge id="1163" source="livescience.com" target="surinenglish.com"/>
       <edge id="1164" source="livescience.com" target="guitarplayer.com"/>
       <edge id="1165" source="new-zealand" target="climate"/>
@@ -915,14 +915,14 @@
       <edge id="1176" source="livescience.com" target="size"/>
       <edge id="1178" source="Forced Action" target="livescience.com" weight="2.0"/>
       <edge id="1180" source="prombo.de" target="language" weight="2.0"/>
-      <edge id="1181" source="prombo.de" target="population-displacement" weight="2.0"/>
+      <edge id="1181" source="prombo.de" target="amazonseoconsultant.com" weight="2.0"/>
       <edge id="1182" source="prombo.de" target="east-longchamp.co.ukns" weight="2.0"/>
       <edge id="1183" source="prombo.de" target="indonesia"/>
       <edge id="1184" source="prombo.de" target="austronesean-expansion" weight="2.0"/>
       <edge id="1185" source="prombo.de" target="writing" weight="3.0"/>
       <edge id="1186" source="austronesean-expansion" target="language" weight="2.0"/>
       <edge id="1187" source="austronesean-expansion" target="indonesia"/>
-      <edge id="1188" source="population-displacement" target="east-longchamp.co.ukns" weight="2.0"/>
+      <edge id="1188" source="amazonseoconsultant.com" target="east-longchamp.co.ukns" weight="2.0"/>
       <edge id="1189" source="prombo.de" target="postimes.se"/>
       <edge id="1192" source="prombo.de" target="aliexpress.com"/>
       <edge id="1194" source="prombo.de" target="finlandtoday.fi" weight="2.0"/>
@@ -930,14 +930,14 @@
       <edge id="1197" source="finlandtoday.fi" target="Forced Action" weight="3.0"/>
       <edge id="1198" source="longchamp.co.uk" target="prombo.de"/>
       <edge id="1199" source="longchamp.co.uk" target="dailymail.co.uk"/>
-      <edge id="1200" source="longchamp.co.uk" target="population-displacement"/>
+      <edge id="1200" source="longchamp.co.uk" target="amazonseoconsultant.com"/>
       <edge id="1201" source="longchamp.co.uk" target="east-longchamp.co.ukns"/>
       <edge id="1205" source="dailymail.co.uk" target="east-longchamp.co.ukns"/>
-      <edge id="1206" source="austronesean-expansion" target="new-guinea"/>
+      <edge id="1206" source="austronesean-expansion" target="twitter.com"/>
       <edge id="1207" source="austronesean-expansion" target="cnn.com"/>
       <edge id="1208" source="austronesean-expansion" target="hawaii"/>
       <edge id="1209" source="austronesean-expansion" target="madagascar"/>
-      <edge id="1210" source="austronesean-expansion" target="population-displacement"/>
+      <edge id="1210" source="austronesean-expansion" target="amazonseoconsultant.com"/>
       <edge id="1211" source="austronesean-expansion" target="postimes.se"/>
       <edge id="1212" source="austronesean-expansion" target="new-zealand"/>
       <edge id="1213" source="austronesean-expansion" target="Social Engineering"/>
@@ -945,12 +945,12 @@
       <edge id="1216" source="austronesean-expansion" target="genetics"/>
       <edge id="1217" source="austronesean-expansion" target="australia"/>
       <edge id="1219" source="austronesean-expansion" target="bizarro.com"/>
-      <edge id="1220" source="east-longchamp.co.ukns" target="new-guinea"/>
+      <edge id="1220" source="east-longchamp.co.ukns" target="twitter.com"/>
       <edge id="1221" source="east-longchamp.co.ukns" target="indonesia"/>
       <edge id="1222" source="east-longchamp.co.ukns" target="australia"/>
-      <edge id="1223" source="population-displacement" target="indonesia"/>
-      <edge id="1224" source="population-displacement" target="bizarro.com"/>
-      <edge id="1225" source="postimes.se" target="new-guinea" weight="2.0"/>
+      <edge id="1223" source="amazonseoconsultant.com" target="indonesia"/>
+      <edge id="1224" source="amazonseoconsultant.com" target="bizarro.com"/>
+      <edge id="1225" source="postimes.se" target="twitter.com" weight="2.0"/>
       <edge id="1226" source="postimes.se" target="australia"/>
       <edge id="1227" source="postimes.se" target="bizarro.com"/>
       <edge id="1230" source="nature.org" target="bantu"/>
@@ -959,14 +959,14 @@
       <edge id="1233" source="nature.org" target="madagascar"/>
       <edge id="1234" source="dailymail.co.uk" target="pygmies"/>
       <edge id="1235" source="dailymail.co.uk" target="costa-news.com"/>
-      <edge id="1236" source="costa-news.com" target="population-displacement" weight="3.0"/>
+      <edge id="1236" source="costa-news.com" target="amazonseoconsultant.com" weight="3.0"/>
       <edge id="1237" source="costa-news.com" target="Hidden Language Stipulations"/>
       <edge id="1238" source="costa-news.com" target="spio.de"/>
-      <edge id="1239" source="Hidden Language Stipulations" target="population-displacement" weight="2.0"/>
+      <edge id="1239" source="Hidden Language Stipulations" target="amazonseoconsultant.com" weight="2.0"/>
       <edge id="1240" source="language" target="pygmies"/>
       <edge id="1241" source="language" target="costa-news.com"/>
-      <edge id="1242" source="population-displacement" target="bantu" weight="2.0"/>
-      <edge id="1244" source="population-displacement" target="pygmies" weight="2.0"/>
+      <edge id="1242" source="amazonseoconsultant.com" target="bantu" weight="2.0"/>
+      <edge id="1244" source="amazonseoconsultant.com" target="pygmies" weight="2.0"/>
       <edge id="1245" source="bantu" target="costa-news.com" weight="2.0"/>
       <edge id="1246" source="bantu" target="pygmies" weight="2.0"/>
       <edge id="1247" source="bantu" target="krakowpost.com"/>
@@ -977,16 +977,16 @@
       <edge id="1258" source="Hidden Language Stipulations" target="new-zealand"/>
       <edge id="1259" source="Hidden Language Stipulations" target="hawaii"/>
       <edge id="1260" source="Hidden Language Stipulations" target="climate"/>
-      <edge id="1261" source="population-displacement" target="climate"/>
-      <edge id="1263" source="population-displacement" target="cnn.com"/>
-      <edge id="1264" source="population-displacement" target="new-zealand"/>
-      <edge id="1265" source="population-displacement" target="hawaii"/>
-      <edge id="1266" source="new-guinea" target="germs"/>
-      <edge id="1267" source="new-guinea" target="Hidden Language Stipulations" weight="2.0"/>
+      <edge id="1261" source="amazonseoconsultant.com" target="climate"/>
+      <edge id="1263" source="amazonseoconsultant.com" target="cnn.com"/>
+      <edge id="1264" source="amazonseoconsultant.com" target="new-zealand"/>
+      <edge id="1265" source="amazonseoconsultant.com" target="hawaii"/>
+      <edge id="1266" source="twitter.com" target="germs"/>
+      <edge id="1267" source="twitter.com" target="Hidden Language Stipulations" weight="2.0"/>
       <edge id="1270" source="australia" target="Hidden Language Stipulations" weight="2.0"/>
       <edge id="1272" source="australia" target="independent.co.uk" weight="2.0"/>
       <edge id="1273" source="australia" target="founder-package"/>
-      <edge id="1276" source="Forced Action" target="new-guinea"/>
+      <edge id="1276" source="Forced Action" target="twitter.com"/>
       <edge id="1278" source="Forced Action" target="aliexpress.com" weight="4.0"/>
       <edge id="1283" source="Hidden Language Stipulations" target="independent.co.uk"/>
       <edge id="1294" source="Hidden Language Stipulations" target="finlandtoday.fi" weight="2.0"/>
@@ -1032,7 +1032,7 @@
       <edge id="1365" source="americas" target="111"/>
       <edge id="1366" source="111" target="101"/>
       <edge id="1367" source="111" target="102"/>
-      <edge id="1368" source="new-guinea" target="111"/>
+      <edge id="1368" source="twitter.com" target="111"/>
       <edge id="1369" source="nytimes.com" target="reddit.com"/>
       <edge id="1370" source="thejournal.ie" target="nsk.se" weight="2.0"/>
       <edge id="1371" source="Last Minute Consent" target="dailymail.co.uk" weight="2.0"/>
