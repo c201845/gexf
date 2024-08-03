@@ -1102,6 +1102,9 @@
       <edge id="1403" source="avisen.dk" target="Forced Action"/>
       <edge id="1404" source="english.sta.si" target="Forced Action"/>
       <edge id="1405" source="english.sta.si" target="Social Engineering"/>
+      <edge id="1406" source="berlingskemdia.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+      <edge id="1407" source="bloomberg.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+      <edge id="1408" source="eu.statesman.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
     </edges>
   </graph>
 </gexf>
