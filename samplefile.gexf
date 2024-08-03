@@ -12,7 +12,7 @@
     <nodes>
       <node id="Hidden Language Stipulations" label="Hidden Language Stipulations">
         <attvalues>
-          <attvalue for="modularity class" value="0"/>
+          <attvalue for="modularity class" value="7"/>
         </attvalues>
         <viz:size value="100.0"/>
         <viz:position x="1057.6254" y="519.3347"/>
