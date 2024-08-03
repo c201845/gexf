@@ -514,14 +514,6 @@
         <viz:position x="-931.56805" y="910.6391"/>
         <viz:color r="105" g="196" b="4"/>
       </node>
-      <node id="Last Minute Consent" label="Last Minute Consent">
-        <attvalues>
-          <attvalue for="modularity class" value="1"/>
-        </attvalues>
-        <viz:size value="53.777775"/>
-        <viz:position x="-900.56805" y="900.6391"/>
-        <viz:color r="105" g="196" b="4"/>
-      </node>
       <node id="south-west-us" label="south-west-us">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
@@ -996,6 +988,6 @@
       <edge id="1368" source="new-guinea" target="111"/>
       <edge id="1369" source="106" target="413"/>
       <edge id="1370" source="thejournal.ie" target="nsk.se" weight="2.0"/>
-      <edge id="1371" source="Last Minute Consent" target="dailymail.co.uk" weight="2.0"/>
     </edges>
   </graph>
+</gexf>
