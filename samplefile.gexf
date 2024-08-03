@@ -646,7 +646,7 @@
         <viz:size value="10.0"/>
         <viz:position x="39.229492" y="319.7527"/>
       </node>
-      <node id="106" label="dragoer-nyt.dk">
+      <node id="nytimes.com" label="dragoer-nyt.dk">
         <attvalues>
           <attvalue for="modularity class" value="4"/>
         </attvalues>
@@ -693,9 +693,9 @@
         <viz:size value="10.0"/>
         <viz:position x="138.69922" y="-37.24994"/>
       </node>
-      <node id="103" label="Scientific Concepts">
+      <node id="rbth.com" label="Scientific Concepts">
         <attvalues>
-          <attvalue for="modularity class" value="1"/>
+          <attvalue for="modularity class" value="2"/>
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="147.92566" y="115.95911"/>
@@ -1015,12 +1015,12 @@
       <edge id="1348" source="afp.com" target="101" weight="2.0"/>
       <edge id="1349" source="101" target="egypt" weight="2.0"/>
       <edge id="1350" source="102" target="independent.co.uk" weight="2.0"/>
-      <edge id="1351" source="nutrition" target="103"/>
+      <edge id="1351" source="nutrition" target="rbth.com"/>
       <edge id="1352" source="prombo.de" target="104"/>
       <edge id="1353" source="105" target="104"/>
-      <edge id="1354" source="106" target="Hidden Language Stipulations"/>
-      <edge id="1355" source="106" target="nature.org"/>
-      <edge id="1356" source="106" target="germs"/>
+      <edge id="1354" source="nytimes.com" target="Hidden Language Stipulations"/>
+      <edge id="1355" source="nytimes.com" target="nature.org"/>
+      <edge id="1356" source="nytimes.com" target="germs"/>
       <edge id="1357" source="111" target="hindustantimes.com"/>
       <edge id="1358" source="111" target="udfordringen.dk" weight="2.0"/>
       <edge id="1359" source="udfordringen.dk" target="australia"/>
@@ -1033,7 +1033,7 @@
       <edge id="1366" source="111" target="101"/>
       <edge id="1367" source="111" target="102"/>
       <edge id="1368" source="new-guinea" target="111"/>
-      <edge id="1369" source="106" target="reddit.com"/>
+      <edge id="1369" source="nytimes.com" target="reddit.com"/>
       <edge id="1370" source="thejournal.ie" target="nsk.se" weight="2.0"/>
       <edge id="1371" source="Last Minute Consent" target="dailymail.co.uk" weight="2.0"/>
       <edge id="1372" source="webmd.com" target="Fake Scarcity" weight="2.0"/>
@@ -1051,7 +1051,7 @@
       <edge id="1384" source="Hidden Language Stipulations"  target="epsom-sthelier.nhs.uk"/>
       <edge id="1385" source="Hidden Language Stipulations"  target="guardian.com"/>
       <edge id="1386" source="finlandtoday.fi"  target="Hidden Language Stipulations"/>
-       
+      <edge id="1386" source="rbth.com"  target="Hidden Language Stipulations"/>
     </edges>
   </graph>
 </gexf>
