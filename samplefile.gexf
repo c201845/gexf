@@ -660,7 +660,7 @@
         <viz:size value="10.0"/>
         <viz:position x="-444.97318" y="-480.5692"/>
       </node>
-      <node id="108" label="zdnet.com">
+      <node id="zdnet.com" label="zdnet.com">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -1025,7 +1025,7 @@
       <edge id="1358" source="111" target="udfordringen.dk" weight="2.0"/>
       <edge id="1359" source="udfordringen.dk" target="spacefoundation.org"/>
       <edge id="1360" source="udfordringen.dk" target="nsk.se"/>
-      <edge id="1361" source="108" target="staple.co.uk"/>
+      <edge id="1361" source="zdnet.com" target="staple.co.uk"/>
       <edge id="1362" source="ebay.co.uk" target="golf-alcanada.com"/>
       <edge id="1363" source="110" target="golf-alcanada.com"/>
       <edge id="1364" source="110" target="105"/>
