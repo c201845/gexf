@@ -482,7 +482,7 @@
         <viz:position x="-684.306" y="981.1585"/>
         <viz:color r="105" g="196" b="4"/>
       </node>
-      <node id="sahel-zone" label="sahel-zone">
+      <node id="hindustantimes.com" label="hindustantimes.com">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -766,7 +766,7 @@
       <edge id="980" source="founder-package" target="algarvedailynews.com"/>
       <edge id="981" source="founder-package" target="firstnews.co.uk"/>
       <edge id="982" source="founder-package" target="agderposten.no"/>
-      <edge id="983" source="founder-package" target="sahel-zone"/>
+      <edge id="983" source="founder-package" target="hindustantimes.com"/>
       <edge id="984" source="founder-package" target="west-africa"/>
       <edge id="985" source="founder-package" target="ethiopia"/>
       <edge id="986" source="founder-package" target="new-guinea"/>
@@ -852,7 +852,7 @@
       <edge id="1089" source="epsom-sthelier.nhs.uk" target="spio.de"/>
       <edge id="1090" source="epsom-sthelier.nhs.uk" target="australia" weight="3.0"/>
       <edge id="1091" source="africa" target="founder-package"/>
-      <edge id="1092" source="africa" target="sahel-zone"/>
+      <edge id="1092" source="africa" target="hindustantimes.com"/>
       <edge id="1093" source="africa" target="ethiopia"/>
       <edge id="1094" source="africa" target="west-africa"/>
       <edge id="1095" source="africa" target="nationalgeographic.com"/>
@@ -970,7 +970,7 @@
       <edge id="1245" source="bantu" target="costa-news.com" weight="2.0"/>
       <edge id="1246" source="bantu" target="pygmies" weight="2.0"/>
       <edge id="1247" source="bantu" target="west-africa"/>
-      <edge id="1249" source="bantu" target="sahel-zone"/>
+      <edge id="1249" source="bantu" target="hindustantimes.com"/>
       <edge id="1250" source="bantu" target="technology"/>
       <edge id="1252" source="bantu" target="ethiopia"/>
       <edge id="1257" source="europe" target="polynesia"/>
@@ -1021,7 +1021,7 @@
       <edge id="1354" source="106" target="europe"/>
       <edge id="1355" source="106" target="africa"/>
       <edge id="1356" source="106" target="germs"/>
-      <edge id="1357" source="111" target="sahel-zone"/>
+      <edge id="1357" source="111" target="hindustantimes.com"/>
       <edge id="1358" source="111" target="udfordringen.dk" weight="2.0"/>
       <edge id="1359" source="udfordringen.dk" target="australia"/>
       <edge id="1360" source="udfordringen.dk" target="nsk.se"/>
@@ -1042,7 +1042,7 @@
       <edge id="1375" source="Forced Action" target="euractiv.com" weight="2.0"/>
       <edge id="1376" source="berlingskemdia.dk" target="euractiv.com" weight="2.0"/>
       <edge id="1377" source="Trick Questions" target="Social Engineering"/>
-      
+      <edge id="1378" source="MVCA(e.g. False Hiearchy)" target="hindustantimes.com"/>
     </edges>
   </graph>
 </gexf>
