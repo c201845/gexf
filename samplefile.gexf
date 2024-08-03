@@ -1060,6 +1060,8 @@
       <edge id="1393" source="channel4.com"  target="Forced Action"/>
       <edge id="1394" source="channel4.com"  target="Social Engineering"/>
       <edge id="1395" source="wordpress.com" target="Forced Action"/>
+      <edge id="1396" source="bizarro.com" target="Forced Action"/>
+      <edge id="1397" source="bizarro.com" target="Social Engineering"/>
       
     </edges>
   </graph>
