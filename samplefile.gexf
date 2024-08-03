@@ -194,6 +194,14 @@
         <viz:position x="-873.08563" y="397.3934"/>
         <viz:color r="0" g="175" b="135"/>
       </node>
+      <node id="Obstruction" label="Obstruction">
+        <attvalues>
+          <attvalue for="modularity class" value="1"/>
+        </attvalues>
+        <viz:size value="100.0"/>
+        <viz:position x="-800.08563" y="350.3934"/>
+        <viz:color r="0" g="175" b="135"/>
+      </node>
       <node id="epsom-sthelier.nhs.uk" label="epsom-sthelier.nhs.uk">
         <attvalues>
           <attvalue for="modularity class" value="3"/>
@@ -1107,6 +1115,12 @@
       <edge id="1408" source="eu.statesman.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
       <edge id="1409" source="eu.statesman.com" target="bloomberg.com"/>
       <edge id="1410" source="eu.statesman.com" target="berlingskemdia.dk"/>
+      <edge id="1411" source="firstnews.co.uk" target="Obstruction"/>
+      <edge id="1412" source="manilatimes.net" target="Obstruction"/>
+      <edge id="1413" source="spotify.com" target="Obstruction"/>
+      <edge id="1414" source="nypost.com" target="Obstruction"/>
+      <edge id="1415" source="twitter.com" target="Obstruction"/>
+      <edge id="1416" source="dailymail.co.uk" target="Obstruction"/>
     </edges>
   </graph>
 </gexf>
