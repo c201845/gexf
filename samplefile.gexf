@@ -154,11 +154,11 @@
         <viz:position x="375.8809" y="949.9963"/>
         <viz:color r="250" g="146" b="0"/>
       </node>
-      <node id="war" label="war">
+      <node id="independent.co.uk" label="independent.co.uk">
         <attvalues>
           <attvalue for="modularity class" value="5"/>
         </attvalues>
-        <viz:size value="43.111115"/>
+        <viz:size value="14.666668"/>
         <viz:position x="-873.08563" y="397.3934"/>
         <viz:color r="0" g="175" b="135"/>
       </node>
@@ -354,7 +354,7 @@
         <viz:position x="156.43832" y="-856.4322"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="tribes" label="tribes">
+      <node id="guitarplayer.com" label="guitarplayer.com">
         <attvalues>
           <attvalue for="modularity class" value="6"/>
         </attvalues>
@@ -656,7 +656,7 @@
       <edge id="903" source="societal-advantage" target="americas" weight="6.0"/>
       <edge id="905" source="societal-advantage" target="animals"/>
       <edge id="906" source="societal-advantage" target="europe" weight="11.0"/>
-      <edge id="907" source="americas" target="war"/>
+      <edge id="907" source="americas" target="independent.co.uk"/>
       <edge id="908" source="americas" target="europe" weight="5.0"/>
       <edge id="909" source="americas" target="incas"/>
       <edge id="910" source="americas" target="pizarro"/>
@@ -675,33 +675,33 @@
       <edge id="931" source="livescience" target="technology" weight="4.0"/>
       <edge id="932" source="livescience" target="Fake Scarcity" weight="4.0"/>
       <edge id="933" source="Fake Scarcity" target="bands" weight="3.0"/>
-      <edge id="934" source="Fake Scarcity" target="tribes" weight="3.0"/>
+      <edge id="934" source="Fake Scarcity" target="guitarplayer.com" weight="3.0"/>
       <edge id="935" source="Fake Scarcity" target="elpais" weight="3.0"/>
       <edge id="936" source="Fake Scarcity" target="english.radio" weight="3.0"/>
       <edge id="937" source="bands" target="new-guinea"/>
       <edge id="938" source="bands" target="americas"/>
       <edge id="940" source="bands" target="dailymail" weight="2.0"/>
-      <edge id="941" source="tribes" target="food-production"/>
+      <edge id="941" source="guitarplayer.com" target="food-production"/>
       <edge id="944" source="elpais" target="newsinenglish"/>
       <edge id="945" source="elpais" target="nsk.se"/>
       <edge id="946" source="elpais" target="technology"/>
-      <edge id="948" source="english.radio" target="war" weight="2.0"/>
+      <edge id="948" source="english.radio" target="independent.co.uk" weight="2.0"/>
       <edge id="949" source="english.radio" target="newsinenglish"/>
       <edge id="950" source="english.radio" target="technology"/>
-      <edge id="951" source="war" target="newsinenglish"/>
+      <edge id="951" source="independent.co.uk" target="newsinenglish"/>
       <edge id="952" source="writing" target="english.radio"/>
       <edge id="954" source="livescience" target="nsk.se" weight="2.0"/>
-      <edge id="960" source="bands" target="tribes"/>
+      <edge id="960" source="bands" target="guitarplayer.com"/>
       <edge id="961" source="bands" target="food-production"/>
-      <edge id="963" source="war" target="bands"/>
-      <edge id="964" source="war" target="tribes"/>
-      <edge id="965" source="war" target="elpais"/>
+      <edge id="963" source="independent.co.uk" target="bands"/>
+      <edge id="964" source="independent.co.uk" target="guitarplayer.com"/>
+      <edge id="965" source="independent.co.uk" target="elpais"/>
       <edge id="967" source="livescience" target="food-production" weight="4.0"/>
       <edge id="968" source="livescience" target="animals"/>
-      <edge id="969" source="livescience" target="war" weight="2.0"/>
+      <edge id="969" source="livescience" target="independent.co.uk" weight="2.0"/>
       <edge id="971" source="livescience" target="newsinenglish"/>
       <edge id="973" source="livescience" target="writing" weight="2.0"/>
-      <edge id="974" source="animals" target="war"/>
+      <edge id="974" source="animals" target="independent.co.uk"/>
       <edge id="975" source="animals" target="food-production"/>
       <edge id="976" source="animals" target="transportation"/>
       <edge id="977" source="animals" target="clothes"/>
@@ -748,7 +748,7 @@
       <edge id="1024" source="environment" target="animals"/>
       <edge id="1026" source="new-guinea" target="food-production" weight="2.0"/>
       <edge id="1029" source="food-production-inequalities" target="plant-domestication"/>
-      <edge id="1031" source="germs" target="war"/>
+      <edge id="1031" source="germs" target="independent.co.uk"/>
       <edge id="1032" source="germs" target="americas" weight="2.0"/>
       <edge id="1033" source="germs" target="polynesia"/>
       <edge id="1034" source="germs" target="africa" weight="2.0"/>
@@ -849,13 +849,13 @@
       <edge id="1157" source="new-guinea" target="indonesia"/>
       <edge id="1158" source="new-guinea" target="plants"/>
       <edge id="1163" source="livescience" target="bands"/>
-      <edge id="1164" source="livescience" target="tribes"/>
+      <edge id="1164" source="livescience" target="guitarplayer.com"/>
       <edge id="1165" source="new-zealand" target="climate"/>
       <edge id="1166" source="new-zealand" target="livescience"/>
       <edge id="1167" source="new-zealand" target="dailymail"/>
       <edge id="1168" source="new-zealand" target="isolation"/>
       <edge id="1169" source="new-zealand" target="food-production"/>
-      <edge id="1170" source="new-zealand" target="war"/>
+      <edge id="1170" source="new-zealand" target="independent.co.uk"/>
       <edge id="1172" source="livescience" target="dailymail"/>
       <edge id="1176" source="livescience" target="size"/>
       <edge id="1178" source="societal-advantage" target="livescience" weight="2.0"/>
@@ -929,11 +929,11 @@
       <edge id="1266" source="new-guinea" target="germs"/>
       <edge id="1267" source="new-guinea" target="europe" weight="2.0"/>
       <edge id="1270" source="australia" target="europe" weight="2.0"/>
-      <edge id="1272" source="australia" target="war" weight="2.0"/>
+      <edge id="1272" source="australia" target="independent.co.uk" weight="2.0"/>
       <edge id="1273" source="australia" target="founder-package"/>
       <edge id="1276" source="societal-advantage" target="new-guinea"/>
       <edge id="1278" source="societal-advantage" target="geography" weight="4.0"/>
-      <edge id="1283" source="europe" target="war"/>
+      <edge id="1283" source="europe" target="independent.co.uk"/>
       <edge id="1294" source="europe" target="early-food-production" weight="2.0"/>
       <edge id="1295" source="europe" target="environment"/>
       <edge id="1296" source="europe" target="isolation"/>
@@ -959,7 +959,7 @@
       <edge id="1347" source="asia" target="101"/>
       <edge id="1348" source="gabs" target="101" weight="2.0"/>
       <edge id="1349" source="101" target="egypt" weight="2.0"/>
-      <edge id="1350" source="102" target="war" weight="2.0"/>
+      <edge id="1350" source="102" target="independent.co.uk" weight="2.0"/>
       <edge id="1351" source="nutrition" target="103"/>
       <edge id="1352" source="china" target="104"/>
       <edge id="1353" source="105" target="104"/>
