@@ -66,6 +66,14 @@
         <viz:position x="-766.74603" y="-58.63719"/>
         <viz:color r="105" g="196" b="4"/>
       </node>
+      <node id="newscientist.com" label="newscientist.com">
+        <attvalues>
+          <attvalue for="modularity class" value="4"/>
+        </attvalues>
+        <viz:size value="18.222221"/>
+        <viz:position x="-826.74603" y="-65.63719"/>
+        <viz:color r="105" g="196" b="4"/>
+      </node>
       <node id="sverigersradio.se" label="sverigersradio.se">
         <attvalues>
           <attvalue for="modularity class" value="4"/>
@@ -1361,7 +1369,8 @@
       <edge id="1438" source="tidende.dk" target="Obstruction"/>
       <edge id="1439" source="gaytimes.co.uk" target="Obstruction"/>
       <edge id="1440" source="magazinedirect.com" target="Obstruction"/>
-
+      <edge id="1441" source="mercedesenthusiast.co.uk" target="Obstruction"/>
+      <edge id="1442" source="newscientist.com" target="Obstruction"/>
  
     </edges>
   </graph>
