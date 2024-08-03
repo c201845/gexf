@@ -42,7 +42,7 @@
         <viz:position x="1163.9949" y="262.1182"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="americas" label="americas">
+      <node id="aduna.com" label="aduna.com">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -106,7 +106,7 @@
         <viz:position x="-320.70107" y="1100.142"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="australia" label="australia">
+      <node id="spacefoundation.org" label="spacefoundation.org">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -114,7 +114,7 @@
         <viz:position x="1037.2797" y="-395.28897"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="technology" label="technology">
+      <node id="channel4.com" label="channel4.com">
         <attvalues>
           <attvalue for="modularity class" value="4"/>
         </attvalues>
@@ -625,7 +625,7 @@
         <viz:size value="10.0"/>
         <viz:position x="-216.43723" y="-327.02686"/>
       </node>
-      <node id="102" label="Modern Technology">
+      <node id="102" label="Modern channel4.com">
         <attvalues>
           <attvalue for="modularity class" value="1"/>
         </attvalues>
@@ -707,43 +707,43 @@
       <edge id="898" source="Forced Action" target="climate" weight="3.0"/>
       <edge id="899" source="Forced Action" target="berlingskemdia.dk"/>
       <edge id="900" source="Forced Action" target="pizarro"/>
-      <edge id="901" source="Forced Action" target="technology" weight="5.0"/>
+      <edge id="901" source="Forced Action" target="channel4.com" weight="5.0"/>
       <edge id="902" source="Forced Action" target="germs" weight="5.0"/>
-      <edge id="903" source="Forced Action" target="americas" weight="6.0"/>
+      <edge id="903" source="Forced Action" target="aduna.com" weight="6.0"/>
       <edge id="905" source="Forced Action" target="Social Engineering"/>
       <edge id="906" source="Forced Action" target="Hidden Language Stipulations" weight="11.0"/>
-      <edge id="907" source="americas" target="independent.co.uk"/>
-      <edge id="908" source="americas" target="Hidden Language Stipulations" weight="5.0"/>
-      <edge id="909" source="americas" target="incas"/>
-      <edge id="910" source="americas" target="pizarro"/>
+      <edge id="907" source="aduna.com" target="independent.co.uk"/>
+      <edge id="908" source="aduna.com" target="Hidden Language Stipulations" weight="5.0"/>
+      <edge id="909" source="aduna.com" target="incas"/>
+      <edge id="910" source="aduna.com" target="pizarro"/>
       <edge id="911" source="pizarro" target="incas" weight="2.0"/>
       <edge id="913" source="germs" target="incas"/>
       <edge id="914" source="germs" target="pizarro"/>
       <edge id="921" source="Forced Action" target="nsk.se" weight="3.0"/>
-      <edge id="922" source="Hidden Language Stipulations" target="technology" weight="2.0"/>
+      <edge id="922" source="Hidden Language Stipulations" target="channel4.com" weight="2.0"/>
       <edge id="924" source="Hidden Language Stipulations" target="nsk.se" weight="2.0"/>
-      <edge id="925" source="americas" target="technology" weight="2.0"/>
-      <edge id="926" source="americas" target="nsk.se"/>
+      <edge id="925" source="aduna.com" target="channel4.com" weight="2.0"/>
+      <edge id="926" source="aduna.com" target="nsk.se"/>
       <edge id="927" source="writing" target="pizarro"/>
       <edge id="928" source="writing" target="Forced Action" weight="2.0"/>
       <edge id="929" source="writing" target="incas" weight="2.0"/>
       <edge id="930" source="livescience.com" target="germs" weight="3.0"/>
-      <edge id="931" source="livescience.com" target="technology" weight="4.0"/>
+      <edge id="931" source="livescience.com" target="channel4.com" weight="4.0"/>
       <edge id="932" source="livescience.com" target="Fake Scarcity" weight="4.0"/>
       <edge id="933" source="Fake Scarcity" target="surinenglish.com" weight="3.0"/>
       <edge id="934" source="Fake Scarcity" target="guitarplayer.com" weight="3.0"/>
       <edge id="935" source="Fake Scarcity" target="elpais.com" weight="3.0"/>
       <edge id="936" source="Fake Scarcity" target="english.radio" weight="3.0"/>
       <edge id="937" source="surinenglish.com" target="twitter.com"/>
-      <edge id="938" source="surinenglish.com" target="americas"/>
+      <edge id="938" source="surinenglish.com" target="aduna.com"/>
       <edge id="940" source="surinenglish.com" target="dailymail.co.uk" weight="2.0"/>
       <edge id="941" source="guitarplayer.com" target="Sneaking - Baith and Switch"/>
       <edge id="944" source="elpais.com" target="newsinenglish"/>
       <edge id="945" source="elpais.com" target="nsk.se"/>
-      <edge id="946" source="elpais.com" target="technology"/>
+      <edge id="946" source="elpais.com" target="channel4.com"/>
       <edge id="948" source="english.radio" target="independent.co.uk" weight="2.0"/>
       <edge id="949" source="english.radio" target="newsinenglish"/>
-      <edge id="950" source="english.radio" target="technology"/>
+      <edge id="950" source="english.radio" target="channel4.com"/>
       <edge id="951" source="independent.co.uk" target="newsinenglish"/>
       <edge id="952" source="writing" target="english.radio"/>
       <edge id="954" source="livescience.com" target="nsk.se" weight="2.0"/>
@@ -774,13 +774,13 @@
       <edge id="988" source="founder-package" target="guardian.com"/>
       <edge id="989" source="economictimes.indiatimes.com" target="nationalgeographic.com" weight="2.0"/>
       <edge id="990" source="MVCA(e.g. False Hiearchy)" target="business-review.eu" weight="2.0"/>
-      <edge id="991" source="business-review.eu" target="americas"/>
+      <edge id="991" source="business-review.eu" target="aduna.com"/>
       <edge id="992" source="business-review.eu" target="bizarro.com"/>
       <edge id="993" source="business-review.eu" target="longchamp.co.uk"/>
       <edge id="994" source="business-review.eu" target="Hidden Language Stipulations"/>
       <edge id="995" source="business-review.eu" target="nature.org"/>
       <edge id="996" source="ap.org" target="Social Engineering"/>
-      <edge id="997" source="ap.org" target="americas"/>
+      <edge id="997" source="ap.org" target="aduna.com"/>
       <edge id="998" source="MVCA(e.g. False Hiearchy)" target="mirror.co.uk" weight="3.0"/>
       <edge id="999" source="MVCA(e.g. False Hiearchy)" target="dragoer-nyt.dk" weight="4.0"/>
       <edge id="1000" source="MVCA(e.g. False Hiearchy)" target="nationalgeographic.com" weight="2.0"/>
@@ -795,7 +795,7 @@
       <edge id="1011" source="MVCA(e.g. False Hiearchy)" target="spio.de"/>
       <edge id="1012" source="MVCA(e.g. False Hiearchy)" target="aars.dk"/>
       <edge id="1013" source="MVCA(e.g. False Hiearchy)" target="ncbc.com"/>
-      <edge id="1014" source="MVCA(e.g. False Hiearchy)" target="australia"/>
+      <edge id="1014" source="MVCA(e.g. False Hiearchy)" target="spacefoundation.org"/>
       <edge id="1019" source="algarvedailynews.com" target="economictimes.indiatimes.com"/>
       <edge id="1020" source="algarvedailynews.com" target="business-review.eu"/>
       <edge id="1021" source="agderposten.no" target="economictimes.indiatimes.com"/>
@@ -804,7 +804,7 @@
       <edge id="1026" source="twitter.com" target="Sneaking - Baith and Switch" weight="2.0"/>
       <edge id="1029" source="MVCA(e.g. False Hiearchy)" target="economictimes.indiatimes.com"/>
       <edge id="1031" source="germs" target="independent.co.uk"/>
-      <edge id="1032" source="germs" target="americas" weight="2.0"/>
+      <edge id="1032" source="germs" target="aduna.com" weight="2.0"/>
       <edge id="1033" source="germs" target="cnn.com"/>
       <edge id="1034" source="germs" target="nature.org" weight="2.0"/>
       <edge id="1035" source="germs" target="Social Engineering"/>
@@ -813,17 +813,17 @@
       <edge id="1040" source="germs" target="longchamp.co.uk"/>
       <edge id="1046" source="writing" target="nsk.se"/>
       <edge id="1047" source="writing" target="epsom-sthelier.nhs.uk"/>
-      <edge id="1048" source="writing" target="americas" weight="2.0"/>
+      <edge id="1048" source="writing" target="aduna.com" weight="2.0"/>
       <edge id="1049" source="writing" target="nature.org"/>
       <edge id="1050" source="writing" target="cnn.com"/>
       <edge id="1051" source="writing" target="hawaii"/>
-      <edge id="1052" source="technology" target="postimes.se" weight="3.0"/>
-      <edge id="1053" source="technology" target="algarvedailynews.com"/>
-      <edge id="1054" source="technology" target="firstnews.co.uk"/>
+      <edge id="1052" source="channel4.com" target="postimes.se" weight="3.0"/>
+      <edge id="1053" source="channel4.com" target="algarvedailynews.com"/>
+      <edge id="1054" source="channel4.com" target="firstnews.co.uk"/>
       <edge id="1055" source="algarvedailynews.com" target="firstnews.co.uk"/>
       <edge id="1057" source="Forced Action" target="Sneaking - Baith and Switch" weight="3.0"/>
-      <edge id="1058" source="technology" target="epsom-sthelier.nhs.uk" weight="3.0"/>
-      <edge id="1060" source="technology" target="amazonseoconsultant.com"/>
+      <edge id="1058" source="channel4.com" target="epsom-sthelier.nhs.uk" weight="3.0"/>
+      <edge id="1060" source="channel4.com" target="amazonseoconsultant.com"/>
       <edge id="1061" source="postimes.se" target="language"/>
       <edge id="1062" source="postimes.se" target="genetics"/>
       <edge id="1063" source="amazonseoconsultant.com" target="language" weight="2.0"/>
@@ -837,20 +837,20 @@
       <edge id="1073" source="Sneaking - Baith and Switch" target="amazonseoconsultant.com"/>
       <edge id="1074" source="postimes.se" target="egypt"/>
       <edge id="1076" source="postimes.se" target="spio.de"/>
-      <edge id="1077" source="postimes.se" target="americas"/>
-      <edge id="1078" source="amazonseoconsultant.com" target="americas"/>
-      <edge id="1079" source="amazonseoconsultant.com" target="australia" weight="2.0"/>
-      <edge id="1080" source="dailymail.co.uk" target="americas"/>
-      <edge id="1081" source="dailymail.co.uk" target="australia"/>
+      <edge id="1077" source="postimes.se" target="aduna.com"/>
+      <edge id="1078" source="amazonseoconsultant.com" target="aduna.com"/>
+      <edge id="1079" source="amazonseoconsultant.com" target="spacefoundation.org" weight="2.0"/>
+      <edge id="1080" source="dailymail.co.uk" target="aduna.com"/>
+      <edge id="1081" source="dailymail.co.uk" target="spacefoundation.org"/>
       <edge id="1082" source="Sneaking - Baith and Switch" target="epsom-sthelier.nhs.uk" weight="3.0"/>
       <edge id="1083" source="Sneaking - Baith and Switch" target="climate" weight="6.0"/>
       <edge id="1084" source="Sneaking - Baith and Switch" target="dailymail.co.uk"/>
-      <edge id="1085" source="Sneaking - Baith and Switch" target="americas" weight="2.0"/>
+      <edge id="1085" source="Sneaking - Baith and Switch" target="aduna.com" weight="2.0"/>
       <edge id="1086" source="Sneaking - Baith and Switch" target="spio.de"/>
-      <edge id="1087" source="Sneaking - Baith and Switch" target="australia" weight="2.0"/>
-      <edge id="1088" source="epsom-sthelier.nhs.uk" target="americas" weight="2.0"/>
+      <edge id="1087" source="Sneaking - Baith and Switch" target="spacefoundation.org" weight="2.0"/>
+      <edge id="1088" source="epsom-sthelier.nhs.uk" target="aduna.com" weight="2.0"/>
       <edge id="1089" source="epsom-sthelier.nhs.uk" target="spio.de"/>
-      <edge id="1090" source="epsom-sthelier.nhs.uk" target="australia" weight="3.0"/>
+      <edge id="1090" source="epsom-sthelier.nhs.uk" target="spacefoundation.org" weight="3.0"/>
       <edge id="1091" source="nature.org" target="founder-package"/>
       <edge id="1092" source="nature.org" target="hindustantimes.com"/>
       <edge id="1093" source="nature.org" target="ebay.co.uk"/>
@@ -868,18 +868,18 @@
       <edge id="1112" source="Sneaking - Baith and Switch" target="longchamp.co.uk"/>
       <edge id="1113" source="aliexpress.com" target="Hidden Language Stipulations" weight="3.0"/>
       <edge id="1114" source="aliexpress.com" target="nature.org" weight="2.0"/>
-      <edge id="1115" source="aliexpress.com" target="americas" weight="2.0"/>
+      <edge id="1115" source="aliexpress.com" target="aduna.com" weight="2.0"/>
       <edge id="1116" source="aliexpress.com" target="bizarro.com"/>
       <edge id="1117" source="aliexpress.com" target="climate"/>
       <edge id="1118" source="aliexpress.com" target="longchamp.co.uk"/>
       <edge id="1119" source="Hidden Language Stipulations" target="nature.org" weight="2.0"/>
       <edge id="1121" source="Hidden Language Stipulations" target="bizarro.com"/>
       <edge id="1122" source="Hidden Language Stipulations" target="longchamp.co.uk"/>
-      <edge id="1123" source="nature.org" target="americas"/>
+      <edge id="1123" source="nature.org" target="aduna.com"/>
       <edge id="1124" source="nature.org" target="bizarro.com"/>
       <edge id="1125" source="nature.org" target="longchamp.co.uk"/>
-      <edge id="1126" source="americas" target="bizarro.com"/>
-      <edge id="1127" source="americas" target="longchamp.co.uk"/>
+      <edge id="1126" source="aduna.com" target="bizarro.com"/>
+      <edge id="1127" source="aduna.com" target="longchamp.co.uk"/>
       <edge id="1128" source="bizarro.com" target="longchamp.co.uk"/>
       <edge id="1129" source="aliexpress.com" target="Social Engineering"/>
       <edge id="1130" source="aliexpress.com" target="germs"/>
@@ -888,18 +888,18 @@
       <edge id="1134" source="epsom-sthelier.nhs.uk" target="Forced Action" weight="5.0"/>
       <edge id="1135" source="epsom-sthelier.nhs.uk" target="bizarro.com"/>
       <edge id="1137" source="epsom-sthelier.nhs.uk" target="twitter.com" weight="2.0"/>
-      <edge id="1138" source="australia" target="dragoer-nyt.dk"/>
-      <edge id="1139" source="australia" target="climate"/>
-      <edge id="1141" source="australia" target="indonesia"/>
-      <edge id="1142" source="australia" target="technology"/>
-      <edge id="1143" source="australia" target="Social Engineering"/>
-      <edge id="1145" source="australia" target="twitter.com"/>
-      <edge id="1146" source="australia" target="Forced Action" weight="2.0"/>
+      <edge id="1138" source="spacefoundation.org" target="dragoer-nyt.dk"/>
+      <edge id="1139" source="spacefoundation.org" target="climate"/>
+      <edge id="1141" source="spacefoundation.org" target="indonesia"/>
+      <edge id="1142" source="spacefoundation.org" target="channel4.com"/>
+      <edge id="1143" source="spacefoundation.org" target="Social Engineering"/>
+      <edge id="1145" source="spacefoundation.org" target="twitter.com"/>
+      <edge id="1146" source="spacefoundation.org" target="Forced Action" weight="2.0"/>
       <edge id="1150" source="Sneaking - Baith and Switch" target="dragoer-nyt.dk"/>
       <edge id="1152" source="twitter.com" target="climate"/>
       <edge id="1153" source="twitter.com" target="livescience.com"/>
       <edge id="1154" source="twitter.com" target="dailymail.co.uk"/>
-      <edge id="1155" source="twitter.com" target="technology"/>
+      <edge id="1155" source="twitter.com" target="channel4.com"/>
       <edge id="1156" source="twitter.com" target="Social Engineering"/>
       <edge id="1157" source="twitter.com" target="indonesia"/>
       <edge id="1158" source="twitter.com" target="eu.statesman.com"/>
@@ -941,17 +941,17 @@
       <edge id="1211" source="austronesean-expansion" target="postimes.se"/>
       <edge id="1212" source="austronesean-expansion" target="new-zealand"/>
       <edge id="1213" source="austronesean-expansion" target="Social Engineering"/>
-      <edge id="1214" source="austronesean-expansion" target="technology"/>
+      <edge id="1214" source="austronesean-expansion" target="channel4.com"/>
       <edge id="1216" source="austronesean-expansion" target="genetics"/>
-      <edge id="1217" source="austronesean-expansion" target="australia"/>
+      <edge id="1217" source="austronesean-expansion" target="spacefoundation.org"/>
       <edge id="1219" source="austronesean-expansion" target="bizarro.com"/>
       <edge id="1220" source="east-longchamp.co.ukns" target="twitter.com"/>
       <edge id="1221" source="east-longchamp.co.ukns" target="indonesia"/>
-      <edge id="1222" source="east-longchamp.co.ukns" target="australia"/>
+      <edge id="1222" source="east-longchamp.co.ukns" target="spacefoundation.org"/>
       <edge id="1223" source="amazonseoconsultant.com" target="indonesia"/>
       <edge id="1224" source="amazonseoconsultant.com" target="bizarro.com"/>
       <edge id="1225" source="postimes.se" target="twitter.com" weight="2.0"/>
-      <edge id="1226" source="postimes.se" target="australia"/>
+      <edge id="1226" source="postimes.se" target="spacefoundation.org"/>
       <edge id="1227" source="postimes.se" target="bizarro.com"/>
       <edge id="1230" source="nature.org" target="bantu"/>
       <edge id="1231" source="nature.org" target="costa-news.com"/>
@@ -971,7 +971,7 @@
       <edge id="1246" source="bantu" target="pygmies" weight="2.0"/>
       <edge id="1247" source="bantu" target="krakowpost.com"/>
       <edge id="1249" source="bantu" target="hindustantimes.com"/>
-      <edge id="1250" source="bantu" target="technology"/>
+      <edge id="1250" source="bantu" target="channel4.com"/>
       <edge id="1252" source="bantu" target="ebay.co.uk"/>
       <edge id="1257" source="Hidden Language Stipulations" target="cnn.com"/>
       <edge id="1258" source="Hidden Language Stipulations" target="new-zealand"/>
@@ -983,9 +983,9 @@
       <edge id="1265" source="amazonseoconsultant.com" target="hawaii"/>
       <edge id="1266" source="twitter.com" target="germs"/>
       <edge id="1267" source="twitter.com" target="Hidden Language Stipulations" weight="2.0"/>
-      <edge id="1270" source="australia" target="Hidden Language Stipulations" weight="2.0"/>
-      <edge id="1272" source="australia" target="independent.co.uk" weight="2.0"/>
-      <edge id="1273" source="australia" target="founder-package"/>
+      <edge id="1270" source="spacefoundation.org" target="Hidden Language Stipulations" weight="2.0"/>
+      <edge id="1272" source="spacefoundation.org" target="independent.co.uk" weight="2.0"/>
+      <edge id="1273" source="spacefoundation.org" target="founder-package"/>
       <edge id="1276" source="Forced Action" target="twitter.com"/>
       <edge id="1278" source="Forced Action" target="aliexpress.com" weight="4.0"/>
       <edge id="1283" source="Hidden Language Stipulations" target="independent.co.uk"/>
@@ -993,8 +993,8 @@
       <edge id="1295" source="Hidden Language Stipulations" target="dragoer-nyt.dk"/>
       <edge id="1296" source="Hidden Language Stipulations" target="epsom-sthelier.nhs.uk"/>
       <edge id="1299" source="Hidden Language Stipulations" target="writing"/>
-      <edge id="1301" source="americas" target="finlandtoday.fi"/>
-      <edge id="1302" source="americas" target="dragoer-nyt.dk"/>
+      <edge id="1301" source="aduna.com" target="finlandtoday.fi"/>
+      <edge id="1302" source="aduna.com" target="dragoer-nyt.dk"/>
       <edge id="1313" source="Forced Action" target="nature.org"/>
       <edge id="1316" source="Forced Action" target="size" weight="2.0"/>
       <edge id="1320" source="Hidden Language Stipulations" target="size"/>
@@ -1005,7 +1005,7 @@
       <edge id="1335" source="Hidden Language Stipulations" target="prombo.de"/>
       <edge id="1337" source="prombo.de" target="nsk.se"/>
       <edge id="1338" source="prombo.de" target="Sneaking - Baith and Switch"/>
-      <edge id="1340" source="prombo.de" target="technology"/>
+      <edge id="1340" source="prombo.de" target="channel4.com"/>
       <edge id="1341" source="prombo.de" target="germs"/>
       <edge id="1342" source="economictimes.indiatimes.com" target="Sneaking - Baith and Switch"/>
       <edge id="1343" source="business-review.eu" target="Sneaking - Baith and Switch"/>
@@ -1023,13 +1023,13 @@
       <edge id="1356" source="nytimes.com" target="germs"/>
       <edge id="1357" source="111" target="hindustantimes.com"/>
       <edge id="1358" source="111" target="udfordringen.dk" weight="2.0"/>
-      <edge id="1359" source="udfordringen.dk" target="australia"/>
+      <edge id="1359" source="udfordringen.dk" target="spacefoundation.org"/>
       <edge id="1360" source="udfordringen.dk" target="nsk.se"/>
       <edge id="1361" source="108" target="size"/>
       <edge id="1362" source="ebay.co.uk" target="golf-alcanada.com"/>
       <edge id="1363" source="110" target="golf-alcanada.com"/>
       <edge id="1364" source="110" target="105"/>
-      <edge id="1365" source="americas" target="111"/>
+      <edge id="1365" source="aduna.com" target="111"/>
       <edge id="1366" source="111" target="101"/>
       <edge id="1367" source="111" target="102"/>
       <edge id="1368" source="twitter.com" target="111"/>
