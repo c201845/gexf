@@ -346,11 +346,11 @@
         <viz:position x="897.6435" y="-687.9521"/>
         <viz:color r="0" g="199" b="255"/>
       </node>
-      <node id="pizarro" label="pizarro">
+      <node id="Interface Inference (e.g. Choice Fatigue)" label="Interface Inference (e.g. Choice Fatigue)">
         <attvalues>
           <attvalue for="modularity class" value="1"/>
         </attvalues>
-        <viz:size value="18.222221"/>
+        <viz:size value="50.222221"/>
         <viz:position x="-823.7625" y="-807.5206"/>
         <viz:color r="0" g="199" b="255"/>
       </node>
@@ -706,7 +706,7 @@
       <edge id="897" source="Forced Action" target="dragoer-nyt.dk" weight="3.0"/>
       <edge id="898" source="Forced Action" target="nyhder.tv2.dk" weight="3.0"/>
       <edge id="899" source="Forced Action" target="berlingskemdia.dk"/>
-      <edge id="900" source="Forced Action" target="pizarro"/>
+      <edge id="900" source="Forced Action" target="Interface Inference (e.g. Choice Fatigue)"/>
       <edge id="901" source="Forced Action" target="channel4.com" weight="5.0"/>
       <edge id="902" source="Forced Action" target="hellomagazine.com" weight="5.0"/>
       <edge id="903" source="Forced Action" target="aduna.com" weight="6.0"/>
@@ -715,16 +715,16 @@
       <edge id="907" source="aduna.com" target="independent.co.uk"/>
       <edge id="908" source="aduna.com" target="Hidden Language Stipulations" weight="5.0"/>
       <edge id="909" source="aduna.com" target="washingtonpost.com"/>
-      <edge id="910" source="aduna.com" target="pizarro"/>
-      <edge id="911" source="pizarro" target="washingtonpost.com" weight="2.0"/>
+      <edge id="910" source="channel4.com" target="Interface Inference (e.g. Choice Fatigue)"/>
+      <edge id="911" source="Interface Inference (e.g. Choice Fatigue)" target="washingtonpost.com" weight="2.0"/>
       <edge id="913" source="hellomagazine.com" target="washingtonpost.com"/>
-      <edge id="914" source="hellomagazine.com" target="pizarro"/>
+      <edge id="914" source="hellomagazine.com" target="Interface Inference (e.g. Choice Fatigue)"/>
       <edge id="921" source="Forced Action" target="nsk.se" weight="3.0"/>
       <edge id="922" source="Hidden Language Stipulations" target="channel4.com" weight="2.0"/>
       <edge id="924" source="Hidden Language Stipulations" target="nsk.se" weight="2.0"/>
       <edge id="925" source="aduna.com" target="channel4.com" weight="2.0"/>
       <edge id="926" source="aduna.com" target="nsk.se"/>
-      <edge id="927" source="heraldonline.com" target="pizarro"/>
+      <edge id="927" source="icelandreview.com" target="Interface Inference (e.g. Choice Fatigue)"/>
       <edge id="928" source="heraldonline.com" target="Forced Action" weight="2.0"/>
       <edge id="929" source="heraldonline.com" target="washingtonpost.com" weight="2.0"/>
       <edge id="930" source="livescience.com" target="hellomagazine.com" weight="3.0"/>
