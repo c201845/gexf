@@ -66,6 +66,14 @@
         <viz:position x="-766.74603" y="-58.63719"/>
         <viz:color r="105" g="196" b="4"/>
       </node>
+      <node id="thejournal.ie" label="thejournal.ie.com">
+        <attvalues>
+          <attvalue for="modularity class" value="4"/>
+        </attvalues>
+        <viz:size value="18.222221"/>
+        <viz:position x="-780.74603" y="-58.63719"/>
+        <viz:color r="110" g="200" b="4"/>
+      </node>
       <node id="china" label="china">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
@@ -979,6 +987,7 @@
       <edge id="1367" source="111" target="102"/>
       <edge id="1368" source="new-guinea" target="111"/>
       <edge id="1369" source="106" target="413"/>
+      <edge id="1370" source="thejournal.ie" target="nsk.se" weight="2.0"/>
     </edges>
   </graph>
 </gexf>
