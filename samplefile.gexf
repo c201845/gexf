@@ -546,6 +546,13 @@
         <viz:position x="188.3318" y="549.7252"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
+      <node id="bladet.no" label="bladet.no">
+        <attvalues>
+          <attvalue for="modularity class" value="3"/>
+        </attvalues>
+        <viz:size value="11.111111"/>
+        <viz:color r="226" g="139" b="255"/>
+      </node>
       <node id="tv2.dk" label="tv2.dk">
         <attvalues>
           <attvalue for="modularity class" value="1"/>
@@ -1120,7 +1127,7 @@
       <edge id="1413" source="spotify.com" target="Obstruction"/>
       <edge id="1414" source="twitter.com" target="Obstruction"/>
       <edge id="1415" source="dailymail.co.uk" target="Obstruction"/>
-
+      <edge id="1416" source="bladet.no" target="Obstruction"/>
     </edges>
   </graph>
 </gexf>
