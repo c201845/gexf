@@ -10,7 +10,7 @@
       <attribute id="modularity class" title="modularity class" type="integer"/>
     </attributes>
     <nodes>
-      <node id="Hidden Language Stipulations" label="Hidden Language Stipulations">
+      <node id="europe" label="europe">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -82,7 +82,7 @@
         <viz:position x="-720.74603" y="-52.63719"/>
         <viz:color r="110" g="200" b="4"/>
       </node>
-      <node id="prombo.de" label="prombo.de">
+      <node id="china" label="china">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -667,7 +667,7 @@
         <viz:size value="10.0"/>
         <viz:position x="107.096436" y="140.73242"/>
       </node>
-      <node id="109" label="nature.org">
+      <node id="109" label="Space Exploration">
         <attvalues>
           <attvalue for="modularity class" value="1"/>
         </attvalues>
@@ -711,17 +711,17 @@
       <edge id="902" source="Forced Action" target="germs" weight="5.0"/>
       <edge id="903" source="Forced Action" target="americas" weight="6.0"/>
       <edge id="905" source="Forced Action" target="Social Engineering"/>
-      <edge id="906" source="Forced Action" target="Hidden Language Stipulations" weight="11.0"/>
+      <edge id="906" source="Forced Action" target="europe" weight="11.0"/>
       <edge id="907" source="americas" target="independent.co.uk"/>
-      <edge id="908" source="americas" target="Hidden Language Stipulations" weight="5.0"/>
+      <edge id="908" source="americas" target="europe" weight="5.0"/>
       <edge id="909" source="americas" target="incas"/>
       <edge id="910" source="americas" target="pizarro"/>
       <edge id="911" source="pizarro" target="incas" weight="2.0"/>
       <edge id="913" source="germs" target="incas"/>
       <edge id="914" source="germs" target="pizarro"/>
       <edge id="921" source="Forced Action" target="nsk.se" weight="3.0"/>
-      <edge id="922" source="Hidden Language Stipulations" target="technology" weight="2.0"/>
-      <edge id="924" source="Hidden Language Stipulations" target="nsk.se" weight="2.0"/>
+      <edge id="922" source="europe" target="technology" weight="2.0"/>
+      <edge id="924" source="europe" target="nsk.se" weight="2.0"/>
       <edge id="925" source="americas" target="technology" weight="2.0"/>
       <edge id="926" source="americas" target="nsk.se"/>
       <edge id="927" source="writing" target="pizarro"/>
@@ -762,7 +762,7 @@
       <edge id="976" source="Social Engineering" target="bloomberg.com"/>
       <edge id="977" source="Social Engineering" target="guardian.com"/>
       <edge id="978" source="founder-package" target="nationalgeographic.com"/>
-      <edge id="979" source="founder-package" target="prombo.de"/>
+      <edge id="979" source="founder-package" target="china"/>
       <edge id="980" source="founder-package" target="algarvedailynews.com"/>
       <edge id="981" source="founder-package" target="firstnews.co.uk"/>
       <edge id="982" source="founder-package" target="agderposten.no"/>
@@ -777,7 +777,7 @@
       <edge id="991" source="business-review.eu" target="americas"/>
       <edge id="992" source="business-review.eu" target="oceania"/>
       <edge id="993" source="business-review.eu" target="longchamp.co.uk"/>
-      <edge id="994" source="business-review.eu" target="Hidden Language Stipulations"/>
+      <edge id="994" source="business-review.eu" target="europe"/>
       <edge id="995" source="business-review.eu" target="africa"/>
       <edge id="996" source="ap.org" target="Social Engineering"/>
       <edge id="997" source="ap.org" target="americas"/>
@@ -809,7 +809,7 @@
       <edge id="1034" source="germs" target="africa" weight="2.0"/>
       <edge id="1035" source="germs" target="Social Engineering"/>
       <edge id="1036" source="germs" target="Sneaking - Baith and Switch"/>
-      <edge id="1039" source="germs" target="Hidden Language Stipulations" weight="2.0"/>
+      <edge id="1039" source="germs" target="europe" weight="2.0"/>
       <edge id="1040" source="germs" target="longchamp.co.uk"/>
       <edge id="1046" source="writing" target="nsk.se"/>
       <edge id="1047" source="writing" target="epsom-sthelier.nhs.uk"/>
@@ -831,7 +831,7 @@
       <edge id="1065" source="Forced Action" target="longchamp.co.uk"/>
       <edge id="1067" source="Forced Action" target="postimes.se"/>
       <edge id="1068" source="postimes.se" target="longchamp.co.uk"/>
-      <edge id="1069" source="postimes.se" target="Hidden Language Stipulations" weight="2.0"/>
+      <edge id="1069" source="postimes.se" target="europe" weight="2.0"/>
       <edge id="1071" source="postimes.se" target="writing"/>
       <edge id="1072" source="Sneaking - Baith and Switch" target="postimes.se"/>
       <edge id="1073" source="Sneaking - Baith and Switch" target="population-displacement"/>
@@ -856,25 +856,25 @@
       <edge id="1093" source="africa" target="ethiopia"/>
       <edge id="1094" source="africa" target="west-africa"/>
       <edge id="1095" source="africa" target="nationalgeographic.com"/>
-      <edge id="1096" source="africa" target="prombo.de"/>
+      <edge id="1096" source="africa" target="china"/>
       <edge id="1097" source="africa" target="Social Engineering"/>
       <edge id="1098" source="polynesia" target="Sneaking - Baith and Switch"/>
       <edge id="1099" source="polynesia" target="Social Engineering"/>
       <edge id="1101" source="livescience.com" target="climate"/>
       <edge id="1106" source="Sneaking - Baith and Switch" target="geography"/>
-      <edge id="1107" source="Sneaking - Baith and Switch" target="Hidden Language Stipulations"/>
+      <edge id="1107" source="Sneaking - Baith and Switch" target="europe"/>
       <edge id="1108" source="Sneaking - Baith and Switch" target="africa"/>
       <edge id="1110" source="Sneaking - Baith and Switch" target="oceania"/>
       <edge id="1112" source="Sneaking - Baith and Switch" target="longchamp.co.uk"/>
-      <edge id="1113" source="geography" target="Hidden Language Stipulations" weight="3.0"/>
+      <edge id="1113" source="geography" target="europe" weight="3.0"/>
       <edge id="1114" source="geography" target="africa" weight="2.0"/>
       <edge id="1115" source="geography" target="americas" weight="2.0"/>
       <edge id="1116" source="geography" target="oceania"/>
       <edge id="1117" source="geography" target="climate"/>
       <edge id="1118" source="geography" target="longchamp.co.uk"/>
-      <edge id="1119" source="Hidden Language Stipulations" target="africa" weight="2.0"/>
-      <edge id="1121" source="Hidden Language Stipulations" target="oceania"/>
-      <edge id="1122" source="Hidden Language Stipulations" target="longchamp.co.uk"/>
+      <edge id="1119" source="europe" target="africa" weight="2.0"/>
+      <edge id="1121" source="europe" target="oceania"/>
+      <edge id="1122" source="europe" target="longchamp.co.uk"/>
       <edge id="1123" source="africa" target="americas"/>
       <edge id="1124" source="africa" target="oceania"/>
       <edge id="1125" source="africa" target="longchamp.co.uk"/>
@@ -914,21 +914,21 @@
       <edge id="1172" source="livescience.com" target="dailymail.co.uk"/>
       <edge id="1176" source="livescience.com" target="size"/>
       <edge id="1178" source="Forced Action" target="livescience.com" weight="2.0"/>
-      <edge id="1180" source="prombo.de" target="language" weight="2.0"/>
-      <edge id="1181" source="prombo.de" target="population-displacement" weight="2.0"/>
-      <edge id="1182" source="prombo.de" target="east-longchamp.co.ukns" weight="2.0"/>
-      <edge id="1183" source="prombo.de" target="indonesia"/>
-      <edge id="1184" source="prombo.de" target="austronesean-expansion" weight="2.0"/>
-      <edge id="1185" source="prombo.de" target="writing" weight="3.0"/>
+      <edge id="1180" source="china" target="language" weight="2.0"/>
+      <edge id="1181" source="china" target="population-displacement" weight="2.0"/>
+      <edge id="1182" source="china" target="east-longchamp.co.ukns" weight="2.0"/>
+      <edge id="1183" source="china" target="indonesia"/>
+      <edge id="1184" source="china" target="austronesean-expansion" weight="2.0"/>
+      <edge id="1185" source="china" target="writing" weight="3.0"/>
       <edge id="1186" source="austronesean-expansion" target="language" weight="2.0"/>
       <edge id="1187" source="austronesean-expansion" target="indonesia"/>
       <edge id="1188" source="population-displacement" target="east-longchamp.co.ukns" weight="2.0"/>
-      <edge id="1189" source="prombo.de" target="postimes.se"/>
-      <edge id="1192" source="prombo.de" target="geography"/>
-      <edge id="1194" source="prombo.de" target="early-food-production" weight="2.0"/>
-      <edge id="1195" source="prombo.de" target="Forced Action" weight="2.0"/>
+      <edge id="1189" source="china" target="postimes.se"/>
+      <edge id="1192" source="china" target="geography"/>
+      <edge id="1194" source="china" target="early-food-production" weight="2.0"/>
+      <edge id="1195" source="china" target="Forced Action" weight="2.0"/>
       <edge id="1197" source="early-food-production" target="Forced Action" weight="3.0"/>
-      <edge id="1198" source="longchamp.co.uk" target="prombo.de"/>
+      <edge id="1198" source="longchamp.co.uk" target="china"/>
       <edge id="1199" source="longchamp.co.uk" target="dailymail.co.uk"/>
       <edge id="1200" source="longchamp.co.uk" target="population-displacement"/>
       <edge id="1201" source="longchamp.co.uk" target="east-longchamp.co.ukns"/>
@@ -960,9 +960,9 @@
       <edge id="1234" source="dailymail.co.uk" target="pygmies"/>
       <edge id="1235" source="dailymail.co.uk" target="costa-news.com"/>
       <edge id="1236" source="costa-news.com" target="population-displacement" weight="3.0"/>
-      <edge id="1237" source="costa-news.com" target="Hidden Language Stipulations"/>
+      <edge id="1237" source="costa-news.com" target="europe"/>
       <edge id="1238" source="costa-news.com" target="spio.de"/>
-      <edge id="1239" source="Hidden Language Stipulations" target="population-displacement" weight="2.0"/>
+      <edge id="1239" source="europe" target="population-displacement" weight="2.0"/>
       <edge id="1240" source="language" target="pygmies"/>
       <edge id="1241" source="language" target="costa-news.com"/>
       <edge id="1242" source="population-displacement" target="bantu" weight="2.0"/>
@@ -973,40 +973,40 @@
       <edge id="1249" source="bantu" target="hindustantimes.com"/>
       <edge id="1250" source="bantu" target="technology"/>
       <edge id="1252" source="bantu" target="ethiopia"/>
-      <edge id="1257" source="Hidden Language Stipulations" target="polynesia"/>
-      <edge id="1258" source="Hidden Language Stipulations" target="new-zealand"/>
-      <edge id="1259" source="Hidden Language Stipulations" target="hawaii"/>
-      <edge id="1260" source="Hidden Language Stipulations" target="climate"/>
+      <edge id="1257" source="europe" target="polynesia"/>
+      <edge id="1258" source="europe" target="new-zealand"/>
+      <edge id="1259" source="europe" target="hawaii"/>
+      <edge id="1260" source="europe" target="climate"/>
       <edge id="1261" source="population-displacement" target="climate"/>
       <edge id="1263" source="population-displacement" target="polynesia"/>
       <edge id="1264" source="population-displacement" target="new-zealand"/>
       <edge id="1265" source="population-displacement" target="hawaii"/>
       <edge id="1266" source="new-guinea" target="germs"/>
-      <edge id="1267" source="new-guinea" target="Hidden Language Stipulations" weight="2.0"/>
-      <edge id="1270" source="australia" target="Hidden Language Stipulations" weight="2.0"/>
+      <edge id="1267" source="new-guinea" target="europe" weight="2.0"/>
+      <edge id="1270" source="australia" target="europe" weight="2.0"/>
       <edge id="1272" source="australia" target="independent.co.uk" weight="2.0"/>
       <edge id="1273" source="australia" target="founder-package"/>
       <edge id="1276" source="Forced Action" target="new-guinea"/>
       <edge id="1278" source="Forced Action" target="geography" weight="4.0"/>
-      <edge id="1283" source="Hidden Language Stipulations" target="independent.co.uk"/>
-      <edge id="1294" source="Hidden Language Stipulations" target="early-food-production" weight="2.0"/>
-      <edge id="1295" source="Hidden Language Stipulations" target="dragoer-nyt.dk"/>
-      <edge id="1296" source="Hidden Language Stipulations" target="epsom-sthelier.nhs.uk"/>
-      <edge id="1299" source="Hidden Language Stipulations" target="writing"/>
+      <edge id="1283" source="europe" target="independent.co.uk"/>
+      <edge id="1294" source="europe" target="early-food-production" weight="2.0"/>
+      <edge id="1295" source="europe" target="dragoer-nyt.dk"/>
+      <edge id="1296" source="europe" target="epsom-sthelier.nhs.uk"/>
+      <edge id="1299" source="europe" target="writing"/>
       <edge id="1301" source="americas" target="early-food-production"/>
       <edge id="1302" source="americas" target="dragoer-nyt.dk"/>
       <edge id="1313" source="Forced Action" target="africa"/>
       <edge id="1316" source="Forced Action" target="size" weight="2.0"/>
-      <edge id="1320" source="Hidden Language Stipulations" target="size"/>
+      <edge id="1320" source="europe" target="size"/>
       <edge id="1321" source="africa" target="early-food-production"/>
       <edge id="1323" source="africa" target="size"/>
       <edge id="1329" source="Forced Action" target="nationalgeographic.com"/>
-      <edge id="1331" source="nationalgeographic.com" target="Hidden Language Stipulations"/>
-      <edge id="1335" source="Hidden Language Stipulations" target="prombo.de"/>
-      <edge id="1337" source="prombo.de" target="nsk.se"/>
-      <edge id="1338" source="prombo.de" target="Sneaking - Baith and Switch"/>
-      <edge id="1340" source="prombo.de" target="technology"/>
-      <edge id="1341" source="prombo.de" target="germs"/>
+      <edge id="1331" source="nationalgeographic.com" target="europe"/>
+      <edge id="1335" source="europe" target="china"/>
+      <edge id="1337" source="china" target="nsk.se"/>
+      <edge id="1338" source="china" target="Sneaking - Baith and Switch"/>
+      <edge id="1340" source="china" target="technology"/>
+      <edge id="1341" source="china" target="germs"/>
       <edge id="1342" source="economictimes.indiatimes.com" target="Sneaking - Baith and Switch"/>
       <edge id="1343" source="business-review.eu" target="Sneaking - Baith and Switch"/>
       <edge id="1344" source="eu.statesman.com" target="guardian.com"/>
@@ -1016,9 +1016,9 @@
       <edge id="1349" source="101" target="egypt" weight="2.0"/>
       <edge id="1350" source="102" target="independent.co.uk" weight="2.0"/>
       <edge id="1351" source="nutrition" target="103"/>
-      <edge id="1352" source="prombo.de" target="104"/>
+      <edge id="1352" source="china" target="104"/>
       <edge id="1353" source="105" target="104"/>
-      <edge id="1354" source="106" target="Hidden Language Stipulations"/>
+      <edge id="1354" source="106" target="europe"/>
       <edge id="1355" source="106" target="africa"/>
       <edge id="1356" source="106" target="germs"/>
       <edge id="1357" source="111" target="hindustantimes.com"/>
@@ -1043,7 +1043,6 @@
       <edge id="1376" source="berlingskemdia.dk" target="euractiv.com" weight="2.0"/>
       <edge id="1377" source="Trick Questions" target="Social Engineering"/>
       <edge id="1378" source="MVCA(e.g. False Hiearchy)" target="hindustantimes.com"/>
-      <edge id="1379" source="nature.org" target="Hidden Language Stipulations"/>
     </edges>
   </graph>
 </gexf>
