@@ -639,7 +639,7 @@
         <viz:size value="10.0"/>
         <viz:position x="225.16687" y="-114.419556"/>
       </node>
-      <node id="105" label="icelandreview.com">
+      <node id="icelandreview.com" label="icelandreview.com">
         <attvalues>
           <attvalue for="modularity class" value="1"/>
         </attvalues>
@@ -1017,7 +1017,7 @@
       <edge id="1350" source="102" target="independent.co.uk" weight="2.0"/>
       <edge id="1351" source="vox.com" target="rbth.com"/>
       <edge id="1352" source="prombo.de" target="104"/>
-      <edge id="1353" source="105" target="104"/>
+      <edge id="1353" source="icelandreview.com" target="104"/>
       <edge id="1354" source="nytimes.com" target="Hidden Language Stipulations"/>
       <edge id="1355" source="nytimes.com" target="nature.org"/>
       <edge id="1356" source="nytimes.com" target="hellomagazine.com"/>
@@ -1028,7 +1028,7 @@
       <edge id="1361" source="zdnet.com" target="staple.co.uk"/>
       <edge id="1362" source="ebay.co.uk" target="golf-alcanada.com"/>
       <edge id="1363" source="110" target="golf-alcanada.com"/>
-      <edge id="1364" source="110" target="105"/>
+      <edge id="1364" source="110" target="icelandreview.com"/>
       <edge id="1365" source="aduna.com" target="111"/>
       <edge id="1366" source="111" target="af.reuters.com"/>
       <edge id="1367" source="111" target="102"/>
