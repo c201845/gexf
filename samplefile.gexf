@@ -597,7 +597,7 @@
         <viz:size value="10.0"/>
         <viz:position x="-62.312347" y="221.2276"/>
       </node>
-      <node id="107" label="Health and Medicine">
+      <node id="udfordringen.dk" label="udfordringen.dk">
         <attvalues>
           <attvalue for="modularity class" value="3"/>
         </attvalues>
@@ -967,9 +967,9 @@
       <edge id="1355" source="106" target="africa"/>
       <edge id="1356" source="106" target="germs"/>
       <edge id="1357" source="111" target="sahel-zone"/>
-      <edge id="1358" source="111" target="107" weight="2.0"/>
-      <edge id="1359" source="107" target="australia"/>
-      <edge id="1360" source="107" target="nsk.se"/>
+      <edge id="1358" source="111" target="udfordringen.dk" weight="2.0"/>
+      <edge id="1359" source="udfordringen.dk" target="australia"/>
+      <edge id="1360" source="udfordringen.dk" target="nsk.se"/>
       <edge id="1361" source="108" target="size"/>
       <edge id="1362" source="ethiopia" target="109"/>
       <edge id="1363" source="110" target="109"/>
