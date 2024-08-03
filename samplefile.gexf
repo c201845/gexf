@@ -1055,6 +1055,7 @@
       <edge id="1388" source="vox.com"  target="Hidden Language Stipulations"/>
       <edge id="1389" source="ncbc.com"  target="Hidden Language Stipulations"/>
       <edge id="1390" source="zdnet.com"  target="nature.org"/>
+      <edge id="1391" source="zdnet.com"  target="Hidden Language Stipulations"/>
       
     </edges>
   </graph>
