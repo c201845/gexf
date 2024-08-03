@@ -71,7 +71,7 @@
           <attvalue for="modularity class" value="4"/>
         </attvalues>
         <viz:size value="10.0"/>
-        <viz:position x="-690.74603" y="-50.63719"/>
+        <viz:position x="-640.74603" y="-50.63719"/>
         <viz:color r="105" g="196" b="4"/>
       </node>
       <node id="thejournal.ie" label="thejournal.ie.com">
