@@ -98,6 +98,14 @@
         <viz:position x="-189.70107" y="1007.142"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
+      <node id="Trick Questions" label="Trick Questions">
+        <attvalues>
+          <attvalue for="modularity class" value="0"/>
+        </attvalues>
+        <viz:size value="64.44445"/>
+        <viz:position x="-200.70107" y="1020.142"/>
+        <viz:color r="226" g="139" b="255"/>
+      </node>
       <node id="australia" label="australia">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
@@ -1033,6 +1041,7 @@
       <edge id="1374" source="en.people.cn" target="spio.de" weight="2.0"/>
       <edge id="1375" source="Forced Action" target="euractiv.com" weight="2.0"/>
       <edge id="1376" source="berlingskemdia.dk" target="euractiv.com" weight="2.0"/>
+      <edge id="1376" source="Trick Questions" target="Social Engineering"/>
     </edges>
   </graph>
 </gexf>
