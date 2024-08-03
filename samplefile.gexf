@@ -12,7 +12,7 @@
     <nodes>
       <node id="Hidden Language Stipulations" label="Hidden Language Stipulations">
         <attvalues>
-          <attvalue for="modularity class" value="8"/>
+          <attvalue for="modularity class" value="0"/>
         </attvalues>
         <viz:size value="100.0"/>
         <viz:position x="1057.6254" y="519.3347"/>
@@ -1054,7 +1054,7 @@
       <edge id="1387" source="rbth.com"  target="Hidden Language Stipulations"/>
       <edge id="1388" source="vox.com"  target="Hidden Language Stipulations"/>
       <edge id="1389" source="ncbc.com"  target="Hidden Language Stipulations"/>
-      <edge id="1390" source="zdnet.com"  target="Hidden Language Stipulations"/>
+      <edge id="1390" source="zdnet.com"  target="nature.org"/>
       
     </edges>
   </graph>
