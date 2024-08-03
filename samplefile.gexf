@@ -490,7 +490,7 @@
         <viz:position x="7.1934414" y="693.21936"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="west-africa" label="west-africa">
+      <node id="krakowpost.com" label="krakowpost.com">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -498,7 +498,7 @@
         <viz:position x="-72.42868" y="777.1302"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="ethiopia" label="ethiopia">
+      <node id="ebay.co.uk" label="ebay.co.uk">
         <attvalues>
           <attvalue for="modularity class" value="0"/>
         </attvalues>
@@ -767,8 +767,8 @@
       <edge id="981" source="founder-package" target="firstnews.co.uk"/>
       <edge id="982" source="founder-package" target="agderposten.no"/>
       <edge id="983" source="founder-package" target="hindustantimes.com"/>
-      <edge id="984" source="founder-package" target="west-africa"/>
-      <edge id="985" source="founder-package" target="ethiopia"/>
+      <edge id="984" source="founder-package" target="krakowpost.com"/>
+      <edge id="985" source="founder-package" target="ebay.co.uk"/>
       <edge id="986" source="founder-package" target="new-guinea"/>
       <edge id="987" source="founder-package" target="nutrition"/>
       <edge id="988" source="founder-package" target="guardian.com"/>
@@ -853,8 +853,8 @@
       <edge id="1090" source="epsom-sthelier.nhs.uk" target="australia" weight="3.0"/>
       <edge id="1091" source="nature.org" target="founder-package"/>
       <edge id="1092" source="nature.org" target="hindustantimes.com"/>
-      <edge id="1093" source="nature.org" target="ethiopia"/>
-      <edge id="1094" source="nature.org" target="west-africa"/>
+      <edge id="1093" source="nature.org" target="ebay.co.uk"/>
+      <edge id="1094" source="nature.org" target="krakowpost.com"/>
       <edge id="1095" source="nature.org" target="nationalgeographic.com"/>
       <edge id="1096" source="nature.org" target="prombo.de"/>
       <edge id="1097" source="nature.org" target="Social Engineering"/>
@@ -969,10 +969,10 @@
       <edge id="1244" source="population-displacement" target="pygmies" weight="2.0"/>
       <edge id="1245" source="bantu" target="costa-news.com" weight="2.0"/>
       <edge id="1246" source="bantu" target="pygmies" weight="2.0"/>
-      <edge id="1247" source="bantu" target="west-africa"/>
+      <edge id="1247" source="bantu" target="krakowpost.com"/>
       <edge id="1249" source="bantu" target="hindustantimes.com"/>
       <edge id="1250" source="bantu" target="technology"/>
-      <edge id="1252" source="bantu" target="ethiopia"/>
+      <edge id="1252" source="bantu" target="ebay.co.uk"/>
       <edge id="1257" source="Hidden Language Stipulations" target="polynesia"/>
       <edge id="1258" source="Hidden Language Stipulations" target="new-zealand"/>
       <edge id="1259" source="Hidden Language Stipulations" target="hawaii"/>
@@ -1026,7 +1026,7 @@
       <edge id="1359" source="udfordringen.dk" target="australia"/>
       <edge id="1360" source="udfordringen.dk" target="nsk.se"/>
       <edge id="1361" source="108" target="size"/>
-      <edge id="1362" source="ethiopia" target="109"/>
+      <edge id="1362" source="ebay.co.uk" target="109"/>
       <edge id="1363" source="110" target="109"/>
       <edge id="1364" source="110" target="105"/>
       <edge id="1365" source="americas" target="111"/>
