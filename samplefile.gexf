@@ -58,11 +58,11 @@
         <viz:position x="609.0293" y="-682.01276"/>
         <viz:color r="0" g="175" b="135"/>
       </node>
-      <node id="population" label="population">
+      <node id="livescience" label="livescience">
         <attvalues>
           <attvalue for="modularity class" value="4"/>
         </attvalues>
-        <viz:size value="64.44445"/>
+        <viz:size value="18.222221"/>
         <viz:position x="-766.74603" y="-58.63719"/>
         <viz:color r="105" g="196" b="4"/>
       </node>
@@ -334,7 +334,7 @@
         <attvalues>
           <attvalue for="modularity class" value="6"/>
         </attvalues>
-        <viz:size value="18.222221"/>
+        <viz:size value="64.44445"/>
         <viz:position x="-1011.7815" y="33.021698"/>
         <viz:color r="255" g="93" b="133"/>
       </node>
@@ -671,9 +671,9 @@
       <edge id="927" source="writing" target="pizarro"/>
       <edge id="928" source="writing" target="societal-advantage" weight="2.0"/>
       <edge id="929" source="writing" target="incas" weight="2.0"/>
-      <edge id="930" source="population" target="germs" weight="3.0"/>
-      <edge id="931" source="population" target="technology" weight="4.0"/>
-      <edge id="932" source="population" target="societies" weight="4.0"/>
+      <edge id="930" source="livescience" target="germs" weight="3.0"/>
+      <edge id="931" source="livescience" target="technology" weight="4.0"/>
+      <edge id="932" source="livescience" target="societies" weight="4.0"/>
       <edge id="933" source="societies" target="bands" weight="3.0"/>
       <edge id="934" source="societies" target="tribes" weight="3.0"/>
       <edge id="935" source="societies" target="chiefdoms" weight="3.0"/>
@@ -690,17 +690,17 @@
       <edge id="950" source="states" target="technology"/>
       <edge id="951" source="war" target="religion"/>
       <edge id="952" source="writing" target="states"/>
-      <edge id="954" source="population" target="central-government" weight="2.0"/>
+      <edge id="954" source="livescience" target="central-government" weight="2.0"/>
       <edge id="960" source="bands" target="tribes"/>
       <edge id="961" source="bands" target="food-production"/>
       <edge id="963" source="war" target="bands"/>
       <edge id="964" source="war" target="tribes"/>
       <edge id="965" source="war" target="chiefdoms"/>
-      <edge id="967" source="population" target="food-production" weight="4.0"/>
-      <edge id="968" source="population" target="animals"/>
-      <edge id="969" source="population" target="war" weight="2.0"/>
-      <edge id="971" source="population" target="religion"/>
-      <edge id="973" source="population" target="writing" weight="2.0"/>
+      <edge id="967" source="livescience" target="food-production" weight="4.0"/>
+      <edge id="968" source="livescience" target="animals"/>
+      <edge id="969" source="livescience" target="war" weight="2.0"/>
+      <edge id="971" source="livescience" target="religion"/>
+      <edge id="973" source="livescience" target="writing" weight="2.0"/>
       <edge id="974" source="animals" target="war"/>
       <edge id="975" source="animals" target="food-production"/>
       <edge id="976" source="animals" target="transportation"/>
@@ -805,7 +805,7 @@
       <edge id="1097" source="africa" target="animals"/>
       <edge id="1098" source="polynesia" target="food-production"/>
       <edge id="1099" source="polynesia" target="animals"/>
-      <edge id="1101" source="population" target="climate"/>
+      <edge id="1101" source="livescience" target="climate"/>
       <edge id="1106" source="food-production" target="geography"/>
       <edge id="1107" source="food-production" target="europe"/>
       <edge id="1108" source="food-production" target="africa"/>
@@ -829,7 +829,7 @@
       <edge id="1129" source="geography" target="animals"/>
       <edge id="1130" source="geography" target="germs"/>
       <edge id="1131" source="geography" target="plants"/>
-      <edge id="1132" source="isolation" target="population" weight="2.0"/>
+      <edge id="1132" source="isolation" target="livescience" weight="2.0"/>
       <edge id="1134" source="isolation" target="societal-advantage" weight="5.0"/>
       <edge id="1135" source="isolation" target="oceania"/>
       <edge id="1137" source="isolation" target="new-guinea" weight="2.0"/>
@@ -842,23 +842,23 @@
       <edge id="1146" source="australia" target="societal-advantage" weight="2.0"/>
       <edge id="1150" source="food-production" target="environment"/>
       <edge id="1152" source="new-guinea" target="climate"/>
-      <edge id="1153" source="new-guinea" target="population"/>
+      <edge id="1153" source="new-guinea" target="livescience"/>
       <edge id="1154" source="new-guinea" target="dailymail"/>
       <edge id="1155" source="new-guinea" target="technology"/>
       <edge id="1156" source="new-guinea" target="animals"/>
       <edge id="1157" source="new-guinea" target="indonesia"/>
       <edge id="1158" source="new-guinea" target="plants"/>
-      <edge id="1163" source="population" target="bands"/>
-      <edge id="1164" source="population" target="tribes"/>
+      <edge id="1163" source="livescience" target="bands"/>
+      <edge id="1164" source="livescience" target="tribes"/>
       <edge id="1165" source="new-zealand" target="climate"/>
-      <edge id="1166" source="new-zealand" target="population"/>
+      <edge id="1166" source="new-zealand" target="livescience"/>
       <edge id="1167" source="new-zealand" target="dailymail"/>
       <edge id="1168" source="new-zealand" target="isolation"/>
       <edge id="1169" source="new-zealand" target="food-production"/>
       <edge id="1170" source="new-zealand" target="war"/>
-      <edge id="1172" source="population" target="dailymail"/>
-      <edge id="1176" source="population" target="size"/>
-      <edge id="1178" source="societal-advantage" target="population" weight="2.0"/>
+      <edge id="1172" source="livescience" target="dailymail"/>
+      <edge id="1176" source="livescience" target="size"/>
+      <edge id="1178" source="societal-advantage" target="livescience" weight="2.0"/>
       <edge id="1180" source="china" target="language" weight="2.0"/>
       <edge id="1181" source="china" target="population-displacement" weight="2.0"/>
       <edge id="1182" source="china" target="east-asians" weight="2.0"/>
