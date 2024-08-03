@@ -62,7 +62,7 @@
         <attvalues>
           <attvalue for="modularity class" value="4"/>
         </attvalues>
-        <viz:size value="18.222221"/>
+        <viz:size value="64.44445"/>
         <viz:position x="-766.74603" y="-58.63719"/>
         <viz:color r="105" g="196" b="4"/>
       </node>
@@ -194,7 +194,7 @@
         <viz:position x="1128.324" y="-215.73357"/>
         <viz:color r="226" g="139" b="255"/>
       </node>
-      <node id="hunter-gatherers" label="hunter-gatherers">
+      <node id="dailymail" label="dailymail">
         <attvalues>
           <attvalue for="modularity class" value="6"/>
         </attvalues>
@@ -334,7 +334,7 @@
         <attvalues>
           <attvalue for="modularity class" value="6"/>
         </attvalues>
-        <viz:size value="64.44445"/>
+        <viz:size value="18.222221"/>
         <viz:position x="-1011.7815" y="33.021698"/>
         <viz:color r="255" g="93" b="133"/>
       </node>
@@ -680,7 +680,7 @@
       <edge id="936" source="societies" target="states" weight="3.0"/>
       <edge id="937" source="bands" target="new-guinea"/>
       <edge id="938" source="bands" target="americas"/>
-      <edge id="940" source="bands" target="hunter-gatherers" weight="2.0"/>
+      <edge id="940" source="bands" target="dailymail" weight="2.0"/>
       <edge id="941" source="tribes" target="food-production"/>
       <edge id="944" source="chiefdoms" target="religion"/>
       <edge id="945" source="chiefdoms" target="central-government"/>
@@ -785,11 +785,11 @@
       <edge id="1077" source="cultural-diffusion" target="americas"/>
       <edge id="1078" source="population-displacement" target="americas"/>
       <edge id="1079" source="population-displacement" target="australia" weight="2.0"/>
-      <edge id="1080" source="hunter-gatherers" target="americas"/>
-      <edge id="1081" source="hunter-gatherers" target="australia"/>
+      <edge id="1080" source="dailymail" target="americas"/>
+      <edge id="1081" source="dailymail" target="australia"/>
       <edge id="1082" source="food-production" target="isolation" weight="3.0"/>
       <edge id="1083" source="food-production" target="climate" weight="6.0"/>
-      <edge id="1084" source="food-production" target="hunter-gatherers"/>
+      <edge id="1084" source="food-production" target="dailymail"/>
       <edge id="1085" source="food-production" target="americas" weight="2.0"/>
       <edge id="1086" source="food-production" target="south-africa"/>
       <edge id="1087" source="food-production" target="australia" weight="2.0"/>
@@ -843,7 +843,7 @@
       <edge id="1150" source="food-production" target="environment"/>
       <edge id="1152" source="new-guinea" target="climate"/>
       <edge id="1153" source="new-guinea" target="population"/>
-      <edge id="1154" source="new-guinea" target="hunter-gatherers"/>
+      <edge id="1154" source="new-guinea" target="dailymail"/>
       <edge id="1155" source="new-guinea" target="technology"/>
       <edge id="1156" source="new-guinea" target="animals"/>
       <edge id="1157" source="new-guinea" target="indonesia"/>
@@ -852,11 +852,11 @@
       <edge id="1164" source="population" target="tribes"/>
       <edge id="1165" source="new-zealand" target="climate"/>
       <edge id="1166" source="new-zealand" target="population"/>
-      <edge id="1167" source="new-zealand" target="hunter-gatherers"/>
+      <edge id="1167" source="new-zealand" target="dailymail"/>
       <edge id="1168" source="new-zealand" target="isolation"/>
       <edge id="1169" source="new-zealand" target="food-production"/>
       <edge id="1170" source="new-zealand" target="war"/>
-      <edge id="1172" source="population" target="hunter-gatherers"/>
+      <edge id="1172" source="population" target="dailymail"/>
       <edge id="1176" source="population" target="size"/>
       <edge id="1178" source="societal-advantage" target="population" weight="2.0"/>
       <edge id="1180" source="china" target="language" weight="2.0"/>
@@ -874,10 +874,10 @@
       <edge id="1195" source="china" target="societal-advantage" weight="2.0"/>
       <edge id="1197" source="early-food-production" target="societal-advantage" weight="3.0"/>
       <edge id="1198" source="asia" target="china"/>
-      <edge id="1199" source="asia" target="hunter-gatherers"/>
+      <edge id="1199" source="asia" target="dailymail"/>
       <edge id="1200" source="asia" target="population-displacement"/>
       <edge id="1201" source="asia" target="east-asians"/>
-      <edge id="1205" source="hunter-gatherers" target="east-asians"/>
+      <edge id="1205" source="dailymail" target="east-asians"/>
       <edge id="1206" source="austronesean-expansion" target="new-guinea"/>
       <edge id="1207" source="austronesean-expansion" target="polynesia"/>
       <edge id="1208" source="austronesean-expansion" target="hawaii"/>
@@ -902,8 +902,8 @@
       <edge id="1231" source="africa" target="khoisan"/>
       <edge id="1232" source="africa" target="pygmies"/>
       <edge id="1233" source="africa" target="madagascar"/>
-      <edge id="1234" source="hunter-gatherers" target="pygmies"/>
-      <edge id="1235" source="hunter-gatherers" target="khoisan"/>
+      <edge id="1234" source="dailymail" target="pygmies"/>
+      <edge id="1235" source="dailymail" target="khoisan"/>
       <edge id="1236" source="khoisan" target="population-displacement" weight="3.0"/>
       <edge id="1237" source="khoisan" target="europe"/>
       <edge id="1238" source="khoisan" target="south-africa"/>
