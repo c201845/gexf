@@ -1032,6 +1032,7 @@
       <edge id="1372" source="webmd.com" target="Fake Scarcity" weight="2.0"/>
       <edge id="1373" source="sverigersradio.se" target="Fake Scarcity" weight="2.0"/>
       <edge id="1374" source="en.people.cn" target="spio.de" weight="2.0"/>
+      <edge id="1375" source="Forced Action(e.g. Bundle Consent, Privacy Zickering)" target="euractiv.com" weight="2.0"/>
     </edges>
   </graph>
 </gexf>
