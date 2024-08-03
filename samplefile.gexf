@@ -1316,7 +1316,6 @@
       <edge id="1416" source="bladet.no" target="Obstruction"/>
       <edge id="1417" source="budstika.no" target="Obstruction"/>
       <edge id="1418" source="perezhulton.com" target="Obstruction"/>
-
       <edge id="1419" source="unicef.org" target="Obstruction"/>
       <edge id="1420" source="hulu.com" target="Obstruction"/>
       <edge id="1421" source="pinterest.co.uk" target="Obstruction"/>
@@ -1327,7 +1326,6 @@
       <edge id="1426" source="thecourier.co.uk" target="Obstruction"/>
       <edge id="1427" source="nychealthandhospitals.org" target="Obstruction"/>
       <edge id="1428" source="sermitsiaq.ag" target="Obstruction"/>
-
       <edge id="1429" source="newdomain1.com" target="Obstruction"/>
       <edge id="1430" source="newdomain2.com" target="Obstruction"/>
       <edge id="1431" source="newdomain3.com" target="Obstruction"/>
