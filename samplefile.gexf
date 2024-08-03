@@ -843,6 +843,7 @@
         <viz:size value="11.111111"/>
         <viz:color r="128" g="128" b="0"/>
       </node>
+     
     </nodes>
     <edges>
       <edge id="896" source="Forced Action" target="mirror.co.uk" weight="2.0"/>
@@ -1226,6 +1227,7 @@
       <edge id="1416" source="bladet.no" target="Obstruction"/>
       <edge id="1417" source="budstika.no" target="Obstruction"/>
       <edge id="1418" source="perezhulton.com" target="Obstruction"/>
+
       <edge id="1419" source="unicef.org" target="Obstruction"/>
       <edge id="1420" source="hulu.com" target="Obstruction"/>
       <edge id="1421" source="pinterest.co.uk" target="Obstruction"/>
@@ -1236,8 +1238,6 @@
       <edge id="1426" source="thecourier.co.uk" target="Obstruction"/>
       <edge id="1427" source="nychealthandhospitals.org" target="Obstruction"/>
       <edge id="1428" source="sermitsiaq.ag" target="Obstruction"/>
-
-
     </edges>
   </graph>
 </gexf>
