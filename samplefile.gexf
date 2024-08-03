@@ -763,6 +763,86 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="147.92566" y="115.95911"/>
+        <node id="domain1.com" label="domain1.com">
+        <attvalues>
+          <attvalue for="modularity class" value="1"/>
+        </attvalues>
+        <viz:position x="100.0" y="0.0" />
+        <viz:size value="11.111111"/>
+        <viz:color r="226" g="139" b="255"/>
+      </node>
+      <node id="domain2.com" label="domain2.com">
+        <attvalues>
+          <attvalue for="modularity class" value="2"/>
+        </attvalues>
+        <viz:position x="80.9017" y="58.7785" />
+        <viz:size value="11.111111"/>
+        <viz:color r="255" g="0" b="0"/>
+      </node>
+      <node id="domain3.com" label="domain3.com">
+        <attvalues>
+          <attvalue for="modularity class" value="3"/>
+        </attvalues>
+        <viz:position x="30.9017" y="95.1057" />
+        <viz:size value="11.111111"/>
+        <viz:color r="0" g="255" b="0"/>
+      </node>
+      <node id="domain4.com" label="domain4.com">
+        <attvalues>
+          <attvalue for="modularity class" value="4"/>
+        </attvalues>
+        <viz:position x="-30.9017" y="95.1057" />
+        <viz:size value="11.111111"/>
+        <viz:color r="0" g="0" b="255"/>
+      </node>
+      <node id="domain5.com" label="domain5.com">
+        <attvalues>
+          <attvalue for="modularity class" value="5"/>
+        </attvalues>
+        <viz:position x="-80.9017" y="58.7785" />
+        <viz:size value="11.111111"/>
+        <viz:color r="255" g="255" b="0"/>
+      </node>
+      <node id="domain6.com" label="domain6.com">
+        <attvalues>
+          <attvalue for="modularity class" value="6"/>
+        </attvalues>
+        <viz:position x="-100.0" y="0.0" />
+        <viz:size value="11.111111"/>
+        <viz:color r="0" g="255" b="255"/>
+      </node>
+      <node id="domain7.com" label="domain7.com">
+        <attvalues>
+          <attvalue for="modularity class" value="7"/>
+        </attvalues>
+        <viz:position x="-80.9017" y="-58.7785" />
+        <viz:size value="11.111111"/>
+        <viz:color r="255" g="0" b="255"/>
+      </node>
+      <node id="domain8.com" label="domain8.com">
+        <attvalues>
+          <attvalue for="modularity class" value="8"/>
+        </attvalues>
+        <viz:position x="-30.9017" y="-95.1057" />
+        <viz:size value="11.111111"/>
+        <viz:color r="128" g="128" b="128"/>
+      </node>
+      <node id="domain9.com" label="domain9.com">
+        <attvalues>
+          <attvalue for="modularity class" value="9"/>
+        </attvalues>
+        <viz:position x="30.9017" y="-95.1057" />
+        <viz:size value="11.111111"/>
+        <viz:color r="128" g="0" b="128"/>
+      </node>
+      <node id="domain10.com" label="domain10.com">
+        <attvalues>
+          <attvalue for="modularity class" value="10"/>
+        </attvalues>
+        <viz:position x="80.9017" y="-58.7785" />
+        <viz:size value="11.111111"/>
+        <viz:color r="128" g="128" b="0"/>
+      </node>
       </node>
     </nodes>
     <edges>
@@ -1147,6 +1227,17 @@
       <edge id="1416" source="bladet.no" target="Obstruction"/>
       <edge id="1417" source="budstika.no" target="Obstruction"/>
       <edge id="1418" source="perezhulton.com" target="Obstruction"/>
+
+      <edge id="1419" source="domain1.com" target="Obstruction"/>
+      <edge id="1420" source="domain2.com" target="Obstruction"/>
+      <edge id="1421" source="domain3.com" target="Obstruction"/>
+      <edge id="1422" source="domain4.com" target="Obstruction"/>
+      <edge id="1423" source="domain5.com" target="Obstruction"/>
+      <edge id="1424" source="domain6.com" target="Obstruction"/>
+      <edge id="1425" source="domain7.com" target="Obstruction"/>
+      <edge id="1426" source="domain8.com" target="Obstruction"/>
+      <edge id="1427" source="domain9.com" target="Obstruction"/>
+      <edge id="1428" source="domain10.com" target="Obstruction"/>
     </edges>
   </graph>
 </gexf>
