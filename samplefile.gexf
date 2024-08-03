@@ -715,7 +715,7 @@
       <edge id="907" source="aduna.com" target="independent.co.uk"/>
       <edge id="908" source="aduna.com" target="Hidden Language Stipulations" weight="5.0"/>
       <edge id="909" source="aduna.com" target="washingtonpost.com"/>
-      <edge id="910" source="channel4.com" target="Interface Inference (e.g. Choice Fatigue)"/>
+      <edge id="910" source="aduna.com" target="Interface Inference (e.g. Choice Fatigue)"/>
       <edge id="911" source="Interface Inference (e.g. Choice Fatigue)" target="washingtonpost.com" weight="2.0"/>
       <edge id="913" source="hellomagazine.com" target="washingtonpost.com"/>
       <edge id="914" source="hellomagazine.com" target="Interface Inference (e.g. Choice Fatigue)"/>
@@ -724,7 +724,7 @@
       <edge id="924" source="Hidden Language Stipulations" target="nsk.se" weight="2.0"/>
       <edge id="925" source="aduna.com" target="channel4.com" weight="2.0"/>
       <edge id="926" source="aduna.com" target="nsk.se"/>
-      <edge id="927" source="icelandreview.com" target="Interface Inference (e.g. Choice Fatigue)"/>
+      <edge id="927" source="heraldonline.com" target="Interface Inference (e.g. Choice Fatigue)"/>
       <edge id="928" source="heraldonline.com" target="Forced Action" weight="2.0"/>
       <edge id="929" source="heraldonline.com" target="washingtonpost.com" weight="2.0"/>
       <edge id="930" source="livescience.com" target="hellomagazine.com" weight="3.0"/>
@@ -1055,6 +1055,8 @@
       <edge id="1388" source="vox.com"  target="Hidden Language Stipulations"/>
       <edge id="1389" source="ncbc.com"  target="Hidden Language Stipulations"/>
       <edge id="1390" source="horseanddrideuk.com"  target="Hidden Language Stipulations"/>
+      <edge id="1391" source="icelandreview.com"  target="Interface Inference (e.g. Choice Fatigue)"/>
+      <edge id="1392" source="channel4.com"  target="Interface Inference (e.g. Choice Fatigue)"/>
     </edges>
   </graph>
 </gexf>
