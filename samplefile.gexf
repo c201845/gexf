@@ -674,7 +674,7 @@
         <viz:size value="10.0"/>
         <viz:position x="-137.22552" y="117.64569"/>
       </node>
-      <node id="nytimes.com" label="nytimes.com">
+      <node id="110" label="Economic Factors">
         <attvalues>
           <attvalue for="modularity class" value="2"/>
         </attvalues>
@@ -1017,7 +1017,7 @@
       <edge id="1350" source="102" target="independent.co.uk" weight="2.0"/>
       <edge id="1351" source="nutrition" target="103"/>
       <edge id="1352" source="prombo.de" target="104"/>
-      <edge id="1353" source="icelandreview.com" target="104"/>
+      <edge id="1353" source="105" target="104"/>
       <edge id="1354" source="106" target="Hidden Language Stipulations"/>
       <edge id="1355" source="106" target="nature.org"/>
       <edge id="1356" source="106" target="germs"/>
@@ -1027,8 +1027,8 @@
       <edge id="1360" source="udfordringen.dk" target="nsk.se"/>
       <edge id="1361" source="108" target="size"/>
       <edge id="1362" source="ebay.co.uk" target="golf-alcanada.com"/>
-      <edge id="1363" source="nytimes.com" target="golf-alcanada.com"/>
-      <edge id="1364" source="nytimes.com" target="icelandreview.com"/>
+      <edge id="1363" source="110" target="golf-alcanada.com"/>
+      <edge id="1364" source="110" target="105"/>
       <edge id="1365" source="americas" target="111"/>
       <edge id="1366" source="111" target="101"/>
       <edge id="1367" source="111" target="102"/>
@@ -1051,7 +1051,7 @@
       <edge id="1384" source="Hidden Language Stipulations"  target="epsom-sthelier.nhs.uk"/>
       <edge id="1385" source="Hidden Language Stipulations"  target="guardian.com"/>
       <edge id="1386" source="finlandtoday.fi"  target="Hidden Language Stipulations"/>
-      <edge id="1387" source="nytimes.com"  target="finlandtoday.fi"/>
+       
     </edges>
   </graph>
 </gexf>
