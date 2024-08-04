@@ -2029,7 +2029,7 @@
 <edge id="1542" source="namdalsavisa.no" target="Hidden Language Stipulations"/>
 <edge id="1543" source="p4.no" target="Hidden Language Stipulations"/>
 <edge id="1544" source="sognavis.no" target="Hidden Language Stipulations"/>
-<edge id="1545" source="tv2.no" target="Hidden Language Stipulations"/>>
+<edge id="1545" source="tv2.no" target="Hidden Language Stipulations"/>
 <edge id="1546" source="costume.no" target="aftenbladet.no"/>
 <edge id="1547" source="costume.no" target="altaposten.no"/>
 <edge id="1548" source="costume.no" target="arendalstidende.no"/>
