@@ -2182,14 +2182,7 @@
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
-<node id="kanalen.no" label="kanalen.no">
-  <attvalues>
-    <attvalue for="modularity class" value="1"/>
-  </attvalues>
-  <viz:position x="-1440.0" y="780.0"/>
-  <viz:size value="11.111111"/>
-  <viz:color r="226" g="139" b="255"/>
-</node>
+
 
 </nodes>
 
