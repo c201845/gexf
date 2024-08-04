@@ -1523,7 +1523,7 @@
   <attvalues>
     <attvalue for="modularity class" value="5"/>
   </attvalues>
-  <viz:position x="-1300.3937" y="-190.3152"/>
+  <viz:position x="-1300.3937" y="-200.3152"/>
   <viz:size value="12.0"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1545,6 +1545,15 @@
   <viz:size value="12.0"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
+
+<node id="User Coercion(e.g. Cookie Wall)" label="User Coercion(e.g. Cookie Wall)">
+        <attvalues>
+          <attvalue for="modularity class" value="2"/>
+        </attvalues>
+        <viz:size value="85.77779"/>
+        <viz:position x="134.47075" y="252.46736"/>
+        <viz:color r="250" g="146" b="0"/>
+      </node>
 
 
 
