@@ -1687,7 +1687,14 @@
         <viz:position x="-1050.1055" y="-580.77936"/>
         <viz:color r="128" g="107" b="104"/>
 </node>
-
+<node id="budapesttimes.hu" label="budapesttimes.hu">
+  <attvalues>
+    <attvalue for="modularity class" value="5"/>
+  </attvalues>
+  <viz:position x="-1400.3937" y="-210.3152"/>
+  <viz:size value="12.0"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
 
 
 
@@ -2262,6 +2269,12 @@
 <edge id="1595" source="bydogbilde.no" target="Roach Motel"/>
 <edge id="1596" source="firdatidend.no" target="Roach Motel"/>
 <edge id="1597" source="i-d.co" target="Roach Motel"/>
+<edge id="1598" source="finlandtoday.fi" target="Roach Motel"/>
+<edge id="1599" source="business-review.eu" target="Roach Motel"/>
+<edge id="1600" source="hindustantimes.com" target="Roach Motel"/>
+<edge id="1601" source="hastingsindependpress.co.uk" target="Roach Motel"/>
+<edge id="1602" source="klartale.no" target="Roach Motel"/>
+<edge id="1603" source="budapesttimes.hu" target="Roach Motel"/>
 
   
     </edges>
