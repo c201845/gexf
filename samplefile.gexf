@@ -2523,6 +2523,14 @@
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
+<node id="torbaytimes.co.uk" label="torbaytimes.co.uk">
+  <attvalues>
+    <attvalue for="modularity class" value="2"/>
+  </attvalues>
+  <viz:position x="-2100.0" y="-500.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
 <node id="Nagging" label="Nagging">
         <attvalues>
           <attvalue for="modularity class" value="1"/>
@@ -3298,7 +3306,7 @@
   <edge id="1791" source="kaffe-partner.de" target="Nagging"/>
   <edge id="1792" source="virginradio.fr" target="Nagging"/>
   <edge id="1793" source="philipkingsley.co.uk" target="Nagging"/>
-
+  <edge id="1794" source="torbaytimes.co.uk" target="Nagging"/>
     </edges>
   </graph>
 </gexf>
