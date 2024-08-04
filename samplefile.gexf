@@ -3244,7 +3244,19 @@
   <edge id="1707" source="businesspost.ie" target="Nagging"/>
   <edge id="1708" source="buzzfeed.com" target="Nagging"/>
   <edge id="1709" source="cbs.com" target="Nagging"/>
-  
+
+  <edge id="1710" source="celebsnow.co.uk" target="Nagging"/>
+  <edge id="1711" source="champnews.com" target="Nagging"/>
+  <edge id="1712" source="christiantoday.com" target="Nagging"/>
+  <edge id="1713" source="cosmopolitan.com" target="Nagging"/>
+  <edge id="1714" source="camdennewjournal.com" target="Nagging"/>
+  <edge id="1715" source="delano.lu" target="Nagging"/>
+  <edge id="1716" source="dailysabah.com" target="Nagging"/>
+  <edge id="1717" source="dailypost.co.uk" target="Nagging"/>
+  <edge id="1718" source="dazeddigital.com" target="Nagging"/>
+  <edge id="1719" source="deliciousmagazine.co.uk" target="Nagging"/>
+  <edge id="1720" source="ekathimerini.com" target="Nagging"/>
+  <edge id="1721" source="en.rfi.fr" target="Nagging"/>
 
 
     </edges>
