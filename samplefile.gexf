@@ -2308,6 +2308,22 @@
 <edge id="1633" source="prombo.de" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 <edge id="1634" source="newsinenglish.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 <edge id="1635" source="horseanddrideuk.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1636" source="gaytimes.com"  target="Forced Action"/>
+<edge id="1637" source="golf-alcanada.com"  target="Forced Action"/>
+<edge id="1638" source="heraldonline.com"  target="Forced Action"/>
+<edge id="1639" source="euractiv.com"  target="Forced Action"/>
+<edge id="1640" source="elpais.com"  target="Forced Action"/>
+<edge id="1641" source="kjavis.dk"  target="Forced Action"/>
+<edge id="1642" source="klartale.no"  target="Forced Action"/>
+<edge id="1643" source="hastingsindependpress.co.uk"  target="Forced Action"/>
+<edge id="1644" source="graastenavis.dk"  target="Forced Action"/>
+<edge id="1645" source="epsom-sthelier.nhs.uk"  target="Forced Action"/>
+<edge id="1646" source="rbth.com"  target="Forced Action"/>
+<edge id="1647" source="mercedesenthusiast.co.uk"  target="Forced Action"/>
+<edge id="1648" source="spotify.com"  target="Forced Action"/>
+<edge id="1649" source="prombo.de"  target="Forced Action"/>
+<edge id="1650" source="newsinenglish.no"  target="Forced Action"/>
+<edge id="1651" source="horseanddrideuk.com"  target="Forced Action"/>
     </edges>
   </graph>
 </gexf>
