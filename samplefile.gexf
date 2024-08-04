@@ -1630,7 +1630,7 @@
   <attvalues>
     <attvalue for="modularity class" value="5"/>
   </attvalues>
-  <viz:position x="-1610.7815" y="71.021789"/>
+  <viz:position x="-1660.7815" y="75.021789"/>
   <viz:size value="10.0000"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2244,6 +2244,16 @@
 <edge id="1585" source="politico.eu" target="Roach Motel"/>
 <edge id="1586" source="warsawvoice.pl" target="Roach Motel"/>
 <edge id="1587" source="psnm.pl" target="Roach Motel"/>
+
+<edge id="1588" source="geot365.no" target="Roach Motel"/>
+<edge id="1589" source="outdoorsg.com" target="Roach Motel"/>
+<edge id="1590" source="newsnow.co.uk" target="Roach Motel"/>
+<edge id="1591" source="popularmechanics.com" target="Roach Motel"/>
+<edge id="1592" source="docpath.com" target="Roach Motel"/>
+<edge id="1593" source="connectxiofrance.com" target="Roach Motel"/>
+<edge id="1594" source="economist.com" target="Roach Motel"/>
+<edge id="1595" source="bydogbilde.no" target="Roach Motel"/>
+<edge id="1596" source="firdatidend.no" target="Roach Motel"/>
 
   
     </edges>
