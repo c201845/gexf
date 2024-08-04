@@ -2276,6 +2276,22 @@
 <edge id="1602" source="klartale.no" target="Roach Motel"/>
 <edge id="1603" source="budapesttimes.hu" target="Roach Motel"/>
 
+<edge id="1604" source="gaytimes.com" target="Roach Motel"/>
+<edge id="1605" source="golf-alcanada.com" target="Roach Motel"/>
+<edge id="1606" source="heraldonline.com" target="Roach Motel"/>
+<edge id="1607" source="euractiv.com" target="Roach Motel"/>
+<edge id="1608" source="elpais.com" target="Roach Motel"/>
+<edge id="1609" source="kjavis.dk" target="Roach Motel"/>
+<edge id="1610" source="klartale.no" target="Roach Motel"/>
+<edge id="1611" source="hastingsindependpress.co.uk" target="Roach Motel"/>
+<edge id="1612" source="graastenavis.dk" target="Roach Motel"/>
+<edge id="1613" source="epsom-sthelier.nhs.uk" target="Roach Motel"/>
+<edge id="1614" source="rbth.com" target="Roach Motel"/>
+<edge id="1615" source="mercedesenthusiast.co.uk" target="Roach Motel"/>
+<edge id="1616" source="spotify.com" target="Roach Motel"/>
+<edge id="1617" source="prombo.de" target="Roach Motel"/>
+<edge id="1618" source="newsinenglish.no" target="Roach Motel"/>
+<edge id="1619" source="horseanddrideuk.com" target="Roach Motel"/>
   
     </edges>
   </graph>
