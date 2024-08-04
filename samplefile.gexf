@@ -2107,8 +2107,8 @@
 <edge id="1575" source="avestatidning.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 <edge id="1576" source="english.sta.si" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 <edge id="1577" source="disneyplus.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
-<edge id="1578" source="disneyplus.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
-<edge id="1579" source="disneyplus.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1578" source="dagogtid.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1579" source="newyorker.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 <edge id="1580" source="nbc.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 
   
