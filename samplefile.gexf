@@ -3489,8 +3489,8 @@
 <edge id="1965" source="virginradio.fr" target="Additional Steps(e.g. Privacy Maze)"/>
 <edge id="1966" source="philipkingsley.co.uk" target="Additional Steps(e.g. Privacy Maze)"/>
 <edge id="1967" source="torbaytimes.co.uk" target="Additional Steps(e.g. Privacy Maze)"/>
-
-
+<edge id="1968" source="steinkjeravisa.no" target="Additional Steps(e.g. Privacy Maze)"/>
+<edge id="1969" source="steinkjeravisa.no" target="User Coercion(e.g. Cookie Wall)"/>
     </edges>
   </graph>
 </gexf>
