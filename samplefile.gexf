@@ -2179,7 +2179,7 @@
   <attvalues>
     <attvalue for="modularity class" value="2"/>
   </attvalues>
-  <viz:position x="-1660.0" y="620.0"/>
+  <viz:position x="-1660.0" y="-955.345"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2187,7 +2187,7 @@
   <attvalues>
     <attvalue for="modularity class" value="3"/>
   </attvalues>
-  <viz:position x="-1670.0" y="630.0"/>
+  <viz:position x="-1670.0" y="-333.999"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2195,7 +2195,7 @@
   <attvalues>
     <attvalue for="modularity class" value="4"/>
   </attvalues>
-  <viz:position x="-1680.0" y="640.0"/>
+  <viz:position x="-1680.0" y="-640.519"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
