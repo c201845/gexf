@@ -2003,9 +2003,7 @@
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
-To reduce the overlap and improve the layout, you can adjust the `viz:position` values of each node to spread them out more evenly. Below is a modified version with updated positions:
 
-```xml
 <node id="en.rfi.fr" label="en.rfi.fr">
   <attvalues>
     <attvalue for="modularity class" value="1"/>
@@ -2205,7 +2203,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="6"/>
   </attvalues>
-  <viz:position x="-1560.0" y="-620.0"/>
+  <viz:position x="-1200.0" y="-500.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2213,7 +2211,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="0"/>
   </attvalues>
-  <viz:position x="-1690.0" y="-480.0"/>
+  <viz:position x="-1400.0" y="-400.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2221,7 +2219,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="1"/>
   </attvalues>
-  <viz:position x="-1560.0" y="-500.0"/>
+  <viz:position x="-1300.0" y="-420.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2229,7 +2227,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="2"/>
   </attvalues>
-  <viz:position x="-1690.0" y="-360.0"/>
+  <viz:position x="-1400.0" y="-300.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2237,7 +2235,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="3"/>
   </attvalues>
-  <viz:position x="-1560.0" y="-380.0"/>
+  <viz:position x="-1300.0" y="-320.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2245,7 +2243,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="4"/>
   </attvalues>
-  <viz:position x="-1690.0" y="-240.0"/>
+  <viz:position x="-1400.0" y="-180.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2253,7 +2251,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="5"/>
   </attvalues>
-  <viz:position x="-1560.0" y="-260.0"/>
+  <viz:position x="-1300.0" y="-200.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2261,7 +2259,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="6"/>
   </attvalues>
-  <viz:position x="-980.0" y="-692.0"/>
+  <viz:position x="-800.0" y="-500.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2269,7 +2267,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="0"/>
   </attvalues>
-  <viz:position x="-920.0" y="-850.0"/>
+  <viz:position x="-800.0" y="-700.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2277,7 +2275,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="1"/>
   </attvalues>
-  <viz:position x="-830.0" y="-960.0"/>
+  <viz:position x="-700.0" y="-800.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2285,7 +2283,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="2"/>
   </attvalues>
-  <viz:position x="-900.0" y="-1010.0"/>
+  <viz:position x="-800.0" y="-850.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2293,7 +2291,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="3"/>
   </attvalues>
-  <viz:position x="-1700.0" y="-1000.0"/>
+  <viz:position x="-1400.0" y="-800.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2301,7 +2299,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="4"/>
   </attvalues>
-  <viz:position x="-1600.0" y="-950.0"/>
+  <viz:position x="-1300.0" y="-750.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2309,7 +2307,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="5"/>
   </attvalues>
-  <viz:position x="-1500.0" y="-850.0"/>
+  <viz:position x="-1200.0" y="-650.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2317,7 +2315,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="6"/>
   </attvalues>
-  <viz:position x="-1400.0" y="-730.0"/>
+  <viz:position x="-1100.0" y="-550.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2325,7 +2323,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="0"/>
   </attvalues>
-  <viz:position x="-1400.0" y="-580.0"/>
+  <viz:position x="-1100.0" y="-400.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2333,7 +2331,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="1"/>
   </attvalues>
-  <viz:position x="-1400.0" y="-420.0"/>
+  <viz:position x="-1100.0" y="-250.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2341,7 +2339,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="2"/>
   </attvalues>
-  <viz:position x="-1500.0" y="-310.0"/>
+  <viz:position x="-1200.0" y="-140.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2349,7 +2347,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="3"/>
   </attvalues>
-  <viz:position x="-1600.0" y="-220.0"/>
+  <viz:position x="-1300.0" y="-70.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2357,7 +2355,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="4"/>
   </attvalues>
-  <viz:position x="-1700.0" y="-150.0"/>
+  <viz:position x="-1400.0" y="-20.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2365,7 +2363,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="5"/>
   </attvalues>
-  <viz:position x="-1800.0" y="-130.0"/>
+  <viz:position x="-1500.0" y="0.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2373,7 +2371,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="6"/>
   </attvalues>
-  <viz:position x="-1900.0" y="-120.0"/>
+  <viz:position x="-1600.0" y="50.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2381,7 +2379,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="4"/>
   </attvalues>
-  <viz:position x="-2000.0" y="-850.0"/>
+  <viz:position x="-1700.0" y="-600.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2389,7 +2387,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="6"/>
   </attvalues>
-  <viz:position x="-1600.0" y="-460.0"/>
+  <viz:position x="-1200.0" y="-320.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2397,7 +2395,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="0"/>
   </attvalues>
-  <viz:position x="-1850.0" y="-570.0"/>
+  <viz:position x="-1600.0" y="-430.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2405,7 +2403,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="1"/>
   </attvalues>
-  <viz:position x="-1750.0" y="-790.0"/>
+  <viz:position x="-1500.0" y="-630.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2413,7 +2411,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="6"/>
   </attvalues>
-  <viz:position x="-1450.0" y="-460.0"/>
+  <viz:position x="-1100.0" y="-320.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2421,7 +2419,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="0"/>
   </attvalues>
-  <viz:position x="-1600.0" y="-570.0"/>
+  <viz:position x="-1300.0" y="-430.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2429,7 +2427,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="1"/>
   </attvalues>
-  <viz:position x="-1750.0" y="-240.0"/>
+  <viz:position x="-1500.0" y="-180.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2437,7 +2435,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="2"/>
   </attvalues>
-  <viz:position x="-1750.0" y="-832.1"/>
+  <viz:position x="-1500.0" y="-650.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2445,7 +2443,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="3"/>
   </attvalues>
-  <viz:position x="-1850.0" y="-350.0"/>
+  <viz:position x="-1600.0" y="-250.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2453,7 +2451,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="4"/>
   </attvalues>
-  <viz:position x="-1950.0" y="-900.100"/>
+  <viz:position x="-1700.0" y="-700.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2461,7 +2459,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="5"/>
   </attvalues>
-  <viz:position x="-1550.0" y="-130.0"/>
+  <viz:position x="-1400.0" y="-150.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2469,7 +2467,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="5"/>
   </attvalues>
-  <viz:position x="-1900.0" y="-960.0"/>
+  <viz:position x="-1600.0" y="-800.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2477,7 +2475,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="0"/>
   </attvalues>
-  <viz:position x="-1500.0" y="-680.0"/>
+  <viz:position x="-1200.0" y="-600.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2485,7 +2483,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="1"/>
   </attvalues>
-  <viz:position x="-1650.0" y="-350.0"/>
+  <viz:position x="-1400.0" y="-250.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2493,7 +2491,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="2"/>
   </attvalues>
-  <viz:position x="-1750.0" y="-130.0"/>
+  <viz:position x="-1500.0" y="-130.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2501,7 +2499,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="3"/>
   </attvalues>
-  <viz:position x="-1850.0" y="-570.0"/>
+  <viz:position x="-1600.0" y="-430.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2509,7 +2507,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="4"/>
   </attvalues>
-  <viz:position x="-1550.0" y="-790.0"/>
+  <viz:position x="-1400.0" y="-600.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2517,7 +2515,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="5"/>
   </attvalues>
-  <viz:position x="-1700.0" y="-240.0"/>
+  <viz:position x="-1500.0" y="-250.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2525,7 +2523,7 @@ To reduce the overlap and improve the layout, you can adjust the `viz:position` 
   <attvalues>
     <attvalue for="modularity class" value="2"/>
   </attvalues>
-  <viz:position x="-1800.0" y="-500.0"/>
+  <viz:position x="-1600.0" y="-400.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
