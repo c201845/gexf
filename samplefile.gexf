@@ -1822,7 +1822,7 @@ Each domain now has a unique `attvalue` within the range of 0 to 6,
 <edge id="1508" source="direktpress.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 <edge id="1509" source="dn.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 <edge id="1510" source="expressen.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
-<edge id="1512" source="folkbladet.nu" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1511" source="folkbladet.nu" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 <edge id="1512" source="hd.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 <edge id="1513" source="jnytt.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 <edge id="1514" source="klassiskalastbilar.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
