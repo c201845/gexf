@@ -1555,7 +1555,7 @@
         <viz:color r="250" g="146" b="0"/>
       </node>
 
-<node id="roach.motel" label="Roach Motel">
+<node id="Roach Motel" label="Roach Motel">
   <attvalues>
     <attvalue for="modularity class" value="0"/>
   </attvalues>
@@ -1564,7 +1564,7 @@
   <viz:color r="255" g="0" b="0"/>
 </node>
 
-<node id="node1" label="Node 1">
+<node id="radio.cz" label="radio.cz">
   <attvalues>
     <attvalue for="modularity class" value="1"/>
   </attvalues>
@@ -1573,7 +1573,7 @@
   <viz:color r="226" g="139" b="255"/>
 </node>
 
-<node id="node2" label="Node 2">
+<node id="net.se" label="net.se">
   <attvalues>
     <attvalue for="modularity class" value="2"/>
   </attvalues>
@@ -1582,7 +1582,7 @@
   <viz:color r="226" g="139" b="255"/>
 </node>
 
-<node id="node3" label="Node 3">
+<node id="politico.eu" label="politico.eu">
   <attvalues>
     <attvalue for="modularity class" value="3"/>
   </attvalues>
@@ -1591,7 +1591,7 @@
   <viz:color r="226" g="139" b="255"/>
 </node>
 
-<node id="node4" label="Node 4">
+<node id="warsawvoice.pl" label="warsawvoice.pl">
   <attvalues>
     <attvalue for="modularity class" value="4"/>
   </attvalues>
@@ -1600,7 +1600,7 @@
   <viz:color r="226" g="139" b="255"/>
 </node>
 
-<node id="node5" label="Node 5">
+<node id="psnm.pl" label="psnm.pl">
   <attvalues>
     <attvalue for="modularity class" value="5"/>
   </attvalues>
@@ -1609,7 +1609,7 @@
   <viz:color r="226" g="139" b="255"/>
 </node>
 
-<node id="node6" label="Node 6">
+<node id="metromode.se" label="metromode.se">
   <attvalues>
     <attvalue for="modularity class" value="6"/>
   </attvalues>
@@ -1618,23 +1618,6 @@
   <viz:color r="226" g="139" b="255"/>
 </node>
 
-<node id="node7" label="Node 7">
-  <attvalues>
-    <attvalue for="modularity class" value="0"/>
-  </attvalues>
-  <viz:position x="-1610.7815" y="-129.978211"/>
-  <viz:size value="10.0000"/>
-  <viz:color r="226" g="139" b="255"/>
-</node>
-
-<node id="node8" label="Node 8">
-  <attvalues>
-    <attvalue for="modularity class" value="1"/>
-  </attvalues>
-  <viz:position x="-1468.7815" y="-70.399611"/>
-  <viz:size value="10.0000"/>
-  <viz:color r="226" g="139" b="255"/>
-</node>
 
 
 
@@ -2192,6 +2175,13 @@
 <edge id="1578" source="dagogtid.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 <edge id="1579" source="newyorker.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 <edge id="1580" source="nbc.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1581" source="radio.cz" target="Roach Motel"/>
+<edge id="1582" source="rbth.com" target="Roach Motel"/>
+<edge id="1583" source="metromode.se" target="Roach Motel"/>
+<edge id="1584" source="net.se" target="Roach Motel"/>
+<edge id="1585" source="politico.eu" target="Roach Motel"/>
+<edge id="1586" source="warsawvoice.pl" target="Roach Motel"/>
+<edge id="1587" source="psnm.pl" target="Roach Motel"/>
 
   
     </edges>
