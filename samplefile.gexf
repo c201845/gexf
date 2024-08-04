@@ -1555,6 +1555,87 @@
         <viz:color r="250" g="146" b="0"/>
       </node>
 
+<node id="roach.motel" label="Roach Motel">
+  <attvalues>
+    <attvalue for="modularity class" value="0"/>
+  </attvalues>
+  <viz:position x="-1400.7815" y="70.021698"/>
+  <viz:size value="15.0000"/>
+  <viz:color r="255" g="0" b="0"/>
+</node>
+
+<node id="node1" label="Node 1">
+  <attvalues>
+    <attvalue for="modularity class" value="1"/>
+  </attvalues>
+  <viz:position x="-1200.7815" y="70.021698"/>
+  <viz:size value="10.0000"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+
+<node id="node2" label="Node 2">
+  <attvalues>
+    <attvalue for="modularity class" value="2"/>
+  </attvalues>
+  <viz:position x="-1260.7815" y="211.443098"/>
+  <viz:size value="10.0000"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+
+<node id="node3" label="Node 3">
+  <attvalues>
+    <attvalue for="modularity class" value="3"/>
+  </attvalues>
+  <viz:position x="-1400.7815" y="270.021698"/>
+  <viz:size value="10.0000"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+
+<node id="node4" label="Node 4">
+  <attvalues>
+    <attvalue for="modularity class" value="4"/>
+  </attvalues>
+  <viz:position x="-1540.7815" y="211.443098"/>
+  <viz:size value="10.0000"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+
+<node id="node5" label="Node 5">
+  <attvalues>
+    <attvalue for="modularity class" value="5"/>
+  </attvalues>
+  <viz:position x="-1600.7815" y="70.021698"/>
+  <viz:size value="10.0000"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+
+<node id="node6" label="Node 6">
+  <attvalues>
+    <attvalue for="modularity class" value="6"/>
+  </attvalues>
+  <viz:position x="-1540.7815" y="-71.399702"/>
+  <viz:size value="10.0000"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+
+<node id="node7" label="Node 7">
+  <attvalues>
+    <attvalue for="modularity class" value="0"/>
+  </attvalues>
+  <viz:position x="-1400.7815" y="-129.978302"/>
+  <viz:size value="10.0000"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+
+<node id="node8" label="Node 8">
+  <attvalues>
+    <attvalue for="modularity class" value="1"/>
+  </attvalues>
+  <viz:position x="-1260.7815" y="-71.399702"/>
+  <viz:size value="10.0000"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+
 
 
     </nodes>
