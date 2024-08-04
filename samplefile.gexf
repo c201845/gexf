@@ -1829,7 +1829,7 @@
   <attvalues>
     <attvalue for="modularity class" value="0"/>
   </attvalues>
-   <viz:position x="-1000.0" y="-500.0"/>
+  <viz:position x="-1200.0" y="-600.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1837,7 +1837,7 @@
   <attvalues>
     <attvalue for="modularity class" value="1"/>
   </attvalues>
-  <viz:position x="-980.785" y="-692.784"/>
+  <viz:position x="-1150.0" y="-750.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1845,7 +1845,7 @@
   <attvalues>
     <attvalue for="modularity class" value="2"/>
   </attvalues>
-  <viz:position x="-923.88" y="-853.553"/>
+  <viz:position x="-1100.0" y="-900.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1853,7 +1853,7 @@
   <attvalues>
     <attvalue for="modularity class" value="3"/>
   </attvalues>
-  <viz:position x="-831.47" y="-961.94"/>
+  <viz:position x="-1000.0" y="-1050.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1861,7 +1861,7 @@
   <attvalues>
     <attvalue for="modularity class" value="4"/>
   </attvalues>
-  <viz:position x="-707.107" y="-1007.107"/>
+  <viz:position x="-850.0" y="-1100.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1869,7 +1869,7 @@
   <attvalues>
     <attvalue for="modularity class" value="5"/>
   </attvalues>
-  <viz:position x="-555.57" y="-980.785"/>
+  <viz:position x="-650.0" y="-1050.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1877,7 +1877,7 @@
   <attvalues>
     <attvalue for="modularity class" value="6"/>
   </attvalues>
-  <viz:position x="-382.683" y="-923.88"/>
+  <viz:position x="-450.0" y="-950.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1886,7 +1886,7 @@
   <attvalues>
     <attvalue for="modularity class" value="0"/>
   </attvalues>
-  <viz:position x="-196.152" y="-831.47"/>
+  <viz:position x="-300.0" y="-850.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1894,7 +1894,7 @@
   <attvalues>
     <attvalue for="modularity class" value="1"/>
   </attvalues>
-  <viz:position x="-53.054" y="-707.107"/>
+  <viz:position x="-150.0" y="-700.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1902,7 +1902,7 @@
   <attvalues>
     <attvalue for="modularity class" value="2"/>
   </attvalues>
-  <viz:position x="-0.0" y="-555.57"/>
+  <viz:position x="0.0" y="-550.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1910,7 +1910,7 @@
   <attvalues>
     <attvalue for="modularity class" value="3"/>
   </attvalues>
-  <viz:position x="-53.054" y="-404.43"/>
+  <viz:position x="-150.0" y="-400.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1918,7 +1918,7 @@
   <attvalues>
     <attvalue for="modularity class" value="4"/>
   </attvalues>
-  <viz:position x="-196.152" y="-292.893"/>
+  <viz:position x="-300.0" y="-290.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1926,18 +1926,16 @@
   <attvalues>
     <attvalue for="modularity class" value="5"/>
   </attvalues>
-  <viz:position x="-382.683" y="-207.107"/>
+  <viz:position x="-450.0" y="-200.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
-
-
 
 <node id="christiantoday.com" label="christiantoday.com">
   <attvalues>
     <attvalue for="modularity class" value="6"/>
   </attvalues>
-  <viz:position x="-555.57" y="-151.471"/>
+  <viz:position x="-650.0" y="-150.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1945,7 +1943,7 @@
   <attvalues>
     <attvalue for="modularity class" value="0"/>
   </attvalues>
-  <viz:position x="-707.107" y="-128.215"/>
+  <viz:position x="-850.0" y="-120.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1953,7 +1951,7 @@
   <attvalues>
     <attvalue for="modularity class" value="1"/>
   </attvalues>
-  <viz:position x="-831.47" y="-138.06"/>
+  <viz:position x="-1000.0" y="-120.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1961,7 +1959,7 @@
   <attvalues>
     <attvalue for="modularity class" value="2"/>
   </attvalues>
-  <viz:position x="-923.88" y="-196.152"/>
+  <viz:position x="-1150.0" y="-200.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1969,17 +1967,15 @@
   <attvalues>
     <attvalue for="modularity class" value="3"/>
   </attvalues>
-  <viz:position x="-980.785" y="-292.893"/>
+  <viz:position x="-1200.0" y="-300.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
-
-
 <node id="dailypost.co.uk" label="dailypost.co.uk">
   <attvalues>
     <attvalue for="modularity class" value="4"/>
   </attvalues>
-  <viz:position x="-1000.0" y="-500.0"/>
+  <viz:position x="-1250.0" y="-500.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1987,7 +1983,7 @@
   <attvalues>
     <attvalue for="modularity class" value="5"/>
   </attvalues>
-  <viz:position x="-980.785" y="-692.784"/>
+  <viz:position x="-1150.0" y="-700.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -1995,7 +1991,7 @@
   <attvalues>
     <attvalue for="modularity class" value="6"/>
   </attvalues>
-  <viz:position x="-923.88" y="-853.553"/>
+  <viz:position x="-1100.0" y="-900.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
@@ -2003,7 +1999,7 @@
   <attvalues>
     <attvalue for="modularity class" value="0"/>
   </attvalues>
-  <viz:position x="-831.47" y="-961.94"/>
+  <viz:position x="-900.0" y="-1100.0"/>
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
