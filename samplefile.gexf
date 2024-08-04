@@ -1882,6 +1882,55 @@
   <viz:color r="226" g="139" b="255"/>
 </node>
 
+<node id="bradfordian.com" label="bradfordian.com">
+  <attvalues>
+    <attvalue for="modularity class" value="0"/>
+  </attvalues>
+  <viz:position x="-196.152" y="-831.47"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="businesspost.ie" label="businesspost.ie">
+  <attvalues>
+    <attvalue for="modularity class" value="1"/>
+  </attvalues>
+  <viz:position x="-53.054" y="-707.107"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="buzzfeed.com" label="buzzfeed.com">
+  <attvalues>
+    <attvalue for="modularity class" value="2"/>
+  </attvalues>
+  <viz:position x="-0.0" y="-555.57"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="cbs.com" label="cbs.com">
+  <attvalues>
+    <attvalue for="modularity class" value="3"/>
+  </attvalues>
+  <viz:position x="-53.054" y="-404.43"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="celebsnow.co.uk" label="celebsnow.co.uk">
+  <attvalues>
+    <attvalue for="modularity class" value="4"/>
+  </attvalues>
+  <viz:position x="-196.152" y="-292.893"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="champnews.com" label="champnews.com">
+  <attvalues>
+    <attvalue for="modularity class" value="5"/>
+  </attvalues>
+  <viz:position x="-382.683" y="-207.107"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+
 
 </nodes>
 
