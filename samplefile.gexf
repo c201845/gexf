@@ -2052,7 +2052,7 @@
 <edge id="1565" source="agdenrposten.no" target="Hidden Language Stipulations"/>
 <edge id="1566" source="bladet.no" target="Hidden Language Stipulations"/>
 <edge id="1567" source="budstika.no" target="Hidden Language Stipulations"/>
-<edge id="1568" source="newsinenglish.no.no" target="Hidden Language Stipulations"/>
+<edge id="1568" source="newsinenglish.no" target="Hidden Language Stipulations"/>
 
   
     </edges>
