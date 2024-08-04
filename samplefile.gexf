@@ -3286,6 +3286,18 @@
   <edge id="1746" source="maxim.com" target="Nagging"/>
   <edge id="1747" source="msn.com" target="Nagging"/>
   <edge id="1748" source="newint.org" target="Nagging"/>
+  <edge id="1749" source="news.kuwaittimes.net" target="Nagging"/>
+  <edge id="1750" source="news.postimees.ee" target="Nagging"/>
+  <edge id="1751" source="news.sky.com" target="Nagging"/>
+  <edge id="1752" source="news.vice.com" target="Nagging"/>
+  <edge id="1753" source="neweurope.eu" target="Nagging"/>
+  <edge id="1754" source="npr.org" target="Nagging"/>
+  <edge id="1755" source="ok.co.uk" target="Nagging"/>
+  <edge id="1756" source="oxfordjournals.org" target="Nagging"/>
+  <edge id="1757" source="opp.no" target="Nagging"/>
+  <edge id="1758" source="popsci.com" target="Nagging"/>
+  <edge id="1769" source="pressgazette.co.uk" target="Nagging"/>
+  <edge id="1770" source="pulmansweekly.co.uk" target="Nagging"/>
 
     </edges>
   </graph>
