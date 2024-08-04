@@ -2470,6 +2470,20 @@
 <edge id="1666" source="Forced Action"  target="newsinenglish.no"/>
 <edge id="1667" source="Forced Action"  target="horseanddrideuk.com"/>
 <edge id="1668" source="Additional Steps(e.g. Privacy Maze)"  target="unian.com"/>
+<edge id="1669" source="Forced Action"  target="eyunpsabrituncer.com"/>
+<edge id="1670" source="Forced Action"  target="euroweeklynews.com"/>
+<edge id="1671" source="Forced Action"  target="maltastar.com"/>
+<edge id="1672" source="Forced Action"  target="frootsmag.com"/>
+<edge id="1673" source="Forced Action"  target="icenews.is"/>
+<edge id="1674" source="Forced Action"  target="fla.de"/>
+<edge id="1675" source="Forced Action"  target="en.people.cn"/>
+<edge id="1676" source="Forced Action"  target="grapevine.is"/>
+<edge id="1677" source="Forced Action"  target="esa.int"/>
+<edge id="1678" source="Forced Action"  target="myspace.com"/>
+<edge id="1679" source="Forced Action" target="nlttimes.nl"/>
+<edge id="1680" source="Forced Action" target="netflix.com"/>
+<edge id="1681" source="Forced Action" target="net-a-porter.com"/>
+<edge id="1682" source="Forced Action"  target="medscape.com"/>
     </edges>
   </graph>
 </gexf>
