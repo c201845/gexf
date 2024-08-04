@@ -2261,7 +2261,7 @@
 <edge id="1594" source="economist.com" target="Roach Motel"/>
 <edge id="1595" source="bydogbilde.no" target="Roach Motel"/>
 <edge id="1596" source="firdatidend.no" target="Roach Motel"/>
-<edge id="1597" source="i-d.no" target="Roach Motel"/>
+<edge id="1597" source="i-d.co" target="Roach Motel"/>
 
   
     </edges>
