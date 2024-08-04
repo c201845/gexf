@@ -1828,7 +1828,6 @@
 
 </nodes>
 
-    </nodes>
     <edges>
       <edge id="896" source="Forced Action" target="mirror.co.uk" weight="2.0"/>
       <edge id="897" source="Forced Action" target="dragoer-nyt.dk" weight="3.0"/>
