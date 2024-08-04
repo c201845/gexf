@@ -1617,6 +1617,68 @@
   <viz:size value="10.0000"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
+<node id="bydogbilde.no" label="bydogbilde.no">
+  <attvalues>
+    <attvalue for="modularity class" value="0"/>
+  </attvalues>
+  <viz:position x="-1468.7815" y="-70.399611"/>
+  <viz:size value="10.0000"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+
+<node id="economist.com" label="economist.com">
+  <attvalues>
+    <attvalue for="modularity class" value="5"/>
+  </attvalues>
+  <viz:position x="-1610.7815" y="71.021789"/>
+  <viz:size value="10.0000"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+
+<node id="connectxiofrance.com" label="connectxiofrance.com">
+  <attvalues>
+    <attvalue for="modularity class" value="0"/>
+  </attvalues>
+  <viz:position x="-1410.7815" y="71.021789"/>
+  <viz:size value="10.0000"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+
+<node id="docpath.com" label="docpath.com">
+  <attvalues>
+    <attvalue for="modularity class" value="1"/>
+  </attvalues>
+   <viz:position x="-1468.7815" y="212.443189"/>
+  <viz:size value="10.0000"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+
+<node id="popularmechanics.com" label="popularmechanics.com">
+  <attvalues>
+    <attvalue for="modularity class" value="2"/>
+  </attvalues>
+  <viz:position x="-1610.7815" y="271.021789"/>
+  <viz:size value="10.0000"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+
+<node id="newsnow.co.uk" label="newsnow.co.uk">
+  <attvalues>
+    <attvalue for="modularity class" value="3"/>
+  </attvalues>
+ <viz:position x="-1810.7815" y="71.021789"/>
+  <viz:size value="10.0000"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+
+<node id="outdoorsg.com" label="outdoorsg.com">
+  <attvalues>
+    <attvalue for="modularity class" value="3"/>
+  </attvalues>
+  <viz:position x="-1352.7815" y="71.021789"/>
+  <viz:size value="10.0000"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
 
 
 
