@@ -3268,6 +3268,18 @@
   <edge id="1729" source="goruddalen.no" target="Nagging"/>
   <edge id="1730" source="google.com" target="Nagging"/>
   <edge id="1731" source="gooletimes.info" target="Nagging"/>
+
+<edge id="1732" source="huffpost.com" target="Nagging"/>
+  <edge id="1733" source="gunsandammo.com" target="Nagging"/>
+  <edge id="1734" source="hbr.org" target="Nagging"/>
+  <edge id="1735" source="henleystandard.co.uk" target="Nagging"/>
+  <edge id="1736" source="historytoday.com" target="Nagging"/>
+  <edge id="1737" source="idag.no" target="Nagging"/>
+  <edge id="1738" source="italiamia.com" target="Nagging"/>
+  <edge id="1739" source="irishnews.com" target="Nagging"/>
+  <edge id="1740" source="itv.com" target="Nagging"/>
+  <edge id="1741" source="kyivpost.com" target="Nagging"/>
+
     </edges>
   </graph>
 </gexf>
