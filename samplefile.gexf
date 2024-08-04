@@ -3298,7 +3298,12 @@
   <edge id="1758" source="popsci.com" target="Nagging"/>
   <edge id="1769" source="pressgazette.co.uk" target="Nagging"/>
   <edge id="1770" source="pulmansweekly.co.uk" target="Nagging"/>
-
+  <edge id="1771" source="pub.pl" target="Nagging"/>
+  <edge id="1772" source="phys.org" target="Nagging"/>
+  <edge id="1773" source="rollingstone.com" target="Nagging"/>
+  <edge id="1774" source="rt.com" target="Nagging"/>
+  <edge id="1775" source="sciencealert.com" target="Nagging"/>
+  <edge id="1776" source="skivefolkeblad.dk" target="Nagging"/>
     </edges>
   </graph>
 </gexf>
