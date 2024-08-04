@@ -2049,10 +2049,7 @@
 <edge id="1562" source="costume.no" target="p4.no"/>
 <edge id="1563" source="costume.no" target="sognavis.no"/>
 <edge id="1564" source="costume.no" target="tv2.no"/>
-<edge id="1565" source="agderposten.no" target="Hidden Language Stipulations"/>
-<edge id="1566" source="bladet.no" target="Hidden Language Stipulations"/>
-<edge id="1567" source="budstika.no" target="Hidden Language Stipulations"/>
-<edge id="1568" source="newsinenglish.no" target="Hidden Language Stipulations"/>
+
 
 
   
