@@ -1679,7 +1679,14 @@
   <viz:size value="10.0000"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
-
+<node id="i-d.co" label="i-d.co">
+        <attvalues>
+          <attvalue for="modularity class" value="3"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-1050.1055" y="-580.77936"/>
+        <viz:color r="128" g="107" b="104"/>
+</node>
 
 
 
@@ -2254,6 +2261,7 @@
 <edge id="1594" source="economist.com" target="Roach Motel"/>
 <edge id="1595" source="bydogbilde.no" target="Roach Motel"/>
 <edge id="1596" source="firdatidend.no" target="Roach Motel"/>
+<edge id="1597" source="i-d.no" target="Roach Motel"/>
 
   
     </edges>
