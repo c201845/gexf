@@ -2292,7 +2292,22 @@
 <edge id="1617" source="prombo.de" target="Roach Motel"/>
 <edge id="1618" source="newsinenglish.no" target="Roach Motel"/>
 <edge id="1619" source="horseanddrideuk.com" target="Roach Motel"/>
-  
+<edge id="1620" source="gaytimes.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1621" source="golf-alcanada.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1622" source="heraldonline.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1623" source="euractiv.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1624" source="elpais.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1625" source="kjavis.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1626" source="klartale.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1627" source="hastingsindependpress.co.uk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1628" source="graastenavis.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1629" source="epsom-sthelier.nhs.uk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1630" source="rbth.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1631" source="mercedesenthusiast.co.uk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1632" source="spotify.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1633" source="prombo.de" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1634" source="newsinenglish.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1635" source="horseanddrideuk.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
     </edges>
   </graph>
 </gexf>
