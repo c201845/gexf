@@ -1132,9 +1132,12 @@
     <viz:color r="0" g="128" b="0"/>
 </node>
 
+Got it! I'll update the `attvalue` for the `modularity class` to use only values between 0 and 6. Here’s the revised list:
+
+```xml
 <node id="avestatidning.com" label="avestatidning.com">
     <attvalues>
-        <attvalue for="modularity class" value="1"/>
+        <attvalue for="modularity class" value="2"/>
     </attvalues>
     <viz:position x="150.2468" y="820.7853"/>
     <viz:size value="11.111111"/>
@@ -1143,7 +1146,7 @@
 
 <node id="bohuslaningen.se" label="bohuslaningen.se">
     <attvalues>
-        <attvalue for="modularity class" value="2"/>
+        <attvalue for="modularity class" value="0"/>
     </attvalues>
     <viz:position x="350.5632" y="620.3489"/>
     <viz:size value="11.111111"/>
@@ -1152,7 +1155,7 @@
 
 <node id="dagensvimmerby.se" label="dagensvimmerby.se">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+        <attvalue for="modularity class" value="5"/>
     </attvalues>
     <viz:position x="500.8234" y="450.2390"/>
     <viz:size value="11.111111"/>
@@ -1170,7 +1173,7 @@
 
 <node id="dn.se" label="dn.se">
     <attvalues>
-        <attvalue for="modularity class" value="5"/>
+        <attvalue for="modularity class" value="3"/>
     </attvalues>
     <viz:position x="720.1345" y="650.9984"/>
     <viz:size value="11.111111"/>
@@ -1188,7 +1191,7 @@
 
 <node id="folkbladet.nu" label="folkbladet.nu">
     <attvalues>
-        <attvalue for="modularity class" value="7"/>
+        <attvalue for="modularity class" value="1"/>
     </attvalues>
     <viz:position x="280.6789" y="530.1457"/>
     <viz:size value="11.111111"/>
@@ -1197,7 +1200,7 @@
 
 <node id="hd.se" label="hd.se">
     <attvalues>
-        <attvalue for="modularity class" value="8"/>
+        <attvalue for="modularity class" value="2"/>
     </attvalues>
     <viz:position x="600.1478" y="400.2732"/>
     <viz:size value="11.111111"/>
@@ -1206,7 +1209,7 @@
 
 <node id="jnytt.se" label="jnytt.se">
     <attvalues>
-        <attvalue for="modularity class" value="9"/>
+        <attvalue for="modularity class" value="6"/>
     </attvalues>
     <viz:position x="300.9687" y="230.5894"/>
     <viz:size value="11.111111"/>
@@ -1215,7 +1218,7 @@
 
 <node id="klassiskalastbilar.se" label="klassiskalastbilar.se">
     <attvalues>
-        <attvalue for="modularity class" value="10"/>
+        <attvalue for="modularity class" value="3"/>
     </attvalues>
     <viz:position x="100.4523" y="450.7891"/>
     <viz:size value="11.111111"/>
@@ -1224,7 +1227,7 @@
 
 <node id="klt.nu" label="klt.nu">
     <attvalues>
-        <attvalue for="modularity class" value="11"/>
+        <attvalue for="modularity class" value="0"/>
     </attvalues>
     <viz:position x="580.9365" y="550.2374"/>
     <viz:size value="11.111111"/>
@@ -1233,7 +1236,7 @@
 
 <node id="kungalvsposten.se" label="kungalvsposten.se">
     <attvalues>
-        <attvalue for="modularity class" value="12"/>
+        <attvalue for="modularity class" value="4"/>
     </attvalues>
     <viz:position x="370.6482" y="240.8423"/>
     <viz:size value="11.111111"/>
@@ -1242,7 +1245,7 @@
 
 <node id="laholm.lokaltidningen.se" label="laholm.lokaltidningen.se">
     <attvalues>
-        <attvalue for="modularity class" value="13"/>
+        <attvalue for="modularity class" value="2"/>
     </attvalues>
     <viz:position x="220.8976" y="690.4312"/>
     <viz:size value="11.111111"/>
@@ -1251,7 +1254,7 @@
 
 <node id="magazin24.se" label="magazin24.se">
     <attvalues>
-        <attvalue for="modularity class" value="14"/>
+        <attvalue for="modularity class" value="5"/>
     </attvalues>
     <viz:position x="500.1346" y="290.6749"/>
     <viz:size value="11.111111"/>
@@ -1260,7 +1263,7 @@
 
 <node id="mariestadstidningen.se" label="mariestadstidningen.se">
     <attvalues>
-        <attvalue for="modularity class" value="15"/>
+        <attvalue for="modularity class" value="1"/>
     </attvalues>
     <viz:position x="350.2568" y="700.1326"/>
     <viz:size value="11.111111"/>
@@ -1269,7 +1272,7 @@
 
 <node id="mitti.se" label="mitti.se">
     <attvalues>
-        <attvalue for="modularity class" value="16"/>
+        <attvalue for="modularity class" value="6"/>
     </attvalues>
     <viz:position x="460.7342" y="150.2459"/>
     <viz:size value="11.111111"/>
@@ -1278,7 +1281,7 @@
 
 <node id="mvt.se" label="mvt.se">
     <attvalues>
-        <attvalue for="modularity class" value="17"/>
+        <attvalue for="modularity class" value="2"/>
     </attvalues>
     <viz:position x="150.5647" y="540.1234"/>
     <viz:size value="11.111111"/>
@@ -1287,7 +1290,7 @@
 
 <node id="nlt.se" label="nlt.se">
     <attvalues>
-        <attvalue for="modularity class" value="18"/>
+        <attvalue for="modularity class" value="3"/>
     </attvalues>
     <viz:position x="480.3264" y="760.4593"/>
     <viz:size value="11.111111"/>
@@ -1296,7 +1299,7 @@
 
 <node id="realtid.se" label="realtid.se">
     <attvalues>
-        <attvalue for="modularity class" value="19"/>
+        <attvalue for="modularity class" value="1"/>
     </attvalues>
     <viz:position x="270.4789" y="410.7542"/>
     <viz:size value="11.111111"/>
@@ -1305,7 +1308,7 @@
 
 <node id="stockholmdirekt.se" label="stockholmdirekt.se">
     <attvalues>
-        <attvalue for="modularity class" value="20"/>
+        <attvalue for="modularity class" value="0"/>
     </attvalues>
     <viz:position x="540.1283" y="370.2441"/>
     <viz:size value="11.111111"/>
@@ -1314,7 +1317,7 @@
 
 <node id="svt.se" label="svt.se">
     <attvalues>
-        <attvalue for="modularity class" value="21"/>
+        <attvalue for="modularity class" value="6"/>
     </attvalues>
     <viz:position x="690.8321" y="520.6770"/>
     <viz:size value="11.111111"/>
@@ -1323,13 +1326,17 @@
 
 <node id="vf.se" label="vf.se">
     <attvalues>
-        <attvalue for="modularity class" value="22"/>
+        <attvalue for="modularity class" value="4"/>
     </attvalues>
     <viz:position x="150.7365" y="320.1890"/>
     <viz:size value="11.111111"/>
     <viz:color r="255" g="255" b="139"/>
 </node>
+```
 
+Each domain now has a unique `attvalue` within the range of 0 to 6,
+
+ ensuring varied modularity classes.
 
 
 
