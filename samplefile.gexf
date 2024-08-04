@@ -1132,9 +1132,7 @@
     <viz:color r="0" g="128" b="0"/>
 </node>
 
-Got it! I'll update the `attvalue` for the `modularity class` to use only values between 0 and 6. Here’s the revised list:
 
-```xml
 <node id="avestatidning.com" label="avestatidning.com">
     <attvalues>
         <attvalue for="modularity class" value="2"/>
@@ -1335,161 +1333,180 @@ Got it! I'll update the `attvalue` for the `modularity class` to use only values
 
 <node id="aftenbladet.no" label="aftenbladet.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="500.000" y="0.000"/>
+    <viz:position x="100" y="50"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="altaposten.no" label="altaposten.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="469.846" y="154.508"/>
+    <viz:position x="200" y="100"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="arendalstidende.no" label="arendalstidende.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="404.508" y="293.893"/>
+    <viz:position x="300" y="200"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="costume.no" label="costume.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="309.017" y="404.508"/>
+    <viz:position x="400" y="300"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="dagbladet.no" label="dagbladet.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="192.388" y="469.846"/>
+    <viz:position x="500" y="400"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="demokraten.no" label="demokraten.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="70.589" y="404.508"/>
+    <viz:position x="600" y="500"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="dagen.no" label="dagen.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="-48.815" y="293.893"/>
+    <viz:position x="700" y="600"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="finansavisen.no" label="finansavisen.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="-154.508" y="154.508"/>
+    <viz:position x="800" y="700"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="firdatidend.no" label="firdatidend.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="-250.000" y="0.000"/>
+    <viz:position x="900" y="800"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="frostingen.no" label="frostingen.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="-154.508" y="-154.508"/>
+    <viz:position x="1000" y="900"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="geot365.no" label="geot365.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="-48.815" y="-293.893"/>
+    <viz:position x="1100" y="1000"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="groruddalen.no" label="groruddalen.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="70.589" y="-404.508"/>
+    <viz:position x="1200" y="1100"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="horecanytt.no" label="horecanytt.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="192.388" y="-469.846"/>
+    <viz:position x="1300" y="1200"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="illvit.no" label="illvit.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="309.017" y="-404.508"/>
+    <viz:position x="1400" y="1300"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="interiormagasinet.hegnar.no" label="interiormagasinet.hegnar.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="404.508" y="-293.893"/>
+    <viz:position x="1500" y="1400"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="klartale.no" label="klartale.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="469.846" y="-154.508"/>
+    <viz:position x="1600" y="1500"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="namdalsavisa.no" label="namdalsavisa.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="500.000" y="0.000"/>
+    <viz:position x="1700" y="1600"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="p4.no" label="p4.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="469.846" y="154.508"/>
+    <viz:position x="1800" y="1700"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="sognavis.no" label="sognavis.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="404.508" y="293.893"/>
+    <viz:position x="1900" y="1800"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
+
 <node id="tv2.no" label="tv2.no">
     <attvalues>
-        <attvalue for="modularity class" value="3"/>
+      <attvalue for="modularity class" value="3"/>
     </attvalues>
-    <viz:position x="309.017" y="404.508"/>
+    <viz:position x="2000" y="1900"/>
     <viz:size value="11.111111"/>
     <viz:color r="226" g="139" b="255"/>
 </node>
