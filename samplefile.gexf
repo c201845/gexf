@@ -2265,6 +2265,315 @@
 
 
 
+
+
+
+<node id="news.sky.com" label="news.sky.com">
+  <attvalues>
+    <attvalue for="modularity class" value="5"/>
+  </attvalues>
+  <viz:position x="-1000.0" y="-500.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="news.vice.com" label="news.vice.com">
+  <attvalues>
+    <attvalue for="modularity class" value="6"/>
+  </attvalues>
+  <viz:position x="-980.0" y="-692.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="neweurope.eu" label="neweurope.eu">
+  <attvalues>
+    <attvalue for="modularity class" value="0"/>
+  </attvalues>
+  <viz:position x="-920.0" y="-850.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="npr.org" label="npr.org">
+  <attvalues>
+    <attvalue for="modularity class" value="1"/>
+  </attvalues>
+  <viz:position x="-830.0" y="-960.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="ok.co.uk" label="ok.co.uk">
+  <attvalues>
+    <attvalue for="modularity class" value="2"/>
+  </attvalues>
+  <viz:position x="-700.0" y="-1010.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="oxfordjournals.org" label="oxfordjournals.org">
+  <attvalues>
+    <attvalue for="modularity class" value="3"/>
+  </attvalues>
+  <viz:position x="-560.0" y="-980.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="opp.no" label="opp.no">
+  <attvalues>
+    <attvalue for="modularity class" value="4"/>
+  </attvalues>
+  <viz:position x="-390.0" y="-930.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="popsci.com" label="popsci.com">
+  <attvalues>
+    <attvalue for="modularity class" value="5"/>
+  </attvalues>
+  <viz:position x="-200.0" y="-830.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="pressgazette.co.uk" label="pressgazette.co.uk">
+  <attvalues>
+    <attvalue for="modularity class" value="6"/>
+  </attvalues>
+  <viz:position x="-50.0" y="-710.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="pulmansweekly.co.uk" label="pulmansweekly.co.uk">
+  <attvalues>
+    <attvalue for="modularity class" value="0"/>
+  </attvalues>
+  <viz:position x="-10.0" y="-560.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="pub.pl" label="pub.pl">
+  <attvalues>
+    <attvalue for="modularity class" value="1"/>
+  </attvalues>
+  <viz:position x="-50.0" y="-410.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="phys.org" label="phys.org">
+  <attvalues>
+    <attvalue for="modularity class" value="2"/>
+  </attvalues>
+  <viz:position x="-200.0" y="-300.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="rollingstone.com" label="rollingstone.com">
+  <attvalues>
+    <attvalue for="modularity class" value="3"/>
+  </attvalues>
+  <viz:position x="-390.0" y="-210.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="rt.com" label="rt.com">
+  <attvalues>
+    <attvalue for="modularity class" value="4"/>
+  </attvalues>
+  <viz:position x="-560.0" y="-150.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="sciencealert.com" label="sciencealert.com">
+  <attvalues>
+    <attvalue for="modularity class" value="5"/>
+  </attvalues>
+  <viz:position x="-700.0" y="-130.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="skivefolkeblad.dk" label="skivefolkeblad.dk">
+  <attvalues>
+    <attvalue for="modularity class" value="6"/>
+  </attvalues>
+  <viz:position x="-830.0" y="-120.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="sltrib.com" label="sltrib.com">
+  <attvalues>
+    <attvalue for="modularity class" value="0"/>
+  </attvalues>
+  <viz:position x="-920.0" y="-180.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="sofiaglobe.com" label="sofiaglobe.com">
+  <attvalues>
+    <attvalue for="modularity class" value="1"/>
+  </attvalues>
+  <viz:position x="-980.0" y="-290.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="svenskamagasinet.nu" label="svenskamagasinet.nu">
+  <attvalues>
+    <attvalue for="modularity class" value="2"/>
+  </attvalues>
+  <viz:position x="-1000.0" y="-500.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="standard.co.uk" label="standard.co.uk">
+  <attvalues>
+    <attvalue for="modularity class" value="3"/>
+  </attvalues>
+  <viz:position x="-980.0" y="-690.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="steinkjeravisa.no" label="steinkjeravisa.no">
+  <attvalues>
+    <attvalue for="modularity class" value="4"/>
+  </attvalues>
+  <viz:position x="-920.0" y="-850.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="theatlantic.com" label="theatlantic.com">
+  <attvalues>
+    <attvalue for="modularity class" value="5"/>
+  </attvalues>
+  <viz:position x="-830.0" y="-960.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="thelocal.at" label="thelocal.at">
+  <attvalues>
+    <attvalue for="modularity class" value="0"/>
+  </attvalues>
+  <viz:position x="-20.0" y="-680.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="theolivepress.es" label="theolivepress.es">
+  <attvalues>
+    <attvalue for="modularity class" value="1"/>
+  </attvalues>
+  <viz:position x="-460.0" y="-350.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="thesun.co.uk" label="thesun.co.uk">
+  <attvalues>
+    <attvalue for="modularity class" value="2"/>
+  </attvalues>
+  <viz:position x="-680.0" y="-130.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="theverge.com" label="theverge.com">
+  <attvalues>
+    <attvalue for="modularity class" value="3"/>
+  </attvalues>
+  <viz:position x="-790.0" y="-570.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="thinkspain.com" label="thinkspain.com">
+  <attvalues>
+    <attvalue for="modularity class" value="4"/>
+  </attvalues>
+  <viz:position x="-240.0" y="-790.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="tmz.com" label="tmz.com">
+  <attvalues>
+    <attvalue for="modularity class" value="5"/>
+  </attvalues>
+  <viz:position x="-570.0" y="-240.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="tv4.se" label="tv4.se">
+  <attvalues>
+    <attvalue for="modularity class" value="6"/>
+  </attvalues>
+  <viz:position x="-120.0" y="-460.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="vogue.com" label="vogue.com">
+  <attvalues>
+    <attvalue for="modularity class" value="0"/>
+  </attvalues>
+  <viz:position x="-350.0" y="-570.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="webforum.org" label="webforum.org">
+  <attvalues>
+    <attvalue for="modularity class" value="1"/>
+  </attvalues>
+  <viz:position x="-680.0" y="-240.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="instagram.com" label="instagram.com">
+  <attvalues>
+    <attvalue for="modularity class" value="2"/>
+  </attvalues>
+  <viz:position x="-460.0" y="-790.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="etsy.com" label="etsy.com">
+  <attvalues>
+    <attvalue for="modularity class" value="3"/>
+  </attvalues>
+  <viz:position x="-790.0" y="-350.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="youTube.com" label="youTube.com">
+  <attvalues>
+    <attvalue for="modularity class" value="4"/>
+  </attvalues>
+  <viz:position x="-570.0" y="-680.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="basser.io" label="basser.io">
+  <attvalues>
+    <attvalue for="modularity class" value="5"/>
+  </attvalues>
+  <viz:position x="-240.0" y="-130.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="kaffe-partner.de" label="kaffe-partner.de">
+  <attvalues>
+    <attvalue for="modularity class" value="6"/>
+  </attvalues>
+  <viz:position x="-350.0" y="-460.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="virginradio.fr" label="virginradio.fr">
+  <attvalues>
+    <attvalue for="modularity class" value="0"/>
+  </attvalues>
+  <viz:position x="-790.0" y="-570.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="philipkingsley.co.uk" label="philipkingsley.co.uk">
+  <attvalues>
+    <attvalue for="modularity class" value="1"/>
+  </attvalues>
+  <viz:position x="-680.0" y="-790.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+
+
 </nodes>
 
     <edges>
