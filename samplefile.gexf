@@ -3258,7 +3258,16 @@
   <edge id="1720" source="ekathimerini.com" target="Nagging"/>
   <edge id="1721" source="en.rfi.fr" target="Nagging"/>
 
-
+  <edge id="1722" source="eu.poughkeepsiejournal.com" target="Nagging"/>
+  <edge id="1723" source="easterneye.biz" target="Nagging"/>
+  <edge id="1724" source="entrepreneur.com" target="Nagging"/>
+  <edge id="1725" source="eveningtimes.co.uk" target="Nagging"/>
+  <edge id="1726" source="flamman.se" target="Nagging"/>
+  <edge id="1727" source="fortune.com" target="Nagging"/>
+  <edge id="1728" source="gozo.news" target="Nagging"/>
+  <edge id="1729" source="goruddalen.no" target="Nagging"/>
+  <edge id="1730" source="google.com" target="Nagging"/>
+  <edge id="1731" source="gooletimes.info" target="Nagging"/>
     </edges>
   </graph>
 </gexf>
