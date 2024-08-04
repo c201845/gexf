@@ -3304,6 +3304,25 @@
   <edge id="1774" source="rt.com" target="Nagging"/>
   <edge id="1775" source="sciencealert.com" target="Nagging"/>
   <edge id="1776" source="skivefolkeblad.dk" target="Nagging"/>
+
+  <edge id="1777" source="theatlantic.com" target="Nagging"/>
+  <edge id="1778" source="thelocal.at" target="Nagging"/>
+  <edge id="1779" source="theolivepress.es" target="Nagging"/>
+  <edge id="1780" source="thesun.co.uk" target="Nagging"/>
+  <edge id="1781" source="theverge.com" target="Nagging"/>
+  <edge id="1782" source="thinkspain.com" target="Nagging"/>
+  <edge id="1783" source="tmz.com" target="Nagging"/>
+  <edge id="1784" source="tv4.se" target="Nagging"/>
+  <edge id="1785" source="vogue.com" target="Nagging"/>
+  <edge id="1786" source="webforum.org" target="Nagging"/>
+  <edge id="1787" source="instagram.com" target="Nagging"/>
+  <edge id="1788" source="etsy.com" target="Nagging"/>
+  <edge id="1789" source="youTube.com" target="Nagging"/>
+  <edge id="1790" source="basser.io" target="Nagging"/>
+  <edge id="1791" source="kaffe-partner.de" target="Nagging"/>
+  <edge id="1792" source="virginradio.fr" target="Nagging"/>
+  <edge id="1793" source="philipkingsley.co.uk" target="Nagging"/>
+
     </edges>
   </graph>
 </gexf>
