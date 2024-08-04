@@ -2387,9 +2387,6 @@
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
-
-
-
 <node id="sofiaglobe.com" label="sofiaglobe.com">
   <attvalues>
     <attvalue for="modularity class" value="1"/>
@@ -2415,6 +2412,32 @@
   <viz:color r="226" g="139" b="255"/>
 </node>
 
+
+
+<node id="kaffe-partner.de" label="kaffe-partner.de">
+  <attvalues>
+    <attvalue for="modularity class" value="6"/>
+  </attvalues>
+  <viz:position x="-1600.0" y="-460.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="virginradio.fr" label="virginradio.fr">
+  <attvalues>
+    <attvalue for="modularity class" value="0"/>
+  </attvalues>
+  <viz:position x="-1850.0" y="-570.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="philipkingsley.co.uk" label="philipkingsley.co.uk">
+  <attvalues>
+    <attvalue for="modularity class" value="1"/>
+  </attvalues>
+  <viz:position x="-1750.0" y="-790.0"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
 
 </nodes>
 
