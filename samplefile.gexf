@@ -2422,46 +2422,6 @@
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
-<node id="theatlantic.com" label="theatlantic.com">
-  <attvalues>
-    <attvalue for="modularity class" value="5"/>
-  </attvalues>
-  <viz:position x="-1900.0" y="-960.0"/>
-  <viz:size value="11.111111"/>
-  <viz:color r="226" g="139" b="255"/>
-</node>
-<node id="thelocal.at" label="thelocal.at">
-  <attvalues>
-    <attvalue for="modularity class" value="0"/>
-  </attvalues>
-  <viz:position x="-1500.0" y="-680.0"/>
-  <viz:size value="11.111111"/>
-  <viz:color r="226" g="139" b="255"/>
-</node>
-<node id="theolivepress.es" label="theolivepress.es">
-  <attvalues>
-    <attvalue for="modularity class" value="1"/>
-  </attvalues>
-  <viz:position x="-1650.0" y="-350.0"/>
-  <viz:size value="11.111111"/>
-  <viz:color r="226" g="139" b="255"/>
-</node>
-<node id="thesun.co.uk" label="thesun.co.uk">
-  <attvalues>
-    <attvalue for="modularity class" value="2"/>
-  </attvalues>
-  <viz:position x="-1750.0" y="-130.0"/>
-  <viz:size value="11.111111"/>
-  <viz:color r="226" g="139" b="255"/>
-</node>
-<node id="theverge.com" label="theverge.com">
-  <attvalues>
-    <attvalue for="modularity class" value="3"/>
-  </attvalues>
-  <viz:position x="-1850.0" y="-570.0"/>
-  <viz:size value="11.111111"/>
-  <viz:color r="226" g="139" b="255"/>
-</node>
 
 
 </nodes>
