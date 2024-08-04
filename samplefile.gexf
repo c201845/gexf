@@ -1958,78 +1958,78 @@
       <edge id="1473" source="sn.dk" target="Sneaking - Baith and Switch"/>
       <edge id="1474" source="tidende.dk" target="Sneaking - Baith and Switch"/>
 
-<edge id="1475" source="aalborgnu.dk" target="Hidden Language Stipulations"/>
-<edge id="1476" source="ballerupbladet.dk" target="Hidden Language Stipulations"/>
-<edge id="1477" source="berlingske.dk" target="Hidden Language Stipulations"/>
-<edge id="1478" source="borsen.dk" target="Hidden Language Stipulations"/>
-<edge id="1479" source="bornholm.nu" target="Hidden Language Stipulations"/>
-<edge id="1480" source="denkorteavis.dk" target="Hidden Language Stipulations"/>
-<edge id="1481" source="dknyt.dk" target="Hidden Language Stipulations"/>
-<edge id="1482" source="fjendsfolkeblad.dk" target="Hidden Language Stipulations"/>
-<edge id="1483" source="folketidende.dk" target="Hidden Language Stipulations"/>
-<edge id="1484" source="graastenavis.dk" target="Hidden Language Stipulations"/>
-<edge id="1485" source="herningfolkeblad.dk" target="Hidden Language Stipulations"/>
-<edge id="1486" source="information.dk" target="Hidden Language Stipulations"/>
-<edge id="1487" source="kristeligt-dagblad.dk" target="Hidden Language Stipulations"/>
-<edge id="1488" source="midtjyllandsavis.dk" target="Hidden Language Stipulations"/>
-<edge id="1489" source="nordjyske.dk" target="Hidden Language Stipulations"/>
-<edge id="1490" source="sallingavis.dk" target="Hidden Language Stipulations"/>
-<edge id="1491" source="skagensavis.dk" target="Hidden Language Stipulations"/>
-<edge id="1492" source="tv2bornholm.dk" target="Hidden Language Stipulations"/>
-<edge id="1493" source="ugeavisenkarup.dk" target="Hidden Language Stipulations"/>
-<edge id="1494" source="aalborgnu.dk" target="Hidden Language Stipulations"/>
-<edge id="1495" source="ballerupbladet.dk" target="Hidden Language Stipulations"/>
-<edge id="1496" source="berlingske.dk" target="Hidden Language Stipulations"/>
-<edge id="1497" source="borsen.dk" target="Hidden Language Stipulations"/>
-<edge id="1498" source="bornholm.nu" target="Hidden Language Stipulations"/>
-<edge id="1499" source="denkorteavis.dk" target="Hidden Language Stipulations"/>
-<edge id="1500" source="dknyt.dk" target="Hidden Language Stipulations"/>
-<edge id="1501" source="fjendsfolkeblad.dk" target="Hidden Language Stipulations"/>
-<edge id="1502" source="folketidende.dk" target="Hidden Language Stipulations"/>
-<edge id="1503" source="graastenavis.dk" target="Hidden Language Stipulations"/>
-<edge id="1504" source="herningfolkeblad.dk" target="Hidden Language Stipulations"/>
+<edge id="1475" source="aalborgnu.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1476" source="ballerupbladet.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1477" source="berlingske.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1478" source="borsen.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1479" source="bornholm.nu" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1480" source="denkorteavis.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1481" source="dknyt.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1482" source="fjendsfolkeblad.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1483" source="folketidende.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1484" source="graastenavis.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1485" source="herningfolkeblad.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1486" source="information.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1487" source="kristeligt-dagblad.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1488" source="midtjyllandsavis.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1489" source="nordjyske.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1490" source="sallingavis.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1491" source="skagensavis.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1492" source="tv2bornholm.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1493" source="ugeavisenkarup.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1494" source="aalborgnu.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1495" source="ballerupbladet.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1496" source="berlingske.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1497" source="borsen.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1498" source="bornholm.nu" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1499" source="denkorteavis.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1500" source="dknyt.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1501" source="fjendsfolkeblad.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1502" source="folketidende.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1503" source="graastenavis.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1504" source="herningfolkeblad.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 
-<edge id="1505" source="avestatidning.com" target="Hidden Language Stipulations"/>
-<edge id="1506" source="bohuslaningen.se" target="Hidden Language Stipulations"/>
-<edge id="1507" source="dagensvimmerby.se" target="Hidden Language Stipulations"/>
-<edge id="1508" source="direktpress.se" target="Hidden Language Stipulations"/>
-<edge id="1509" source="dn.se" target="Hidden Language Stipulations"/>
-<edge id="1510" source="expressen.se" target="Hidden Language Stipulations"/>
-<edge id="1511" source="folkbladet.nu" target="Hidden Language Stipulations"/>
-<edge id="1512" source="hd.se" target="Hidden Language Stipulations"/>
-<edge id="1513" source="jnytt.se" target="Hidden Language Stipulations"/>
-<edge id="1514" source="klassiskalastbilar.se" target="Hidden Language Stipulations"/>
-<edge id="1515" source="klt.nu" target="Hidden Language Stipulations"/>
-<edge id="1516" source="kungalvsposten.se" target="Hidden Language Stipulations"/>
-<edge id="1517" source="laholm.lokaltidningen.se" target="Hidden Language Stipulations"/>
-<edge id="1518" source="magazin24.se" target="Hidden Language Stipulations"/>
-<edge id="1519" source="mariestadstidningen.se" target="Hidden Language Stipulations"/>
-<edge id="1520" source="mitti.se" target="Hidden Language Stipulations"/>
-<edge id="1521" source="mvt.se" target="Hidden Language Stipulations"/>
-<edge id="1522" source="nlt.se" target="Hidden Language Stipulations"/>
-<edge id="1523" source="realtid.se" target="Hidden Language Stipulations"/>
-<edge id="1524" source="stockholmdirekt.se" target="Hidden Language Stipulations"/>
-<edge id="1525" source="svt.se" target="Hidden Language Stipulations"/>
-<edge id="1526" source="aftenbladet.no" target="Hidden Language Stipulations"/>
-<edge id="1527" source="altaposten.no" target="Hidden Language Stipulations"/>
-<edge id="1528" source="arendalstidende.no" target="Hidden Language Stipulations"/>
-<edge id="1529" source="costume.no" target="Hidden Language Stipulations"/>
-<edge id="1530" source="dagbladet.no" target="Hidden Language Stipulations"/>
-<edge id="1531" source="demokraten.no" target="Hidden Language Stipulations"/>
-<edge id="1532" source="dagen.no" target="Hidden Language Stipulations"/>
-<edge id="1533" source="finansavisen.no" target="Hidden Language Stipulations"/>
-<edge id="1534" source="firdatidend.no" target="Hidden Language Stipulations"/>
-<edge id="1535" source="frostingen.no" target="Hidden Language Stipulations"/>
-<edge id="1536" source="geot365.no" target="Hidden Language Stipulations"/>
-<edge id="1537" source="groruddalen.no" target="Hidden Language Stipulations"/>
-<edge id="1538" source="horecanytt.no" target="Hidden Language Stipulations"/>
-<edge id="1539" source="illvit.no" target="Hidden Language Stipulations"/>
-<edge id="1540" source="interiormagasinet.hegnar.no" target="Hidden Language Stipulations"/>
-<edge id="1541" source="klartale.no" target="Hidden Language Stipulations"/>
-<edge id="1542" source="namdalsavisa.no" target="Hidden Language Stipulations"/>
-<edge id="1543" source="p4.no" target="Hidden Language Stipulations"/>
-<edge id="1544" source="sognavis.no" target="Hidden Language Stipulations"/>
-<edge id="1545" source="tv2.no" target="Hidden Language Stipulations"/>
+<edge id="1505" source="avestatidning.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1506" source="bohuslaningen.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1507" source="dagensvimmerby.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1508" source="direktpress.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1509" source="dn.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1510" source="expressen.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1511" source="folkbladet.nu" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1512" source="hd.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1513" source="jnytt.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1514" source="klassiskalastbilar.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1515" source="klt.nu" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1516" source="kungalvsposten.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1517" source="laholm.lokaltidningen.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1518" source="magazin24.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1519" source="mariestadstidningen.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1520" source="mitti.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1521" source="mvt.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1522" source="nlt.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1523" source="realtid.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1524" source="stockholmdirekt.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1525" source="svt.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1526" source="aftenbladet.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1527" source="altaposten.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1528" source="arendalstidende.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1529" source="costume.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1530" source="dagbladet.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1531" source="demokraten.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1532" source="dagen.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1533" source="finansavisen.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1534" source="firdatidend.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1535" source="frostingen.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1536" source="geot365.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1537" source="groruddalen.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1538" source="horecanytt.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1539" source="illvit.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1540" source="interiormagasinet.hegnar.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1541" source="klartale.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1542" source="namdalsavisa.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1543" source="p4.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1544" source="sognavis.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1545" source="tv2.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>>
 <edge id="1546" source="costume.no" target="aftenbladet.no"/>
 <edge id="1547" source="costume.no" target="altaposten.no"/>
 <edge id="1548" source="costume.no" target="arendalstidende.no"/>
