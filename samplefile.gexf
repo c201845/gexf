@@ -1816,6 +1816,28 @@ Each domain now has a unique `attvalue` within the range of 0 to 6,
 <edge id="1503" source="graastenavis.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 <edge id="1504" source="herningfolkeblad.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 
+<edge id="1505" source="avestatidning.com" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1506" source="bohuslaningen.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1507" source="dagensvimmerby.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1508" source="direktpress.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1509" source="dn.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1510" source="expressen.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1512" source="folkbladet.nu" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1512" source="hd.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1513" source="jnytt.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1514" source="klassiskalastbilar.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1515" source="klt.nu" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1516" source="kungalvsposten.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1517" source="laholm.lokaltidningen.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1518" source="magazin24.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1519" source="mariestadstidningen.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1520" source="mitti.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1521" source="mvt.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1522" source="nlt.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1523" source="realtid.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1524" source="stockholmdirekt.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1525" source="svt.se" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+
 
   
     </edges>
