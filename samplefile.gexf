@@ -2097,7 +2097,12 @@
 <edge id="1566" source="agderposten.no" target="Hidden Language Stipulations"/>
 <edge id="1567" source="bladet.no" target="Hidden Language Stipulations"/>
 <edge id="1568" source="budstika.no" target="Hidden Language Stipulations"/>
-
+<edge id="1569" source="User Coercion(e.g. Cookie Wall)" target="avestatidning.com"/>
+<edge id="1570" source="User Coercion(e.g. Cookie Wall)" target="english.sta.si"/>
+<edge id="1571" source="User Coercion(e.g. Cookie Wall)" target="disneyplus.com"/>
+<edge id="1572" source="User Coercion(e.g. Cookie Wall)" target="dagogtid.no"/>
+<edge id="1573" source="User Coercion(e.g. Cookie Wall)" target="newyorker.com"/>
+<edge id="1574" source="User Coercion(e.g. Cookie Wall)" target="nbc.com"/>
   
     </edges>
   </graph>
