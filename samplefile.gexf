@@ -474,7 +474,7 @@
         <viz:position x="-698.2391" y="-902.8502"/>
         <viz:color r="0" g="199" b="255"/>
       </node>
-      <node id="newsinenglish" label="newsinenglish">
+      <node id="newsinenglish.no" label="newsinenglish.no">
         <attvalues>
           <attvalue for="modularity class" value="4"/>
         </attvalues>
@@ -1552,13 +1552,13 @@
       <edge id="938" source="surinenglish.com" target="aduna.com"/>
       <edge id="940" source="surinenglish.com" target="dailymail.co.uk" weight="2.0"/>
       <edge id="941" source="guitarplayer.com" target="Sneaking - Baith and Switch"/>
-      <edge id="944" source="elpais.com" target="newsinenglish"/>
+      <edge id="944" source="elpais.com" target="newsinenglish.no"/>
       <edge id="945" source="elpais.com" target="nsk.se"/>
       <edge id="946" source="elpais.com" target="channel4.com"/>
       <edge id="948" source="english.radio" target="independent.co.uk" weight="2.0"/>
-      <edge id="949" source="english.radio" target="newsinenglish"/>
+      <edge id="949" source="english.radio" target="newsinenglish.no"/>
       <edge id="950" source="english.radio" target="channel4.com"/>
-      <edge id="951" source="independent.co.uk" target="newsinenglish"/>
+      <edge id="951" source="independent.co.uk" target="newsinenglish.no"/>
       <edge id="952" source="heraldonline.com" target="english.radio"/>
       <edge id="954" source="livescience.com" target="nsk.se" weight="2.0"/>
       <edge id="960" source="surinenglish.com" target="guitarplayer.com"/>
@@ -1569,7 +1569,7 @@
       <edge id="967" source="livescience.com" target="Sneaking - Baith and Switch" weight="4.0"/>
       <edge id="968" source="livescience.com" target="Social Engineering"/>
       <edge id="969" source="livescience.com" target="independent.co.uk" weight="2.0"/>
-      <edge id="971" source="livescience.com" target="newsinenglish"/>
+      <edge id="971" source="livescience.com" target="newsinenglish.no"/>
       <edge id="973" source="livescience.com" target="heraldonline.com" weight="2.0"/>
       <edge id="974" source="Social Engineering" target="independent.co.uk"/>
       <edge id="975" source="Social Engineering" target="Sneaking - Baith and Switch"/>
@@ -2050,7 +2050,10 @@
 <edge id="1563" source="costume.no" target="sognavis.no"/>
 <edge id="1564" source="costume.no" target="tv2.no"/>
 
-
+<edge id="1565" source="newsinenglish.no" target="Hidden Language Stipulations"/>
+<edge id="1566" source="agderposten.no" target="Hidden Language Stipulations"/>
+<edge id="1567" source="bladet.no" target="Hidden Language Stipulations"/>
+<edge id="1568" source="budstika.no" target="Hidden Language Stipulations"/>
 
   
     </edges>
