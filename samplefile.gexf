@@ -2379,30 +2379,6 @@
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
-<node id="sltrib.com" label="sltrib.com">
-  <attvalues>
-    <attvalue for="modularity class" value="0"/>
-  </attvalues>
-  <viz:position x="-2000.0" y="-180.0"/>
-  <viz:size value="11.111111"/>
-  <viz:color r="226" g="139" b="255"/>
-</node>
-<node id="sofiaglobe.com" label="sofiaglobe.com">
-  <attvalues>
-    <attvalue for="modularity class" value="1"/>
-  </attvalues>
-  <viz:position x="-2050.0" y="-290.0"/>
-  <viz:size value="11.111111"/>
-  <viz:color r="226" g="139" b="255"/>
-</node>
-<node id="svenskamagasinet.nu" label="svenskamagasinet.nu">
-  <attvalues>
-    <attvalue for="modularity class" value="2"/>
-  </attvalues>
-  <viz:position x="-2100.0" y="-500.0"/>
-  <viz:size value="11.111111"/>
-  <viz:color r="226" g="139" b="255"/>
-</node>
 <node id="steinkjeravisa.no" label="steinkjeravisa.no">
   <attvalues>
     <attvalue for="modularity class" value="4"/>
