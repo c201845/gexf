@@ -2498,6 +2498,8 @@
 <edge id="1694" source="Roach Motel" target="netflix.com"/>
 <edge id="1695" source="Roach Motel" target="net-a-porter.com"/>
 <edge id="1696" source="Roach Motel"  target="medscape.com"/>
+<edge id="1697" source="aars.dk"  target="Forced Action"/>
+<edge id="1698" source="nbc.com"  target="Forced Action"/>
 
     </edges>
   </graph>
