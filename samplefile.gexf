@@ -3279,6 +3279,13 @@
   <edge id="1739" source="irishnews.com" target="Nagging"/>
   <edge id="1740" source="itv.com" target="Nagging"/>
   <edge id="1741" source="kyivpost.com" target="Nagging"/>
+  <edge id="1742" source="leveller.live" target="Nagging"/>
+  <edge id="1743" source="latinaamericanpost.com" target="Nagging"/>
+  <edge id="1744" source="maritimt.com" target="Nagging"/>
+  <edge id="1745" source="mittmedium.no" target="Nagging"/>
+  <edge id="1746" source="maxim.com" target="Nagging"/>
+  <edge id="1747" source="msn.com" target="Nagging"/>
+  <edge id="1748" source="newint.org" target="Nagging"/>
 
     </edges>
   </graph>
