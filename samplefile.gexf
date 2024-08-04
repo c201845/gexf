@@ -3253,7 +3253,7 @@
   <edge id="1730" source="google.com" target="Nagging"/>
   <edge id="1731" source="gooletimes.info" target="Nagging"/>
 
-<edge id="1732" source="huffpost.com" target="Nagging"/>
+ <edge id="1732" source="huffpost.com" target="Nagging"/>
   <edge id="1733" source="gunsandammo.com" target="Nagging"/>
   <edge id="1734" source="hbr.org" target="Nagging"/>
   <edge id="1735" source="henleystandard.co.uk" target="Nagging"/>
@@ -3307,6 +3307,102 @@
   <edge id="1792" source="virginradio.fr" target="Nagging"/>
   <edge id="1793" source="philipkingsley.co.uk" target="Nagging"/>
   <edge id="1794" source="torbaytimes.co.uk" target="Nagging"/>
+
+
+
+
+  
+  <edge id="1795" source="aa.com.tr" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1796" source="advertisegleam.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1797" source="bigthink.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1798" source="brixtonblog.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1799" source="bangkokpost.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1800" source="basingstokeobserver.co.uk" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1802" source="bikemag.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1803" source="bradfordian.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1804" source="businesspost.ie" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1805" source="buzzfeed.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1806" source="cbs.com" target="User Coercion(e.g. Cookie Wall)"/>
+
+  <edge id="1807" source="celebsnow.co.uk" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1808" source="champnews.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1809" source="christiantoday.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1810" source="cosmopolitan.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1811" source="camdennewjournal.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1812" source="delano.lu" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1813" source="dailysabah.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1814" source="dailypost.co.uk" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1815" source="dazeddigital.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1816" source="deliciousmagazine.co.uk" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1817" source="ekathimerini.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1818" source="en.rfi.fr" target="User Coercion(e.g. Cookie Wall)"/>
+
+  <edge id="1819" source="eu.poughkeepsiejournal.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1820" source="easterneye.biz" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1821" source="entrepreneur.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1822" source="eveningtimes.co.uk" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1823" source="flamman.se" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1824" source="fortune.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1825" source="gozo.news" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1826" source="goruddalen.no" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1827" source="google.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1828" source="gooletimes.info" target="User Coercion(e.g. Cookie Wall)"/>
+
+ <edge id="1829" source="huffpost.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1830" source="gunsandammo.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1831" source="hbr.org" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1732" source="henleystandard.co.uk" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1733" source="historytoday.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1734" source="idag.no" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1735" source="italiamia.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1736" source="irishnews.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1737" source="itv.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1738" source="kyivpost.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1739" source="leveller.live" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1740" source="latinaamericanpost.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1741" source="maritimt.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1742" source="mittmedium.no" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1743" source="maxim.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1744" source="msn.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1745" source="newint.org" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1746" source="news.kuwaittimes.net" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1747" source="news.postimees.ee" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1748" source="news.sky.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1749" source="news.vice.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1750" source="neweurope.eu" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1751" source="npr.org" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1752" source="ok.co.uk" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1753" source="oxfordjournals.org" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1754" source="opp.no" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1755" source="popsci.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1756" source="pressgazette.co.uk" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1757" source="pulmansweekly.co.uk" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1758" source="pub.pl" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1759" source="phys.org" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1760" source="rollingstone.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1761" source="rt.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1762" source="sciencealert.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1763" source="skivefolkeblad.dk" target="User Coercion(e.g. Cookie Wall)"/>
+
+  <edge id="1764" source="theatlantic.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1765" source="thelocal.at" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1766" source="theolivepress.es" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1767" source="thesun.co.uk" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1768" source="theverge.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1769" source="thinkspain.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1770" source="tmz.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1771" source="tv4.se" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1772" source="vogue.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1773" source="webforum.org" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1774" source="instagram.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1775" source="etsy.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1776" source="youTube.com" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1777" source="basser.io" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1778" source="kaffe-partner.de" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1779" source="virginradio.fr" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1780" source="philipkingsley.co.uk" target="User Coercion(e.g. Cookie Wall)"/>
+  <edge id="1781" source="torbaytimes.co.uk" target="User Coercion(e.g. Cookie Wall)"/>
+
     </edges>
   </graph>
 </gexf>
