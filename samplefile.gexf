@@ -1579,36 +1579,36 @@
       <edge id="1473" source="sn.dk" target="Sneaking - Baith and Switch"/>
       <edge id="1474" source="tidende.dk" target="Sneaking - Baith and Switch"/>
 
-<edge id="1475" source="aalborgnu.dk" target="Choice Fatigue"/>
-<edge id="1476" source="ballerupbladet.dk" target="Choice Fatigue"/>
-<edge id="1477" source="berlingske.dk" target="Misdirection"/>
-<edge id="1478" source="borsen.dk" target="Sensory Manipulation"/>
-<edge id="1479" source="bornholm.nu" target="Choice Fatigue"/>
-<edge id="1480" source="denkorteavis.dk" target="Misdirection"/>
-<edge id="1481" source="dknyt.dk" target="Sensory Manipulation"/>
-<edge id="1482" source="fjendsfolkeblad.dk" target="Choice Fatigue"/>
-<edge id="1483" source="folketidende.dk" target="Misdirection"/>
-<edge id="1484" source="graastenavis.dk" target="Sensory Manipulation"/>
-<edge id="1485" source="herningfolkeblad.dk" target="Choice Fatigue"/>
-<edge id="1486" source="information.dk" target="Misdirection"/>
-<edge id="1487" source="kristeligt-dagblad.dk" target="Sensory Manipulation"/>
-<edge id="1488" source="midtjyllandsavis.dk" target="Choice Fatigue"/>
-<edge id="1489" source="nordjyske.dk" target="Misdirection"/>
-<edge id="1490" source="sallingavis.dk" target="Sensory Manipulation"/>
-<edge id="1491" source="skagensavis.dk" target="Choice Fatigue"/>
-<edge id="1492" source="tv2bornholm.dk" target="Misdirection"/>
-<edge id="1493" source="ugeavisenkarup.dk" target="Sensory Manipulation"/>
-<edge id="1494" source="aalborgnu.dk" target="Sensory Manipulation"/>
-<edge id="1495" source="ballerupbladet.dk" target="Misdirection"/>
-<edge id="1496" source="berlingske.dk" target="Choice Fatigue"/>
-<edge id="1497" source="borsen.dk" target="Sensory Manipulation"/>
-<edge id="1498" source="bornholm.nu" target="Misdirection"/>
-<edge id="1499" source="denkorteavis.dk" target="Choice Fatigue"/>
-<edge id="1500" source="dknyt.dk" target="Sensory Manipulation"/>
-<edge id="1501" source="fjendsfolkeblad.dk" target="Misdirection"/>
-<edge id="1502" source="folketidende.dk" target="Choice Fatigue"/>
-<edge id="1503" source="graastenavis.dk" target="Sensory Manipulation"/>
-<edge id="1504" source="herningfolkeblad.dk" target="Choice Fatigue"/>
+<edge id="1475" source="aalborgnu.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1476" source="ballerupbladet.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1477" source="berlingske.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1478" source="borsen.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1479" source="bornholm.nu" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1480" source="denkorteavis.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1481" source="dknyt.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1482" source="fjendsfolkeblad.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1483" source="folketidende.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1484" source="graastenavis.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1485" source="herningfolkeblad.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1486" source="information.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1487" source="kristeligt-dagblad.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1488" source="midtjyllandsavis.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1489" source="nordjyske.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1490" source="sallingavis.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1491" source="skagensavis.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1492" source="tv2bornholm.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1493" source="ugeavisenkarup.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1494" source="aalborgnu.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1495" source="ballerupbladet.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1496" source="berlingske.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1497" source="borsen.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1498" source="bornholm.nu" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1499" source="denkorteavis.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1500" source="dknyt.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1501" source="fjendsfolkeblad.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1502" source="folketidende.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1503" source="graastenavis.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1504" source="herningfolkeblad.dk" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 
 
   
