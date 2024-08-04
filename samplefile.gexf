@@ -2030,6 +2030,25 @@
 <edge id="1543" source="p4.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 <edge id="1544" source="sognavis.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
 <edge id="1545" source="tv2.no" target="Interface Inference (e.g. Choice Fatigue, Misdirection, Sensory Manipulation)"/>
+<edge id="1546" source="costume.no" target="aftenbladet.no"/>
+<edge id="1547" source="costume.no" target="altaposten.no"/>
+<edge id="1548" source="costume.no" target="arendalstidende.no"/>
+<edge id="1549" source="costume.no" target="dagbladet.no"/>
+<edge id="1550" source="costume.no" target="demokraten.no"/>
+<edge id="1551" source="costume.no" target="dagen.no"/>
+<edge id="1552" source="costume.no" target="finansavisen.no"/>
+<edge id="1553" source="costume.no" target="firdatidend.no"/>
+<edge id="1554" source="costume.no" target="frostingen.no"/>
+<edge id="1555" source="costume.no" target="geot365.no"/>
+<edge id="1556" source="costume.no" target="groruddalen.no"/>
+<edge id="1557" source="costume.no" target="horecanytt.no"/>
+<edge id="1558" source="costume.no" target="illvit.no"/>
+<edge id="1559" source="costume.no" target="interiormagasinet.hegnar.no"/>
+<edge id="1560" source="costume.no" target="klartale.no"/>
+<edge id="1561" source="costume.no" target="namdalsavisa.no"/>
+<edge id="1562" source="costume.no" target="p4.no"/>
+<edge id="1563" source="costume.no" target="sognavis.no"/>
+<edge id="1564" source="costume.no" target="tv2.no"/>
 
 
   
