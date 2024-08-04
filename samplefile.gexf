@@ -1857,6 +1857,30 @@
   <viz:size value="11.111111"/>
   <viz:color r="226" g="139" b="255"/>
 </node>
+<node id="bangkomkpost.com" label="bangkomkpost.com">
+  <attvalues>
+    <attvalue for="modularity class" value="4"/>
+  </attvalues>
+  <viz:position x="-707.107" y="-1007.107"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="basingstokeobserver.co.uk" label="basingstokeobserver.co.uk">
+  <attvalues>
+    <attvalue for="modularity class" value="5"/>
+  </attvalues>
+  <viz:position x="-555.57" y="-980.785"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
+<node id="bikemag.com" label="bikemag.com">
+  <attvalues>
+    <attvalue for="modularity class" value="6"/>
+  </attvalues>
+  <viz:position x="-382.683" y="-923.88"/>
+  <viz:size value="11.111111"/>
+  <viz:color r="226" g="139" b="255"/>
+</node>
 
 
 </nodes>
